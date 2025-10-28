@@ -1,0 +1,343 @@
+{
+  "id": "11",
+  "slug": "harsha-institute-of-nursing",
+  "name": "HARSHA INSTITUTE OF NURSING",
+  "description": "Harsha Institute of Nursing & Allied Health offers programmes in nursing, physiotherapy, pharmacy, medical lab technology and allied health sciences with strong clinical exposure.",
+  "accreditation": [
+    "State Nursing Council recognition (as applicable)",
+    "Indian Nursing Council (INC) recognition (as applicable)",
+    "Pharmacy Council of India (PCI) approval for applicable programmes"
+  ],
+  "awards": [
+    "Institutional/academic recognitions (recent cycles)"
+  ],
+  "website": "",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "harsha-institute-of-nursing-bsc-1",
+      "courseName": "BSc",
+      "specialization": "Nursing",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-p.b.b.sc-1",
+      "courseName": "P.B.B.Sc",
+      "specialization": "Nursing",
+      "duration": "",
+      "eligibility": "GNM pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-m.sc-1",
+      "courseName": "M.Sc",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "B.Sc Nursing or P.B.B.Sc Nursing",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-diploma-1",
+      "courseName": "Diploma",
+      "specialization": "General Nursing & Midwifery",
+      "duration": "",
+      "eligibility": "12th pass (preferably Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-b.e-1",
+      "courseName": "B.E",
+      "specialization": "Computer Science & Engineering (AI & ML)",
+      "duration": "",
+      "eligibility": "12th pass with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-b.e-2",
+      "courseName": "B.E",
+      "specialization": "Computer Science & Engineering (Data Science)",
+      "duration": "",
+      "eligibility": "12th pass with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-b.e-3",
+      "courseName": "B.E",
+      "specialization": "Computer Science & Engineering (Cyber Security)",
+      "duration": "",
+      "eligibility": "12th pass with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-b.e-4",
+      "courseName": "B.E",
+      "specialization": "Information Science & Engineering",
+      "duration": "",
+      "eligibility": "12th pass with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-b.e-5",
+      "courseName": "B.E",
+      "specialization": "Electronics & Communication Engineering",
+      "duration": "",
+      "eligibility": "12th pass with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-bpt-1",
+      "courseName": "BPT",
+      "specialization": "Physiotherapy",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-mpt-1",
+      "courseName": "MPT",
+      "specialization": "Physiotherapy",
+      "duration": "",
+      "eligibility": "BPT pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-b.pharm-1",
+      "courseName": "B.Pharm",
+      "specialization": "Pharmacy",
+      "duration": "",
+      "eligibility": "12th pass with PCB/M",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-diploma-2",
+      "courseName": "Diploma",
+      "specialization": "Pharmacy",
+      "duration": "",
+      "eligibility": "12th pass with PCB/M",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-bsc-2",
+      "courseName": "BSc",
+      "specialization": "Medical Lab Technology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-bsc-3",
+      "courseName": "BSc",
+      "specialization": "Imaging Technology (MRI/CT Scan Technician)",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-bsc-4",
+      "courseName": "BSc",
+      "specialization": "Operation Technology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-bsc-5",
+      "courseName": "BSc",
+      "specialization": "Perfusion Technology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-bsc-6",
+      "courseName": "BSc",
+      "specialization": "Optometry",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-bsc-7",
+      "courseName": "BSc",
+      "specialization": "Renal Dialysis Technology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-bsc-8",
+      "courseName": "BSc",
+      "specialization": "Operation & Anaesthesia Technology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-bsc-9",
+      "courseName": "BSc",
+      "specialization": "Emergency Medicine & Trauma Care Technology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-diploma-3",
+      "courseName": "Diploma",
+      "specialization": "Medical Lab Technology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-diploma-4",
+      "courseName": "Diploma",
+      "specialization": "Medical Imaging Technology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-diploma-5",
+      "courseName": "Diploma",
+      "specialization": "Operation Theatre & Anaesthesia Technology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-diploma-6",
+      "courseName": "Diploma",
+      "specialization": "Dialysis Technology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-diploma-7",
+      "courseName": "Diploma",
+      "specialization": "Ophthalmic Technology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-bba-1",
+      "courseName": "BBA",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-b.com-1",
+      "courseName": "B.Com",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-bba-2",
+      "courseName": "BBA",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-b.com-2",
+      "courseName": "B.Com",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-bca-1",
+      "courseName": "BCA",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th pass with Mathematics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-bsc-10",
+      "courseName": "BSc",
+      "specialization": "Forensic Sciences",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-ba-b.ed-1",
+      "courseName": "BA-B.Ed",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-bsc-11",
+      "courseName": "BSc",
+      "specialization": "B.Ed",
+      "duration": "",
+      "eligibility": "12th pass with PCM or PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-mba-1",
+      "courseName": "MBA",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Graduation in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "harsha-institute-of-nursing-mca-1",
+      "courseName": "MCA",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Graduation with Mathematics at 10+2 or Degree level",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

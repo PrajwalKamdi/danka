@@ -1,0 +1,63 @@
+{
+  "id": "16",
+  "slug": "ioms-group-of-institute",
+  "name": "IOMS Group of Institute",
+  "description": "IOMS Group of Institute offers MBA specialisations with an industry-oriented curriculum, projects and placement support.",
+  "accreditation": [
+    "AICTE approval (as applicable)",
+    "Affiliated to state university (as applicable)"
+  ],
+  "awards": [
+    "Institutional recognitions/ratings (recent cycles)"
+  ],
+  "website": "",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "ioms-group-of-institute-mba-1",
+      "courseName": "MBA",
+      "specialization": "Marketing Management",
+      "duration": "",
+      "eligibility": "Graduation in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ioms-group-of-institute-mba-2",
+      "courseName": "MBA",
+      "specialization": "Financial Management",
+      "duration": "",
+      "eligibility": "Graduation in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ioms-group-of-institute-mba-3",
+      "courseName": "MBA",
+      "specialization": "Human Resource Management",
+      "duration": "",
+      "eligibility": "Graduation in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ioms-group-of-institute-mba-4",
+      "courseName": "MBA",
+      "specialization": "Operations And Supply Chain Management",
+      "duration": "",
+      "eligibility": "Graduation in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ioms-group-of-institute-mba-5",
+      "courseName": "MBA",
+      "specialization": "Business Analytics",
+      "duration": "",
+      "eligibility": "Graduation in any stream",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

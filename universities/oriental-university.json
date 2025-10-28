@@ -1,0 +1,1305 @@
+{
+  "id": "13",
+  "slug": "oriental-university",
+  "name": "Oriental University",
+  "description": "Oriental University (Indore, Madhya Pradesh) offers programmes across agriculture, allied health, engineering, management, commerce and computer applications with application‑oriented curricula.",
+  "accreditation": [
+    "UGC recognition (State Private University)",
+    "AICTE/PCI approvals for applicable programmes (as applicable)"
+  ],
+  "awards": [
+    "Institutional recognitions/ratings (recent cycles)"
+  ],
+  "website": "",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "oriental-university-bsc-(hons)-agriculture-1",
+      "courseName": "BSc (Hons) Agriculture",
+      "specialization": "Natural Farming",
+      "duration": "",
+      "eligibility": "10+2 with Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-msc-(agriculture)-1",
+      "courseName": "MSc (Agriculture)",
+      "specialization": "Agronomy",
+      "duration": "",
+      "eligibility": "BSc in Agriculture",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-msc-(agriculture)-2",
+      "courseName": "MSc (Agriculture)",
+      "specialization": "Genetics & Plant Breeding",
+      "duration": "",
+      "eligibility": "BSc in Agriculture",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-msc-(agriculture)-3",
+      "courseName": "MSc (Agriculture)",
+      "specialization": "Horticulture Science",
+      "duration": "",
+      "eligibility": "BSc in Agriculture",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-msc-(agriculture)-4",
+      "courseName": "MSc (Agriculture)",
+      "specialization": "Plant Pathology",
+      "duration": "",
+      "eligibility": "BSc in Agriculture",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-allied-healthcare-1",
+      "courseName": "BSc Allied Healthcare",
+      "specialization": "Cardio-Vascular Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-allied-healthcare-2",
+      "courseName": "BSc Allied Healthcare",
+      "specialization": "Medical Lab Technology (MLT)",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-allied-healthcare-3",
+      "courseName": "BSc Allied Healthcare",
+      "specialization": "Operation Theatre & Anesthesia Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-allied-healthcare-4",
+      "courseName": "BSc Allied Healthcare",
+      "specialization": "Optometry",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-allied-healthcare-5",
+      "courseName": "BSc Allied Healthcare",
+      "specialization": "Radiology Technology (RLT)",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-(hons)-allied-health-1",
+      "courseName": "BSc (Hons) Allied Health",
+      "specialization": "Cardio-Vascular Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-(hons)-allied-health-2",
+      "courseName": "BSc (Hons) Allied Health",
+      "specialization": "Medical Lab Technology (MLT)",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-(hons)-allied-health-3",
+      "courseName": "BSc (Hons) Allied Health",
+      "specialization": "Operation Theatre & Anesthesia Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-(hons)-allied-health-4",
+      "courseName": "BSc (Hons) Allied Health",
+      "specialization": "Optometry",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-(hons)-allied-health-5",
+      "courseName": "BSc (Hons) Allied Health",
+      "specialization": "Radiology Technology (RLT)",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-msc-allied-health-1",
+      "courseName": "MSc Allied Health",
+      "specialization": "Cardio-Vascular Technology",
+      "duration": "",
+      "eligibility": "BSc in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-msc-allied-health-2",
+      "courseName": "MSc Allied Health",
+      "specialization": "Medical Lab Technology (MLT)",
+      "duration": "",
+      "eligibility": "BSc in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-msc-allied-health-3",
+      "courseName": "MSc Allied Health",
+      "specialization": "Operation Theatre & Anesthesia Technology",
+      "duration": "",
+      "eligibility": "BSc in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-msc-allied-health-4",
+      "courseName": "MSc Allied Health",
+      "specialization": "Optometry",
+      "duration": "",
+      "eligibility": "BSc in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-msc-allied-health-5",
+      "courseName": "MSc Allied Health",
+      "specialization": "Radiology Technology (RLT)",
+      "duration": "",
+      "eligibility": "BSc in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-phd-1",
+      "courseName": "PhD",
+      "specialization": "Allied Healthcare",
+      "duration": "",
+      "eligibility": "Master’s in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bcom-1",
+      "courseName": "BCom",
+      "specialization": "Computer Applications",
+      "duration": "",
+      "eligibility": "10+2 with Commerce",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bcom-2",
+      "courseName": "BCom",
+      "specialization": "Taxation",
+      "duration": "",
+      "eligibility": "10+2 with Commerce",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mcom-1",
+      "courseName": "MCom",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "BCom",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-phd-2",
+      "courseName": "PhD",
+      "specialization": "Commerce",
+      "duration": "",
+      "eligibility": "Master’s in Commerce",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bca-1",
+      "courseName": "BCA",
+      "specialization": "Artificial Intelligence and Data Analysis",
+      "duration": "",
+      "eligibility": "10+2 with Math/Computer Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bca-2",
+      "courseName": "BCA",
+      "specialization": "Data Science and Data Visualization",
+      "duration": "",
+      "eligibility": "10+2 with Math/Computer Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bca-3",
+      "courseName": "BCA",
+      "specialization": "Full Stack Development",
+      "duration": "",
+      "eligibility": "10+2 with Math/Computer Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mca-1",
+      "courseName": "MCA",
+      "specialization": "Artificial Intelligence and Machine Learning",
+      "duration": "",
+      "eligibility": "BCA or BSc in CS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mca-2",
+      "courseName": "MCA",
+      "specialization": "Full Stack Development",
+      "duration": "",
+      "eligibility": "BCA or BSc in CS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-phd-3",
+      "courseName": "PhD",
+      "specialization": "Computer Science & Applications",
+      "duration": "",
+      "eligibility": "Master’s in Computer Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bdes-1",
+      "courseName": "BDes",
+      "specialization": "Fashion Design",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bdes-2",
+      "courseName": "BDes",
+      "specialization": "UI/UX",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-phd-4",
+      "courseName": "PhD",
+      "specialization": "Design",
+      "duration": "",
+      "eligibility": "Master’s in Design",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bed-1",
+      "courseName": "BEd",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bed-(parttime)-1",
+      "courseName": "BEd (PartTime)",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-med-1",
+      "courseName": "MEd",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "BEd",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-itep-1",
+      "courseName": "ITEP",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-phd-5",
+      "courseName": "PhD",
+      "specialization": "Education",
+      "duration": "",
+      "eligibility": "MEd or MA (Edu)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-diploma-in-engg.-1",
+      "courseName": "Diploma in Engg.",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-diploma-in-engg.-2",
+      "courseName": "Diploma in Engg.",
+      "specialization": "Computer Science and Engineering",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-diploma-in-engg.-3",
+      "courseName": "Diploma in Engg.",
+      "specialization": "Electrical and Electronics Engineering",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-diploma-in-engg.-4",
+      "courseName": "Diploma in Engg.",
+      "specialization": "Electronics and Communication Engineering",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-diploma-in-engg.-5",
+      "courseName": "Diploma in Engg.",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-lateral-entry-diploma-1",
+      "courseName": "Lateral Entry Diploma",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "ITI/12th PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-lateral-entry-diploma-2",
+      "courseName": "Lateral Entry Diploma",
+      "specialization": "Computer Science and Engineering",
+      "duration": "",
+      "eligibility": "ITI/12th PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-lateral-entry-diploma-3",
+      "courseName": "Lateral Entry Diploma",
+      "specialization": "Electrical and Electronics Engineering",
+      "duration": "",
+      "eligibility": "ITI/12th PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-lateral-entry-diploma-4",
+      "courseName": "Lateral Entry Diploma",
+      "specialization": "Electronics and Communication Engineering",
+      "duration": "",
+      "eligibility": "ITI/12th PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-lateral-entry-diploma-5",
+      "courseName": "Lateral Entry Diploma",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "ITI/12th PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-btech-1",
+      "courseName": "BTech",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "10+2 PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-btech-2",
+      "courseName": "BTech",
+      "specialization": "Smart Infrastructure and Construction Automation",
+      "duration": "",
+      "eligibility": "10+2 PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-btech-3",
+      "courseName": "BTech",
+      "specialization": "Computer Science and Engineering",
+      "duration": "",
+      "eligibility": "10+2 PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-btech-4",
+      "courseName": "BTech",
+      "specialization": "CSE - AI & ML",
+      "duration": "",
+      "eligibility": "10+2 PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-btech-5",
+      "courseName": "BTech",
+      "specialization": "CSE - Cyber Security",
+      "duration": "",
+      "eligibility": "10+2 PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-btech-6",
+      "courseName": "BTech",
+      "specialization": "CSE - Data Science",
+      "duration": "",
+      "eligibility": "10+2 PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-btech-7",
+      "courseName": "BTech",
+      "specialization": "Electrical and Electronics Engineering",
+      "duration": "",
+      "eligibility": "10+2 PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-btech-8",
+      "courseName": "BTech",
+      "specialization": "Electronics and Communication Engineering",
+      "duration": "",
+      "eligibility": "10+2 PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-btech-9",
+      "courseName": "BTech",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10+2 PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-btech-le-1",
+      "courseName": "BTech LE",
+      "specialization": "All Specializations above",
+      "duration": "",
+      "eligibility": "Diploma in Engineering",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mtech-1",
+      "courseName": "MTech",
+      "specialization": "Civil Engg. - Construction Tech & Mgmt.",
+      "duration": "",
+      "eligibility": "BTech in Civil",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mtech-2",
+      "courseName": "MTech",
+      "specialization": "Civil Engg. - Geo Technical Engg.",
+      "duration": "",
+      "eligibility": "BTech in Civil",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mtech-3",
+      "courseName": "MTech",
+      "specialization": "Civil Engg. - Structural Engg.",
+      "duration": "",
+      "eligibility": "BTech in Civil",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mtech-4",
+      "courseName": "MTech",
+      "specialization": "Civil Engg. - Transportation Engg.",
+      "duration": "",
+      "eligibility": "BTech in Civil",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mtech-5",
+      "courseName": "MTech",
+      "specialization": "CSE - AIML",
+      "duration": "",
+      "eligibility": "BTech in CSE",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mtech-6",
+      "courseName": "MTech",
+      "specialization": "CSE - Computer Networks",
+      "duration": "",
+      "eligibility": "BTech in CSE",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mtech-7",
+      "courseName": "MTech",
+      "specialization": "CSE - Cyber Security",
+      "duration": "",
+      "eligibility": "BTech in CSE",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mtech-8",
+      "courseName": "MTech",
+      "specialization": "ECE - Digital Communication",
+      "duration": "",
+      "eligibility": "BTech in ECE",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mtech-9",
+      "courseName": "MTech",
+      "specialization": "ECE - VLSI Design",
+      "duration": "",
+      "eligibility": "BTech in ECE",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mtech-10",
+      "courseName": "MTech",
+      "specialization": "EEE - Electric Vehicle (EV)",
+      "duration": "",
+      "eligibility": "BTech in EEE",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mtech-11",
+      "courseName": "MTech",
+      "specialization": "EEE - Power Systems",
+      "duration": "",
+      "eligibility": "BTech in EEE",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mtech-12",
+      "courseName": "MTech",
+      "specialization": "EEE - Power Electronics",
+      "duration": "",
+      "eligibility": "BTech in EEE",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mtech-13",
+      "courseName": "MTech",
+      "specialization": "ME - CAD-CAM",
+      "duration": "",
+      "eligibility": "BTech in ME",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mtech-14",
+      "courseName": "MTech",
+      "specialization": "ME - Machine Design",
+      "duration": "",
+      "eligibility": "BTech in ME",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mtech-15",
+      "courseName": "MTech",
+      "specialization": "ME - Thermal Engineering",
+      "duration": "",
+      "eligibility": "BTech in ME",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-phd-6",
+      "courseName": "PhD",
+      "specialization": "CE, CSE, EC, EX, ME",
+      "duration": "",
+      "eligibility": "MTech in relevant branch",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-ba-1",
+      "courseName": "BA",
+      "specialization": "Economics",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-ba-2",
+      "courseName": "BA",
+      "specialization": "History",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-ba-3",
+      "courseName": "BA",
+      "specialization": "Political Science",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-ba-4",
+      "courseName": "BA",
+      "specialization": "Psychology",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-ba-5",
+      "courseName": "BA",
+      "specialization": "Sociology",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-ba-6",
+      "courseName": "BA",
+      "specialization": "English",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-ba-7",
+      "courseName": "BA",
+      "specialization": "Hindi",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-ba-8",
+      "courseName": "BA",
+      "specialization": "Yoga",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-ma-1",
+      "courseName": "MA",
+      "specialization": "English Literature",
+      "duration": "",
+      "eligibility": "BA in English",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-ma-2",
+      "courseName": "MA",
+      "specialization": "Hindi",
+      "duration": "",
+      "eligibility": "BA in Hindi",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-ma-3",
+      "courseName": "MA",
+      "specialization": "History",
+      "duration": "",
+      "eligibility": "BA in History",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-ma-4",
+      "courseName": "MA",
+      "specialization": "Political Science",
+      "duration": "",
+      "eligibility": "BA in Pol. Sci",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-ma-5",
+      "courseName": "MA",
+      "specialization": "Clinical Psychology",
+      "duration": "",
+      "eligibility": "BA in Psychology",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-phd-7",
+      "courseName": "PhD",
+      "specialization": "Humanities and Social Sciences",
+      "duration": "",
+      "eligibility": "MA in relevant subject",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-diploma-law-1",
+      "courseName": "Diploma Law",
+      "specialization": "Cyber Law/Environmental Law/IPR/Medico Legal Act",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-ba-llb-(hons)-1",
+      "courseName": "BA LLB (Hons)",
+      "specialization": "Business Law",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-ba-llb-(hons)-2",
+      "courseName": "BA LLB (Hons)",
+      "specialization": "Constitutional Law",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-ba-llb-(hons)-3",
+      "courseName": "BA LLB (Hons)",
+      "specialization": "Crime & Criminology",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-llb-(hons)-1",
+      "courseName": "LLB (Hons)",
+      "specialization": "Business Law",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-llb-(hons)-2",
+      "courseName": "LLB (Hons)",
+      "specialization": "Constitutional Law",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-llb-(hons)-3",
+      "courseName": "LLB (Hons)",
+      "specialization": "Crime & Criminology",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-llm-1",
+      "courseName": "LLM",
+      "specialization": "Criminal Law",
+      "duration": "",
+      "eligibility": "LLB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-llm-2",
+      "courseName": "LLM",
+      "specialization": "Constitutional Law",
+      "duration": "",
+      "eligibility": "LLB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-llm-3",
+      "courseName": "LLM",
+      "specialization": "Corporate Law",
+      "duration": "",
+      "eligibility": "LLB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-phd-8",
+      "courseName": "PhD",
+      "specialization": "Law",
+      "duration": "",
+      "eligibility": "LLM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-blibisc-1",
+      "courseName": "BLibISc",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mlibisc-1",
+      "courseName": "MLibISc",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "BLibISc",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-phd-9",
+      "courseName": "PhD",
+      "specialization": "Library and Information Science",
+      "duration": "",
+      "eligibility": "MLibISc",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bba-1",
+      "courseName": "BBA",
+      "specialization": "Core",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bba-2",
+      "courseName": "BBA",
+      "specialization": "Business Intelligence & Analytics (BIA)",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bba-3",
+      "courseName": "BBA",
+      "specialization": "BFSI",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bba-4",
+      "courseName": "BBA",
+      "specialization": "Digital Marketing",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bba-5",
+      "courseName": "BBA",
+      "specialization": "International Business",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mba-1",
+      "courseName": "MBA",
+      "specialization": "Core - Finance",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mba-2",
+      "courseName": "MBA",
+      "specialization": "Core - HR",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mba-3",
+      "courseName": "MBA",
+      "specialization": "Core - IT",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mba-4",
+      "courseName": "MBA",
+      "specialization": "Core - Marketing",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mba-5",
+      "courseName": "MBA",
+      "specialization": "Data Analytics and Data Visualization",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mba-6",
+      "courseName": "MBA",
+      "specialization": "International Business",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-phd-10",
+      "courseName": "PhD",
+      "specialization": "Management",
+      "duration": "",
+      "eligibility": "MBA",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-ba-jmc-1",
+      "courseName": "BA-JMC",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-ma-jmc-1",
+      "courseName": "MA-JMC",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Graduation in JMC",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-dpharm-1",
+      "courseName": "DPharm",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bpharm-1",
+      "courseName": "BPharm",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bpharm-le-1",
+      "courseName": "BPharm LE",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "DPharm",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mpharm-1",
+      "courseName": "MPharm",
+      "specialization": "Pharmaceutics",
+      "duration": "",
+      "eligibility": "BPharm with 55%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mpharm-2",
+      "courseName": "MPharm",
+      "specialization": "Pharmaceutical Chemistry",
+      "duration": "",
+      "eligibility": "BPharm with 55%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mpharm-3",
+      "courseName": "MPharm",
+      "specialization": "Pharmacology",
+      "duration": "",
+      "eligibility": "BPharm with 55%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-mpharm-4",
+      "courseName": "MPharm",
+      "specialization": "Pharmaceutical Quality Assurance",
+      "duration": "",
+      "eligibility": "BPharm with 55%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-phd-11",
+      "courseName": "PhD",
+      "specialization": "Pharmacy",
+      "duration": "",
+      "eligibility": "MPharm",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-1",
+      "courseName": "BSc",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "10+2 with Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-2",
+      "courseName": "BSc",
+      "specialization": "Chemistry",
+      "duration": "",
+      "eligibility": "10+2 with Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-3",
+      "courseName": "BSc",
+      "specialization": "Mathematics",
+      "duration": "",
+      "eligibility": "10+2 with Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-4",
+      "courseName": "BSc",
+      "specialization": "Physics",
+      "duration": "",
+      "eligibility": "10+2 with Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-5",
+      "courseName": "BSc",
+      "specialization": "Computational Physics",
+      "duration": "",
+      "eligibility": "10+2 with Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-6",
+      "courseName": "BSc",
+      "specialization": "Computer Science",
+      "duration": "",
+      "eligibility": "10+2 with Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-7",
+      "courseName": "BSc",
+      "specialization": "Forensic Science",
+      "duration": "",
+      "eligibility": "10+2 with Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-8",
+      "courseName": "BSc",
+      "specialization": "Microbiology",
+      "duration": "",
+      "eligibility": "10+2 with Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-9",
+      "courseName": "BSc",
+      "specialization": "Multimedia Animation and Design",
+      "duration": "",
+      "eligibility": "10+2 with Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-10",
+      "courseName": "BSc",
+      "specialization": "Nutrition & Dietetics",
+      "duration": "",
+      "eligibility": "10+2 with Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-bsc-11",
+      "courseName": "BSc",
+      "specialization": "Forensic Science - Criminology",
+      "duration": "",
+      "eligibility": "10+2 with Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-phd-12",
+      "courseName": "PhD",
+      "specialization": "Bio-Tech",
+      "duration": "",
+      "eligibility": "MSc in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-phd-13",
+      "courseName": "PhD",
+      "specialization": "Chemistry",
+      "duration": "",
+      "eligibility": "MSc in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-phd-14",
+      "courseName": "PhD",
+      "specialization": "Forensic Science",
+      "duration": "",
+      "eligibility": "MSc in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-phd-15",
+      "courseName": "PhD",
+      "specialization": "Multimedia",
+      "duration": "",
+      "eligibility": "MSc in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-phd-16",
+      "courseName": "PhD",
+      "specialization": "Microbiology",
+      "duration": "",
+      "eligibility": "MSc in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-phd-17",
+      "courseName": "PhD",
+      "specialization": "Math",
+      "duration": "",
+      "eligibility": "MSc in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "oriental-university-phd-18",
+      "courseName": "PhD",
+      "specialization": "Physics",
+      "duration": "",
+      "eligibility": "MSc in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

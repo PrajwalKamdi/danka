@@ -1,0 +1,117 @@
+{
+  "id": "19",
+  "slug": "ai-universal-university",
+  "name": "AI Universal University",
+  "description": "AI Universal University (formerly Universal Business School) is a private university focused on AI‑driven education across engineering, management, design and liberal arts, with experiential learning and global collaborations.",
+  "accreditation": [
+    "UGC recognition (State Private University)",
+    "AICTE approval for applicable programmes"
+  ],
+  "awards": [
+    "Featured in national/international rankings/ratings (recent cycles)"
+  ],
+  "website": "https://universalai.in",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "ai-universal-university-b.tech-1",
+      "courseName": "B.Tech",
+      "specialization": "AI & ML",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ai-universal-university-b.tech-2",
+      "courseName": "B.Tech",
+      "specialization": "Data Science",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ai-universal-university-b.tech-3",
+      "courseName": "B.Tech",
+      "specialization": "Sound Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM or relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ai-universal-university-ba-(hons)-1",
+      "courseName": "BA (Hons)",
+      "specialization": "Economics",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ai-universal-university-ba-(hons)-2",
+      "courseName": "BA (Hons)",
+      "specialization": "Psychology",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ai-universal-university-b.des-1",
+      "courseName": "B.Des",
+      "specialization": "Fashion Design",
+      "duration": "",
+      "eligibility": "10+2 or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ai-universal-university-b.des-2",
+      "courseName": "B.Des",
+      "specialization": "Product Design",
+      "duration": "",
+      "eligibility": "10+2 or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ai-universal-university-b.des-3",
+      "courseName": "B.Des",
+      "specialization": "Animation & Graphics Design",
+      "duration": "",
+      "eligibility": "10+2 or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ai-universal-university-bba-1",
+      "courseName": "BBA",
+      "specialization": "Global",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ai-universal-university-bba-2",
+      "courseName": "BBA",
+      "specialization": "Global",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ai-universal-university-bba-3",
+      "courseName": "BBA",
+      "specialization": "AI",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

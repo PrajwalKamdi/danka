@@ -1,0 +1,1343 @@
+{
+  "id": "14",
+  "slug": "parul-university",
+  "name": "Parul University",
+  "description": "Parul University, Vadodara (Gujarat) is a multi‑disciplinary private university with strong industry linkages, innovation ecosystem and global collaborations, offering a wide range of programmes from diploma to doctoral levels.",
+  "accreditation": [
+    "UGC recognition (State Private University)",
+    "NAAC institutional accreditation",
+    "AICTE/PCI/COA/INC/BCI approvals for applicable programmes"
+  ],
+  "awards": [
+    "NIRF‑ranked institution (latest cycle)",
+    "QS I‑GAUGE ratings/recognitions (institutional)"
+  ],
+  "website": "https://paruluniversity.ac.in",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "parul-university-diploma-(engineering)-1",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Aeronautical Engineering",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(engineering)-2",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(engineering)-3",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Biomedical Engineering",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(engineering)-4",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Agricultural Engineering",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(engineering)-5",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(engineering)-6",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Chemical Engineering",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(engineering)-7",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Food Technology",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(engineering)-8",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Petrochemical Engineering",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(engineering)-9",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Computer Engineering",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(engineering)-10",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Mechatronics Engineering",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(engineering)-11",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Electrical Engineering",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(engineering)-12",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Electronics & Communication Engineering",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(engineering)-13",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Automation and Robotics Engineering",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(engineering)-14",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Automobile Engineering",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(engineering)-15",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(engineering)-16",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Dairy Technology",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(architecture)-1",
+      "courseName": "Diploma (Architecture)",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(nursing)-1",
+      "courseName": "Diploma (Nursing)",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10th + 2 with PCB or as per program",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(business-administration)-1",
+      "courseName": "Diploma (Business Administration)",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(design)-1",
+      "courseName": "Diploma (Design)",
+      "specialization": "Fashion Design Technology",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(design)-2",
+      "courseName": "Diploma (Design)",
+      "specialization": "Interior and Furniture Design",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(design)-3",
+      "courseName": "Diploma (Design)",
+      "specialization": "Product Design",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(design)-4",
+      "courseName": "Diploma (Design)",
+      "specialization": "Visual Communication",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-diploma-(hotel-management-and-catering-tech)-1",
+      "courseName": "Diploma (Hotel Management & Catering Tech)",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10th pass or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-d.pharm-1",
+      "courseName": "D.Pharm",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 with PCB/PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-1",
+      "courseName": "B.Tech",
+      "specialization": "Aeronautical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-2",
+      "courseName": "B.Tech",
+      "specialization": "Agricultural Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-3",
+      "courseName": "B.Tech",
+      "specialization": "Automobile Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-4",
+      "courseName": "B.Tech",
+      "specialization": "Biomedical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-5",
+      "courseName": "B.Tech",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-6",
+      "courseName": "B.Tech",
+      "specialization": "Chemical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-7",
+      "courseName": "B.Tech",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-8",
+      "courseName": "B.Tech",
+      "specialization": "Computer Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-9",
+      "courseName": "B.Tech",
+      "specialization": "Dairy Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-10",
+      "courseName": "B.Tech",
+      "specialization": "Electrical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-11",
+      "courseName": "B.Tech",
+      "specialization": "Electronics and Communication Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-12",
+      "courseName": "B.Tech",
+      "specialization": "Food Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-13",
+      "courseName": "B.Tech",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-14",
+      "courseName": "B.Tech",
+      "specialization": "Mechatronics Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-15",
+      "courseName": "B.Tech",
+      "specialization": "Petroleum Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-16",
+      "courseName": "B.Tech",
+      "specialization": "Robotics & Automation Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-17",
+      "courseName": "B.Tech",
+      "specialization": "Mathematics & Computing",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-18",
+      "courseName": "B.Tech",
+      "specialization": "Computer Science and Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-19",
+      "courseName": "B.Tech",
+      "specialization": "Artificial Intelligence and Data Science",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-20",
+      "courseName": "B.Tech",
+      "specialization": "CSE with Artificial Intelligence and ML",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.tech-21",
+      "courseName": "B.Tech",
+      "specialization": "Robotics and Artificial Intelligence",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.sc-(agriculture)-1",
+      "courseName": "B.Sc (Agriculture)",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 Science stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-ba-llb-1",
+      "courseName": "BA LLB",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-bcom-llb-1",
+      "courseName": "BCOM LLB",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-bba-llb-1",
+      "courseName": "BBA LLB",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.arch-1",
+      "courseName": "B.Arch",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 with Maths",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.com-1",
+      "courseName": "B.Com",
+      "specialization": "Marketing",
+      "duration": "",
+      "eligibility": "10+2 pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.com-2",
+      "courseName": "B.Com",
+      "specialization": "Foreign Trade",
+      "duration": "",
+      "eligibility": "10+2 pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.com-3",
+      "courseName": "B.Com",
+      "specialization": "Accounting and Finance",
+      "duration": "",
+      "eligibility": "10+2 pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.com-4",
+      "courseName": "B.Com",
+      "specialization": "Banking and Insurance",
+      "duration": "",
+      "eligibility": "10+2 pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.com-5",
+      "courseName": "B.Com",
+      "specialization": "Human Resource Management",
+      "duration": "",
+      "eligibility": "10+2 pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.sc-(it-and-computer-science)-1",
+      "courseName": "B.Sc (IT & Computer Science)",
+      "specialization": "Advanced Operating System",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.sc-(it-and-computer-science)-2",
+      "courseName": "B.Sc (IT & Computer Science)",
+      "specialization": "Big Data Analytics",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.sc-(it-and-computer-science)-3",
+      "courseName": "B.Sc (IT & Computer Science)",
+      "specialization": "Cyber Security & Forensics",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.sc-(it-and-computer-science)-4",
+      "courseName": "B.Sc (IT & Computer Science)",
+      "specialization": "Blockchain Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.sc-(it-and-computer-science)-5",
+      "courseName": "B.Sc (IT & Computer Science)",
+      "specialization": "Cloud Computing",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.sc-(it-and-computer-science)-6",
+      "courseName": "B.Sc (IT & Computer Science)",
+      "specialization": "Full Stack Web Development",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.sc-(it-and-computer-science)-7",
+      "courseName": "B.Sc (IT & Computer Science)",
+      "specialization": "Web & Mobile Computing",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.pharm-1",
+      "courseName": "B.Pharm",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 with PCB/PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-b.pharm-2",
+      "courseName": "B.Pharm",
+      "specialization": "Lateral Entry",
+      "duration": "",
+      "eligibility": "Diploma in Pharmacy",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.tech-1",
+      "courseName": "M.Tech",
+      "specialization": "CAD/CAM",
+      "duration": "",
+      "eligibility": "BTech in relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.tech-2",
+      "courseName": "M.Tech",
+      "specialization": "Chemical Engineering",
+      "duration": "",
+      "eligibility": "BTech in relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.tech-3",
+      "courseName": "M.Tech",
+      "specialization": "Computer Engineering",
+      "duration": "",
+      "eligibility": "BTech in relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.tech-4",
+      "courseName": "M.Tech",
+      "specialization": "Construction Project Management",
+      "duration": "",
+      "eligibility": "BTech in Civil or relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.tech-5",
+      "courseName": "M.Tech",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "BTech in relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.tech-6",
+      "courseName": "M.Tech",
+      "specialization": "Structural Engineering",
+      "duration": "",
+      "eligibility": "BTech in Civil or relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.tech-7",
+      "courseName": "M.Tech",
+      "specialization": "Transportation Engineering",
+      "duration": "",
+      "eligibility": "BTech in Civil or relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.tech-8",
+      "courseName": "M.Tech",
+      "specialization": "Biomedical Engineering",
+      "duration": "",
+      "eligibility": "BTech in relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.tech-9",
+      "courseName": "M.Tech",
+      "specialization": "Automation and Robotics",
+      "duration": "",
+      "eligibility": "BTech in relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.tech-10",
+      "courseName": "M.Tech",
+      "specialization": "Mechatronics Engineering",
+      "duration": "",
+      "eligibility": "BTech in relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.tech-11",
+      "courseName": "M.Tech",
+      "specialization": "Aerospace Engineering",
+      "duration": "",
+      "eligibility": "BTech in relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.tech-12",
+      "courseName": "M.Tech",
+      "specialization": "Artificial Intelligence and Data Science",
+      "duration": "",
+      "eligibility": "BTech in relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.tech-13",
+      "courseName": "M.Tech",
+      "specialization": "CSE (Cyber Security)",
+      "duration": "",
+      "eligibility": "BTech in CSE or IT",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.arch-1",
+      "courseName": "M.Arch",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "B.Arch or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.com-1",
+      "courseName": "M.Com",
+      "specialization": "Accounting and Finance",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.com-2",
+      "courseName": "M.Com",
+      "specialization": "International Trade and Business",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.com-3",
+      "courseName": "M.Com",
+      "specialization": "Human Resource Management",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.com-4",
+      "courseName": "M.Com",
+      "specialization": "Marketing Management",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(it-and-computer-science)-1",
+      "courseName": "M.Sc (IT & Computer Science)",
+      "specialization": "Artificial Intelligence",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(it-and-computer-science)-2",
+      "courseName": "M.Sc (IT & Computer Science)",
+      "specialization": "Advanced Operating System",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(it-and-computer-science)-3",
+      "courseName": "M.Sc (IT & Computer Science)",
+      "specialization": "Big Data Analytics",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(it-and-computer-science)-4",
+      "courseName": "M.Sc (IT & Computer Science)",
+      "specialization": "Cyber Security & Forensics",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(it-and-computer-science)-5",
+      "courseName": "M.Sc (IT & Computer Science)",
+      "specialization": "Web Technologies",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(it-and-computer-science)-6",
+      "courseName": "M.Sc (IT & Computer Science)",
+      "specialization": "Blockchain Technology",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(it-and-computer-science)-7",
+      "courseName": "M.Sc (IT & Computer Science)",
+      "specialization": "Cloud Computing",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(it-and-computer-science)-8",
+      "courseName": "M.Sc (IT & Computer Science)",
+      "specialization": "Full Stack Web Development",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(it-and-computer-science)-9",
+      "courseName": "M.Sc (IT & Computer Science)",
+      "specialization": "Gaming Technology",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(it-and-computer-science)-10",
+      "courseName": "M.Sc (IT & Computer Science)",
+      "specialization": "Web & Mobile Computing",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-pg-health-administration-and-public-health-1",
+      "courseName": "PG - Health Administration & Public Health",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-llm-1",
+      "courseName": "LLM",
+      "specialization": "Alternate Dispute Resolution",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-llm-2",
+      "courseName": "LLM",
+      "specialization": "Constitutional & Administrative Law",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-llm-3",
+      "courseName": "LLM",
+      "specialization": "Criminal and Security Law",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-llm-4",
+      "courseName": "LLM",
+      "specialization": "Intellectual Property Law",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-llm-5",
+      "courseName": "LLM",
+      "specialization": "Environmental Law",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-llm-6",
+      "courseName": "LLM",
+      "specialization": "International Human Rights Laws",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-llm-7",
+      "courseName": "LLM",
+      "specialization": "International Laws",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-llm-8",
+      "courseName": "LLM",
+      "specialization": "Public Policy and Governance",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-llm-9",
+      "courseName": "LLM",
+      "specialization": "Business and Corporate Law",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.des-1",
+      "courseName": "M.Des",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-ma-1",
+      "courseName": "MA",
+      "specialization": "Clinical Psychology",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-ma-2",
+      "courseName": "MA",
+      "specialization": "English Language Teaching",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-ma-3",
+      "courseName": "MA",
+      "specialization": "Journalism and Modern Media",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(applied-science)-1",
+      "courseName": "M.Sc (Applied Science)",
+      "specialization": "Food Technology",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(applied-science)-2",
+      "courseName": "M.Sc (Applied Science)",
+      "specialization": "Forensic Science",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(applied-science)-3",
+      "courseName": "M.Sc (Applied Science)",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(applied-science)-4",
+      "courseName": "M.Sc (Applied Science)",
+      "specialization": "Geology",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(applied-science)-5",
+      "courseName": "M.Sc (Applied Science)",
+      "specialization": "Biochemistry",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(applied-science)-6",
+      "courseName": "M.Sc (Applied Science)",
+      "specialization": "Genetics",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(applied-science)-7",
+      "courseName": "M.Sc (Applied Science)",
+      "specialization": "Physics",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(applied-science)-8",
+      "courseName": "M.Sc (Applied Science)",
+      "specialization": "Chemistry",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(applied-science)-9",
+      "courseName": "M.Sc (Applied Science)",
+      "specialization": "IndustrialChemistry",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(applied-science)-10",
+      "courseName": "M.Sc (Applied Science)",
+      "specialization": "Nutrition And Dietetics",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(applied-science)-11",
+      "courseName": "M.Sc (Applied Science)",
+      "specialization": "Applied Mathematics",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(applied-science)-12",
+      "courseName": "M.Sc (Applied Science)",
+      "specialization": "Environmental Science",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(applied-science)-13",
+      "courseName": "M.Sc (Applied Science)",
+      "specialization": "Microbiology",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(applied-science)-14",
+      "courseName": "M.Sc (Applied Science)",
+      "specialization": "Biofarming",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(applied-science)-15",
+      "courseName": "M.Sc (Applied Science)",
+      "specialization": "Bioinformatics and Computational Biology",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-m.sc-(applied-science)-16",
+      "courseName": "M.Sc (Applied Science)",
+      "specialization": "Biopharmaceutical Technology",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-1",
+      "courseName": "MBA",
+      "specialization": "Agribusiness Management",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-2",
+      "courseName": "MBA",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-3",
+      "courseName": "MBA",
+      "specialization": "Forensic Accounting & Fraud Investigation",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-4",
+      "courseName": "MBA",
+      "specialization": "International Trade & Business",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-5",
+      "courseName": "MBA",
+      "specialization": "Banking and Financial Services",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-6",
+      "courseName": "MBA",
+      "specialization": "Logistics and Supply Chain Management",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-7",
+      "courseName": "MBA",
+      "specialization": "Digital Marketing and Sales",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-8",
+      "courseName": "MBA",
+      "specialization": "Marketing",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-9",
+      "courseName": "MBA",
+      "specialization": "Entrepreneurship and Innovation",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-10",
+      "courseName": "MBA",
+      "specialization": "Operations Management",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-11",
+      "courseName": "MBA",
+      "specialization": "Family Managed Business",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-12",
+      "courseName": "MBA",
+      "specialization": "Pharmaceutical Management",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-13",
+      "courseName": "MBA",
+      "specialization": "Finance",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-14",
+      "courseName": "MBA",
+      "specialization": "Project Management",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-15",
+      "courseName": "MBA",
+      "specialization": "Healthcare Management",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-16",
+      "courseName": "MBA",
+      "specialization": "Public Policy",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-17",
+      "courseName": "MBA",
+      "specialization": "Human Resource",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-18",
+      "courseName": "MBA",
+      "specialization": "Business Analytics",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-19",
+      "courseName": "MBA",
+      "specialization": "Tourism & Event Management",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-20",
+      "courseName": "MBA",
+      "specialization": "Retail Management",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-21",
+      "courseName": "MBA",
+      "specialization": "Advertising & Branding Management",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-22",
+      "courseName": "MBA",
+      "specialization": "Biotechnology Management",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mba-23",
+      "courseName": "MBA",
+      "specialization": "Fintech Management",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "parul-university-mpt-1",
+      "courseName": "MPT",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

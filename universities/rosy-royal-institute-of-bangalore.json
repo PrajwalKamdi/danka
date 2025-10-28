@@ -1,0 +1,262 @@
+{
+  "id": "9",
+  "slug": "rosy-royal-institute-of-bangalore",
+  "name": "Rosy Royal Institute of Bangalore",
+  "description": "Rosy Royal Institute of Bangalore offers healthcare and allied programmes including Nursing, Physiotherapy, Pharmacy, Medical Lab Technology, Imaging Technology, Optometry and BHMS, with a strong emphasis on clinical exposure.",
+  "accreditation": [
+    "Affiliation to recognised health sciences university (as applicable)",
+    "Indian Nursing Council (INC)/State Nursing Council recognitions (as applicable)",
+    "Pharmacy Council of India (PCI) approval for pharmacy programmes (as applicable)"
+  ],
+  "awards": [
+    "Institutional recognitions/ratings (recent cycles)"
+  ],
+  "website": "",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "rosy-royal-institute-of-bangalore-bhms-1",
+      "courseName": "BHMS",
+      "specialization": "Homeopathic Medicine & Surgery",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-bpt-1",
+      "courseName": "BPT",
+      "specialization": "Physiotherapy",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-p.b.b.sc-1",
+      "courseName": "P.B.B.Sc",
+      "specialization": "Nursing",
+      "duration": "",
+      "eligibility": "GNM + registered nurse",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-bsc-1",
+      "courseName": "BSc",
+      "specialization": "Nursing",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-general-nursing-and-midwifery-(gnm)-1",
+      "courseName": "General Nursing & Midwifery (GNM)",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th pass (preferably Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-b.pharm-1",
+      "courseName": "B.Pharm",
+      "specialization": "Pharmacy",
+      "duration": "",
+      "eligibility": "12th pass with PCB/M",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-bsc-2",
+      "courseName": "BSc",
+      "specialization": "Clinical Nutrition & Dietetics",
+      "duration": "",
+      "eligibility": "12th pass (Science preferred)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-bsc-3",
+      "courseName": "BSc",
+      "specialization": "Medical Lab Technology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-bsc-4",
+      "courseName": "BSc",
+      "specialization": "Medical Imaging Technology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-bsc-5",
+      "courseName": "BSc",
+      "specialization": "Optometry",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-ba-1",
+      "courseName": "BA",
+      "specialization": "Criminology",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-bsc-6",
+      "courseName": "BSc",
+      "specialization": "Forensic Science",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-bachelor-in-hospital-administration-(bha)-1",
+      "courseName": "Bachelor in Hospital Administration (BHA)",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-bsc-7",
+      "courseName": "BSc",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-bsc-8",
+      "courseName": "BSc",
+      "specialization": "Fashion & Apparel Designing with Fashion Photography",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-bba-1",
+      "courseName": "BBA",
+      "specialization": "Aviation Management",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-bba-2",
+      "courseName": "BBA",
+      "specialization": "Business Administration",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-bca-1",
+      "courseName": "BCA",
+      "specialization": "Computer Application with Cloud Computing",
+      "duration": "",
+      "eligibility": "12th pass with Math/Computer preferred",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-b.com-1",
+      "courseName": "B.Com",
+      "specialization": "Commerce",
+      "duration": "",
+      "eligibility": "12th pass (Commerce preferred)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-ba-2",
+      "courseName": "BA",
+      "specialization": "Journalism with Media Science",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-msc-nursing-1",
+      "courseName": "MSC NURSING",
+      "specialization": "Science in Nursing",
+      "duration": "",
+      "eligibility": "B.Sc Nursing / PBB.Sc Nursing",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-diploma-1",
+      "courseName": "Diploma",
+      "specialization": "Pharmacy",
+      "duration": "",
+      "eligibility": "12th pass with PCB/M",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-diploma-2",
+      "courseName": "Diploma",
+      "specialization": "Medical Laboratory Technology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-diploma-3",
+      "courseName": "Diploma",
+      "specialization": "Ophthalmic Technology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-diploma-4",
+      "courseName": "Diploma",
+      "specialization": "Dialysis Technology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-diploma-5",
+      "courseName": "Diploma",
+      "specialization": "Health Inspector",
+      "duration": "",
+      "eligibility": "10th/12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "rosy-royal-institute-of-bangalore-diploma-6",
+      "courseName": "Diploma",
+      "specialization": "X-Ray Technology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

@@ -1,0 +1,128 @@
+{
+  "id": "27",
+  "slug": "mit-aoe",
+  "name": "MIT AOE",
+  "description": "MIT Academy of Engineering (MITAOE), Pune is an autonomous institute offering UG/PG programmes in engineering and design with industry internships and research-driven pedagogy.",
+  "accreditation": [
+    "AICTE approval",
+    "Autonomous status (as applicable)",
+    "NBA accreditation for select programmes",
+    "Affiliated to state technical university (as applicable)"
+  ],
+  "awards": [
+    "Consistent performance in institute rankings/ratings (recent cycles)"
+  ],
+  "website": "https://www.mitaoe.ac.in",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "mit-aoe-b.tech-1",
+      "courseName": "B.Tech",
+      "specialization": "Electronics & Telecommunication Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-aoe-b.tech-2",
+      "courseName": "B.Tech",
+      "specialization": "Electronics Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-aoe-b.tech-3",
+      "courseName": "B.Tech",
+      "specialization": "Computer Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-aoe-b.tech-4",
+      "courseName": "B.Tech",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-aoe-b.tech-5",
+      "courseName": "B.Tech",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-aoe-b.tech-6",
+      "courseName": "B.Tech",
+      "specialization": "Chemical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-aoe-b.des-1",
+      "courseName": "B.Des",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent (Any Stream)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-aoe-b.des-2",
+      "courseName": "B.Des",
+      "specialization": "Product Design",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent (Any Stream)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-aoe-b.des-3",
+      "courseName": "B.Des",
+      "specialization": "User Experience Design",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent (Any Stream)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-aoe-b.des-4",
+      "courseName": "B.Des",
+      "specialization": "Communication Design",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent (Any Stream)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-aoe-m.tech-1",
+      "courseName": "M.Tech",
+      "specialization": "Computer Engineering",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in Computer or related field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-aoe-m.tech-2",
+      "courseName": "M.Tech",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in Mechanical or related field",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

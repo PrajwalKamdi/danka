@@ -1,0 +1,486 @@
+{
+  "id": "2",
+  "slug": "mahakaushal-university",
+  "name": "Mahakaushal University",
+  "description": "Mahakaushal University offers programmes in engineering, law, agriculture and yogic sciences along with diploma, UG, PG and doctoral offerings.",
+  "accreditation": [
+    "UGC recognition (State Private University)",
+    "AICTE/BCI approvals for applicable programmes"
+  ],
+  "awards": [
+    "Recognised in regional/national listings (recent cycles)"
+  ],
+  "website": "",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "mahakaushal-university-diploma-1",
+      "courseName": "Diploma",
+      "specialization": "Civil, Electrical, Mechanical, Agriculture, Electronics & Communication, Mining",
+      "duration": "",
+      "eligibility": "10th pass with Math & Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-b.tech-1",
+      "courseName": "B.Tech",
+      "specialization": "Civil, Electrical, Mechanical, IT, ECE, Naval Arch., Agriculture, Aerospace, CS, Mining",
+      "duration": "",
+      "eligibility": "10+2 (PCM) with 45% (Gen), 40% (SC/ST)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-m.tech-1",
+      "courseName": "M.Tech",
+      "specialization": "CS, Highway, Structural, Industrial, Thermal, Naval Arch., Energy Tech., Power System, Digital Comm., Agri Process & Food Engg, Soil & Water Cons.",
+      "duration": "",
+      "eligibility": "B.E/B.Tech with 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-ph.d-1",
+      "courseName": "Ph.D",
+      "specialization": "All Engg disciplines",
+      "duration": "",
+      "eligibility": "M.Tech or equivalent with 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-ba-llb-1",
+      "courseName": "BA LLB",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 with 45% (Gen), 42% (OBC), 40% (SC/ST)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-llb-1",
+      "courseName": "LLB",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Graduation with 45% (Gen), 42% (OBC), 40% (SC/ST)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-llm-1",
+      "courseName": "LLM",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "LLB with 50% (Gen), 45% (SC/ST)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-ph.d-2",
+      "courseName": "Ph.D",
+      "specialization": "Law",
+      "duration": "",
+      "eligibility": "LLM with 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-certificate-1",
+      "courseName": "Certificate",
+      "specialization": "Yoga",
+      "duration": "",
+      "eligibility": "10th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-diploma-2",
+      "courseName": "Diploma",
+      "specialization": "Yoga",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-pg-diploma-1",
+      "courseName": "PG Diploma",
+      "specialization": "Yogic Science, Naturopathy, Meditation",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-ug-1",
+      "courseName": "UG",
+      "specialization": "BA/BSc in Yogic Science",
+      "duration": "",
+      "eligibility": "12th pass (Science preferred for BSc)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-pg-1",
+      "courseName": "PG",
+      "specialization": "MA/MSc in Yogic Science",
+      "duration": "",
+      "eligibility": "Graduation in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-ph.d-3",
+      "courseName": "Ph.D",
+      "specialization": "Yogic Science",
+      "duration": "",
+      "eligibility": "PG in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-diploma-3",
+      "courseName": "Diploma",
+      "specialization": "Agriculture",
+      "duration": "",
+      "eligibility": "12th (Science or Agriculture)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-b.sc-1",
+      "courseName": "B.Sc",
+      "specialization": "Math, Physics, Chem, Botany, Zoology, Geology, Microbio, Biotech, Biochem, Aviation, Geography, Forensic Sci",
+      "duration": "",
+      "eligibility": "12th (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-m.sc-1",
+      "courseName": "M.Sc",
+      "specialization": "Same as B.Sc",
+      "duration": "",
+      "eligibility": "B.Sc in respective subject",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-ph.d-4",
+      "courseName": "Ph.D",
+      "specialization": "Science",
+      "duration": "",
+      "eligibility": "M.Sc in respective field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-diploma-4",
+      "courseName": "Diploma",
+      "specialization": "Airport Mgmt, Airline Mgmt, HR, Sales, Prod. Mgmt, Export-Import",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-b.com-1",
+      "courseName": "B.Com",
+      "specialization": "Gen, Computer App.",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-m.com-1",
+      "courseName": "M.Com",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Graduation in commerce",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-bba-1",
+      "courseName": "BBA",
+      "specialization": "Gen, Aviation, Shipping & Logistics",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-mba-1",
+      "courseName": "MBA",
+      "specialization": "HR, Marketing, Finance, Disaster, Fire Safety, Retail, Aviation, Rural Dev, Hotel, Hospital, Agri Biz, Hospitality, Ops, SCM",
+      "duration": "",
+      "eligibility": "Graduation with 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-ph.d-5",
+      "courseName": "Ph.D",
+      "specialization": "Commerce & Mgmt",
+      "duration": "",
+      "eligibility": "PG in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-diploma-5",
+      "courseName": "Diploma",
+      "specialization": "Airhostess, RJ, Print Journalism, Reporter",
+      "duration": "",
+      "eligibility": "12th pass (Airhostess 17–25 yrs age)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-ba-1",
+      "courseName": "BA",
+      "specialization": "Hindi, English, History, Sanskrit, Socio, Econ, Geog, Psych, Music, Criminology, Edu, Fine Arts, Pol Sci",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-ma-1",
+      "courseName": "MA",
+      "specialization": "Same as BA",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-b.ed-(special-edu)-1",
+      "courseName": "B.Ed (Special Edu)",
+      "specialization": "ID",
+      "duration": "",
+      "eligibility": "Graduation with 50% (Gen), 45% (SC/ST)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-ph.d-6",
+      "courseName": "Ph.D",
+      "specialization": "Arts",
+      "duration": "",
+      "eligibility": "PG in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-dca-1",
+      "courseName": "DCA",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-pgdca-1",
+      "courseName": "PGDCA",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-bca-1",
+      "courseName": "BCA",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-mca-1",
+      "courseName": "MCA",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "BCA or Graduation with 12th Math",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-b.sc-2",
+      "courseName": "B.Sc",
+      "specialization": "CS, IT, AI/ML, Data Sci, Cyber Security",
+      "duration": "",
+      "eligibility": "12th (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-m.sc-2",
+      "courseName": "M.Sc",
+      "specialization": "Same as B.Sc",
+      "duration": "",
+      "eligibility": "B.Sc in respective field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-ph.d-7",
+      "courseName": "Ph.D",
+      "specialization": "CS",
+      "duration": "",
+      "eligibility": "PG in CS with 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-certificate-2",
+      "courseName": "Certificate",
+      "specialization": "Fireman, Disaster Mgmt",
+      "duration": "",
+      "eligibility": "10th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-diploma-6",
+      "courseName": "Diploma",
+      "specialization": "Fire Safety, Disaster Mgmt, Industrial Safety, Health & Env Safety",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-b.sc-3",
+      "courseName": "B.Sc",
+      "specialization": "Fire Safety & Hazard Mgmt",
+      "duration": "",
+      "eligibility": "12th (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-pg-diploma-2",
+      "courseName": "PG Diploma",
+      "specialization": "Fire Safety, Industrial Safety",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-diploma-7",
+      "courseName": "Diploma",
+      "specialization": "Fashion, Animation",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-ug-2",
+      "courseName": "UG",
+      "specialization": "BA/BSc in Fashion, Interior, Animation",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-pg-2",
+      "courseName": "PG",
+      "specialization": "MA/MSc in above",
+      "duration": "",
+      "eligibility": "Graduation in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-ph.d-8",
+      "courseName": "Ph.D",
+      "specialization": "Fashion, Interior, Animation",
+      "duration": "",
+      "eligibility": "PG in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-certificate-3",
+      "courseName": "Certificate",
+      "specialization": "Horticulture, Nursery, Env Protection",
+      "duration": "",
+      "eligibility": "10th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-b.sc-4",
+      "courseName": "B.Sc",
+      "specialization": "Agri (Hons), Agronomy, Horticulture",
+      "duration": "",
+      "eligibility": "12th (PCM/PCB/Agri)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-m.sc-3",
+      "courseName": "M.Sc",
+      "specialization": "Agronomy, Horticulture",
+      "duration": "",
+      "eligibility": "B.Sc Agri",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-ph.d-9",
+      "courseName": "Ph.D",
+      "specialization": "Agriculture",
+      "duration": "",
+      "eligibility": "M.Sc Agri",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-b.pharm-1",
+      "courseName": "B.Pharm",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th (PCB/PCM) with 45% (Gen), 40% (SC/ST)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-bpt-1",
+      "courseName": "BPT",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th (PCB) with 45%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-bmlt-/-dmlt-1",
+      "courseName": "BMLT / DMLT",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th (PCB/PCM) with 45%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mahakaushal-university-diploma-8",
+      "courseName": "Diploma",
+      "specialization": "Veterinary Sci, Animal Husbandry, Vet Pharmacy, Vet Pathology",
+      "duration": "",
+      "eligibility": "12th (Science)",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

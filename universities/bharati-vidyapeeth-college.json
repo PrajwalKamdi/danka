@@ -1,0 +1,1711 @@
+{
+  "id": "30",
+  "slug": "bharati-vidyapeeth-college",
+  "name": "Bharati Vidyapeeth College",
+  "description": "Bharati Vidyapeeth (Deemed to be University) group colleges offer programmes in medicine, dentistry, pharmacy, nursing, engineering, law, management, arts and sciences with strong clinical and industry exposure.",
+  "accreditation": [
+    "UGC (Deemed-to-be University) at the parent level",
+    "NAAC institutional accreditation (BVDU)",
+    "AICTE/PCI/BCI/NMC/INC approvals for applicable programmes"
+  ],
+  "awards": [
+    "Frequent listings in national rankings/ratings (discipline-wise)"
+  ],
+  "website": "https://bvuniversity.edu.in",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "bharati-vidyapeeth-college-b.sc.-1",
+      "courseName": "B.Sc.",
+      "specialization": "Nursing",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.sc.-2",
+      "courseName": "B.Sc.",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "10+2 with PCB / PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.sc.-3",
+      "courseName": "B.Sc.",
+      "specialization": "GENERAL",
+      "duration": "",
+      "eligibility": "10+2 (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.sc.-4",
+      "courseName": "B.Sc.",
+      "specialization": "Computer Science",
+      "duration": "",
+      "eligibility": "10+2 (Science with Mathematics preferred)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.sc.-5",
+      "courseName": "B.Sc.",
+      "specialization": "Cardiovascular Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.sc.-6",
+      "courseName": "B.Sc.",
+      "specialization": "Anesthesia and OT Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.sc.-7",
+      "courseName": "B.Sc.",
+      "specialization": "Radiology and Imaging Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.sc.-8",
+      "courseName": "B.Sc.",
+      "specialization": "Lab Sciences",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.sc.-9",
+      "courseName": "B.Sc.",
+      "specialization": "Neuro Electrophysiology Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.sc.-10",
+      "courseName": "B.Sc.",
+      "specialization": "Perfusion Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-p.b.-b.sc.-1",
+      "courseName": "P.B. B.Sc.",
+      "specialization": "Post Basic Bachelor of Science -Nursing",
+      "duration": "",
+      "eligibility": "GNM + Nursing Council Reg.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.pharm-1",
+      "courseName": "B.Pharm",
+      "specialization": "Pharmacy",
+      "duration": "",
+      "eligibility": "10+2 with PCB / PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.h.m.s.-1",
+      "courseName": "B.H.M.S.",
+      "specialization": "Bachelor of Homoeopathic Medicine and Surgery",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.h.m.s.-2",
+      "courseName": "B.H.M.S.",
+      "specialization": "Homeopathic Medicine and Surgery",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-bpes-1",
+      "courseName": "BPES",
+      "specialization": "Physical Education & Sports",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.p.ed.-1",
+      "courseName": "B.P.Ed.",
+      "specialization": "Physical Education",
+      "duration": "",
+      "eligibility": "Bachelor’s + Physical Test",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-bds-1",
+      "courseName": "BDS",
+      "specialization": "Dental Surgery",
+      "duration": "",
+      "eligibility": "10+2 with PCB + NEET",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.arch-1",
+      "courseName": "B.Arch",
+      "specialization": "Architecture",
+      "duration": "",
+      "eligibility": "10+2 with PCM + NATA",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-bams-1",
+      "courseName": "BAMS",
+      "specialization": "Ayurvedic Medicine and Surgery",
+      "duration": "",
+      "eligibility": "10+2 with PCB + NEET",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.tech.-1",
+      "courseName": "B.Tech.",
+      "specialization": "Chemical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.tech.-2",
+      "courseName": "B.Tech.",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.tech.-3",
+      "courseName": "B.Tech.",
+      "specialization": "Computer Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.tech.-4",
+      "courseName": "B.Tech.",
+      "specialization": "Computer Science and Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.tech.-5",
+      "courseName": "B.Tech.",
+      "specialization": "Electrical and Computer Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.tech.-6",
+      "courseName": "B.Tech.",
+      "specialization": "Electronics and Communication Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.tech.-7",
+      "courseName": "B.Tech.",
+      "specialization": "Electronics and Telecommunications Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.tech.-8",
+      "courseName": "B.Tech.",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.tech.-9",
+      "courseName": "B.Tech.",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.tech.-10",
+      "courseName": "B.Tech.",
+      "specialization": "Robotics and Automation",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.tech.-11",
+      "courseName": "B.Tech.",
+      "specialization": "Computer Science and Business Systems",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.tech.-12",
+      "courseName": "B.Tech.",
+      "specialization": "Computer Science and Engineering (AI/ML)",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-bba-1",
+      "courseName": "BBA",
+      "specialization": "GENERAL",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-bca-1",
+      "courseName": "BCA",
+      "specialization": "GENERAL",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-ba-llb-1",
+      "courseName": "BA LLB",
+      "specialization": "Legislative Law",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-llb-1",
+      "courseName": "LLB",
+      "specialization": "GENERAL",
+      "duration": "",
+      "eligibility": "Graduation in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-mbbs-1",
+      "courseName": "MBBS",
+      "specialization": "Medicine and Surgery",
+      "duration": "",
+      "eligibility": "10+2 with PCB + NEET",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-bba-llb-1",
+      "courseName": "BBA LLB",
+      "specialization": "GENERAL",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.sc.-h-ha-1",
+      "courseName": "B.Sc. (H & HA)",
+      "specialization": "Hospitality & Hotel Administration (HONORS) - CBCS-2024",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.sc.-h-ha-2",
+      "courseName": "B.Sc. (H & HA)",
+      "specialization": "Hospitality & Hotel Administration CBCS-2018",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-bhmct-1",
+      "courseName": "BHMCT",
+      "specialization": "Hotel Management & Catering Technology CBCS-2018",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-ba-1",
+      "courseName": "BA",
+      "specialization": "GENERAL",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-ba-2",
+      "courseName": "BA",
+      "specialization": "Dance",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-ba-3",
+      "courseName": "BA",
+      "specialization": "Music",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.com-1",
+      "courseName": "B.Com",
+      "specialization": "GENERAL",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.lib.i.sc.-1",
+      "courseName": "B.LIB.I.Sc.",
+      "specialization": "Library & Information Science",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.aslp-1",
+      "courseName": "B.ASLP",
+      "specialization": "Audiology and Speech Language Pathology",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-bachelor-of-optometry-1",
+      "courseName": "Bachelor of Optometry",
+      "specialization": "Optometry",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.a.-1",
+      "courseName": "B.A.",
+      "specialization": "Commercial Photography & Moving Images",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-b.a.-2",
+      "courseName": "B.A.",
+      "specialization": "Photography & Cinematography",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-bachelor-of-visual-arts-1",
+      "courseName": "Bachelor of Visual Arts",
+      "specialization": "Applied Art",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-bpt-1",
+      "courseName": "BPT",
+      "specialization": "Physiotherapy",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-d.arch-1",
+      "courseName": "D.Arch",
+      "specialization": "Diploma in Architecture",
+      "duration": "",
+      "eligibility": "10th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-pharm.d.-1",
+      "courseName": "Pharm.D.",
+      "specialization": "GENERAL",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-md-1",
+      "courseName": "MD",
+      "specialization": "Anatomy",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-md-2",
+      "courseName": "MD",
+      "specialization": "Physiology",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-md-3",
+      "courseName": "MD",
+      "specialization": "Biochemistry",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-md-4",
+      "courseName": "MD",
+      "specialization": "Pathology",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-md-5",
+      "courseName": "MD",
+      "specialization": "Microbiology",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-md-6",
+      "courseName": "MD",
+      "specialization": "Pharmacology",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-md-7",
+      "courseName": "MD",
+      "specialization": "Community Medicine",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-md-8",
+      "courseName": "MD",
+      "specialization": "General Medicine",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-md-9",
+      "courseName": "MD",
+      "specialization": "Paediatrics",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-md-10",
+      "courseName": "MD",
+      "specialization": "Psychiatry",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-md-11",
+      "courseName": "MD",
+      "specialization": "Respiratory Medicine",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-md-12",
+      "courseName": "MD",
+      "specialization": "Dermatology",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-md-13",
+      "courseName": "MD",
+      "specialization": "Radio-diagnosiS",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-md-14",
+      "courseName": "MD",
+      "specialization": "Anesthesiology",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-md-15",
+      "courseName": "MD",
+      "specialization": "Emergency Medicine",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-md-16",
+      "courseName": "MD",
+      "specialization": "Immuno-Hematology & Blood Transfusion",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-m.arch-1",
+      "courseName": "M.Arch",
+      "specialization": "Sustainable Architecture",
+      "duration": "",
+      "eligibility": "B.Arch",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-ms-1",
+      "courseName": "MS",
+      "specialization": "General Surgery",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-ms-2",
+      "courseName": "MS",
+      "specialization": "Orthopaedics",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-ms-3",
+      "courseName": "MS",
+      "specialization": "Ophthalmology",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-ms-4",
+      "courseName": "MS",
+      "specialization": "Oto-Rhino-Laryngology",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-ms-5",
+      "courseName": "MS",
+      "specialization": "Obstetrics & Gynaecology",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-dm-1",
+      "courseName": "DM",
+      "specialization": "Cardiology",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-dm-2",
+      "courseName": "DM",
+      "specialization": "Critical Care Medicine",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-dm-3",
+      "courseName": "DM",
+      "specialization": "Neonatology",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-dm-4",
+      "courseName": "DM",
+      "specialization": "Medical Gastroenterology",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-msw-1",
+      "courseName": "MSW",
+      "specialization": "Master of Social Work",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-m.ch-1",
+      "courseName": "M.Ch",
+      "specialization": "Urology",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-m.pharm-1",
+      "courseName": "M.Pharm",
+      "specialization": "Pharmaceutical Regulatory Affairs",
+      "duration": "",
+      "eligibility": "B.Pharm",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-m.pharm-2",
+      "courseName": "M.Pharm",
+      "specialization": "Pharmaceutical Biotechnology",
+      "duration": "",
+      "eligibility": "B.Pharm",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-m.pharm-3",
+      "courseName": "M.Pharm",
+      "specialization": "Pharmaceutical Chemistry",
+      "duration": "",
+      "eligibility": "B.Pharm",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-m.pharm-4",
+      "courseName": "M.Pharm",
+      "specialization": "Pharmaceutics",
+      "duration": "",
+      "eligibility": "B.Pharm",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-m.pharm-5",
+      "courseName": "M.Pharm",
+      "specialization": "Pharmacognosy",
+      "duration": "",
+      "eligibility": "B.Pharm",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-m.pharm-6",
+      "courseName": "M.Pharm",
+      "specialization": "Pharmaceutical Quality Assurance Techniques",
+      "duration": "",
+      "eligibility": "B.Pharm",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-m.sc.-1",
+      "courseName": "M.Sc.",
+      "specialization": "Medical Microbiology",
+      "duration": "",
+      "eligibility": "B.Sc. (Microbiology or related field)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-m.sc.-2",
+      "courseName": "M.Sc.",
+      "specialization": "Medical Physiology",
+      "duration": "",
+      "eligibility": "B.Sc. (Microbiology or related field)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-m.sc.-3",
+      "courseName": "M.Sc.",
+      "specialization": "Medical Biochemistry",
+      "duration": "",
+      "eligibility": "B.Sc. (Microbiology or related field)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-pgdc-1",
+      "courseName": "PGDC",
+      "specialization": "PG Diploma in Counselling",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-pgdcsr-1",
+      "courseName": "PGDCSR",
+      "specialization": "PG Diploma in Corporate Social Responsibility",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-dee-1",
+      "courseName": "DEE",
+      "specialization": "Diploma In Environment Education",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-pgdb-1",
+      "courseName": "PGDB",
+      "specialization": "PG Diploma in Balroga",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-pgdd-1",
+      "courseName": "PGDD",
+      "specialization": "PG Diploma in Dermatology",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-pgdgo-1",
+      "courseName": "PGDGO",
+      "specialization": "PG Diploma in Gynaecology & Obstetrics",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-pgdn-1",
+      "courseName": "PGDN",
+      "specialization": "PG Diploma in Netrarog",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-dl-1",
+      "courseName": "DL",
+      "specialization": "Diploma in Law",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-pg-dmlt-1",
+      "courseName": "PG DMLT",
+      "specialization": "Diploma in Medical Laboratory Technology",
+      "duration": "",
+      "eligibility": "10+3",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-dhr-1",
+      "courseName": "DHR",
+      "specialization": "Diploma in Human Rights",
+      "duration": "",
+      "eligibility": "10+4",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-ddm-1",
+      "courseName": "DDM",
+      "specialization": "Diploma in Digital Marketing",
+      "duration": "",
+      "eligibility": "10+5",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-dbd-1",
+      "courseName": "DBD",
+      "specialization": "Diploma in Big Data",
+      "duration": "",
+      "eligibility": "10+6",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-dtl-1",
+      "courseName": "DTL",
+      "specialization": "Diploma in Taxation Law",
+      "duration": "",
+      "eligibility": "10+7",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-dll-lw-1",
+      "courseName": "DLL & LW",
+      "specialization": "Diploma in Labour Laws & Labour Welfare",
+      "duration": "",
+      "eligibility": "10+8",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-dipl-1",
+      "courseName": "DIPL",
+      "specialization": "Diploma in Intellectual Property Law",
+      "duration": "",
+      "eligibility": "MBBS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-ph.d.-1",
+      "courseName": "Ph.D.",
+      "specialization": "Ph.D.",
+      "duration": "",
+      "eligibility": "Postgraduate + Entrance Exam",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-1",
+      "courseName": "Fellowship",
+      "specialization": "Pediatric Critical Care",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-2",
+      "courseName": "Fellowship",
+      "specialization": "Diabetology",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-3",
+      "courseName": "Fellowship",
+      "specialization": "Epidemiology",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-4",
+      "courseName": "Fellowship",
+      "specialization": "Pediatric Anesthesia",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-5",
+      "courseName": "Fellowship",
+      "specialization": "Gynaec Oncology",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-6",
+      "courseName": "Fellowship",
+      "specialization": "Paediatrics Radiology",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-7",
+      "courseName": "Fellowship",
+      "specialization": "Body Imaging",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-8",
+      "courseName": "Fellowship",
+      "specialization": "Adult Infectious Diseases",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-9",
+      "courseName": "Fellowship",
+      "specialization": "High-Risk Pregnancy & Critical Care in Obstetrics",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-10",
+      "courseName": "Fellowship",
+      "specialization": "Gynecological Endoscopy",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-11",
+      "courseName": "Fellowship",
+      "specialization": "Pediatric Hematology-Oncology",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-12",
+      "courseName": "Fellowship",
+      "specialization": "Maternal-Fetal Medicine",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-13",
+      "courseName": "Fellowship",
+      "specialization": "Pediatric Epilepsy & Neurology",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-14",
+      "courseName": "Fellowship",
+      "specialization": "Gastro Intestinal & HPB Surgery",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-15",
+      "courseName": "Fellowship",
+      "specialization": "minimal Access Surgery",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-16",
+      "courseName": "Fellowship",
+      "specialization": "Pediatric Infectious Diseases",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-17",
+      "courseName": "Fellowship",
+      "specialization": "Infection Control and Antimicrobial Stewardship",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-18",
+      "courseName": "Fellowship",
+      "specialization": "Diagnostic Haematology",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-19",
+      "courseName": "Fellowship",
+      "specialization": "Pediatric Genetics and Metabolic Disorders",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-20",
+      "courseName": "Fellowship",
+      "specialization": "Diagnostic Neuroradiology",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-21",
+      "courseName": "Fellowship",
+      "specialization": "Pediatric Rheumatology",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-22",
+      "courseName": "Fellowship",
+      "specialization": "Pediatric Endocrinology",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-23",
+      "courseName": "Fellowship",
+      "specialization": "Chronic Pain",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-24",
+      "courseName": "Fellowship",
+      "specialization": "Paediatric Anaesthesia",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-25",
+      "courseName": "Fellowship",
+      "specialization": "Cardiac Anaesthesia",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-26",
+      "courseName": "Fellowship",
+      "specialization": "Gynaecological Endoscopy",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-27",
+      "courseName": "Fellowship",
+      "specialization": "Musculoskeletal Imaging",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-28",
+      "courseName": "Fellowship",
+      "specialization": "Women's Imaging",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-29",
+      "courseName": "Fellowship",
+      "specialization": "Cancer Imaging",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-30",
+      "courseName": "Fellowship",
+      "specialization": "Obstetric Imaging",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-31",
+      "courseName": "Fellowship",
+      "specialization": "Spine surgery",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-32",
+      "courseName": "Fellowship",
+      "specialization": "Paediatric Orthopaedics",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-33",
+      "courseName": "Fellowship",
+      "specialization": "Stroke",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-34",
+      "courseName": "Fellowship",
+      "specialization": "Paediatric Haemato oncology",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-35",
+      "courseName": "Fellowship",
+      "specialization": "Neonatology",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-36",
+      "courseName": "Fellowship",
+      "specialization": "Paediatric Pulmonology",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-37",
+      "courseName": "Fellowship",
+      "specialization": "Onco pathology",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-38",
+      "courseName": "Fellowship",
+      "specialization": "Antimicrobial Stewardship for Clinical Pharmacists.",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-fellowship-39",
+      "courseName": "Fellowship",
+      "specialization": "Non-invasive Diagnostic Cardiology",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-dual-fellowship-1",
+      "courseName": "Dual Fellowship",
+      "specialization": "Neonatology and Pediatric Critical Care",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-short-term-fellowship-1",
+      "courseName": "Short Term Fellowship",
+      "specialization": "Medical Retina",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-iap-fellowship-1",
+      "courseName": "IAP Fellowship",
+      "specialization": "Paediatric Pulmonology",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-iap-fellowship-2",
+      "courseName": "IAP Fellowship",
+      "specialization": "Paediatric critical care",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-iap-fellowship-3",
+      "courseName": "IAP Fellowship",
+      "specialization": "Neonatology",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-iap-fellowship-4",
+      "courseName": "IAP Fellowship",
+      "specialization": "Paediatric Neurology",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-iap-fellowship-5",
+      "courseName": "IAP Fellowship",
+      "specialization": "Paediatric haemato oncology",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-iap-fellowship-6",
+      "courseName": "IAP Fellowship",
+      "specialization": "Developmental & Behavioural Paediatrics",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-nnf-fellowship-1",
+      "courseName": "NNF Fellowship",
+      "specialization": "Neonatology.",
+      "duration": "",
+      "eligibility": "MD/DNB Pediatrics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-course-1",
+      "courseName": "Certificate course",
+      "specialization": "Plant Tissue Culture and Micropropagation",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-programme-1",
+      "courseName": "Certificate Programme",
+      "specialization": "Clinical Embryology",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-programme-2",
+      "courseName": "Certificate Programme",
+      "specialization": "Critical Care Imaging",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-programme-3",
+      "courseName": "Certificate Programme",
+      "specialization": "Musculoskeletal Imaging",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-programme-4",
+      "courseName": "Certificate Programme",
+      "specialization": "Obstetric Imaging",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-programme-5",
+      "courseName": "Certificate Programme",
+      "specialization": "Biostatistics in Medical Research",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-programme-6",
+      "courseName": "Certificate Programme",
+      "specialization": "critical care in obstetrics",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-programme-7",
+      "courseName": "Certificate Programme",
+      "specialization": "NABH Accreditation Process Implementation",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-course-1",
+      "courseName": "CERTIFICATE COURSE",
+      "specialization": "BASIC HOUSEKEEPING SKILLS",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-course-2",
+      "courseName": "CERTIFICATE COURSE",
+      "specialization": "BASIC SOFT SKILLS",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-course-3",
+      "courseName": "CERTIFICATE COURSE",
+      "specialization": "BASIC FOOD & BEVERAGE",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-course-4",
+      "courseName": "CERTIFICATE COURSE",
+      "specialization": "FACILITY MANAGEMENT",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-course-5",
+      "courseName": "CERTIFICATE COURSE",
+      "specialization": "X-ray technician course",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-course-6",
+      "courseName": "CERTIFICATE COURSE",
+      "specialization": "CT/MRI Technician course",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-course-7",
+      "courseName": "CERTIFICATE COURSE",
+      "specialization": "Dialysis Technician course",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-course-8",
+      "courseName": "CERTIFICATE COURSE",
+      "specialization": "Anaesthesia Technician course",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-course-9",
+      "courseName": "CERTIFICATE COURSE",
+      "specialization": "OT Technician Course",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-course-10",
+      "courseName": "CERTIFICATE COURSE",
+      "specialization": "Emergency Medicine Technician Basic Course",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-course-11",
+      "courseName": "CERTIFICATE COURSE",
+      "specialization": "Urology Technician Course",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-course-12",
+      "courseName": "CERTIFICATE COURSE",
+      "specialization": "Central Sterile Supply Department Technician",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-course-13",
+      "courseName": "CERTIFICATE COURSE",
+      "specialization": "ICU Technician Course",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-course-14",
+      "courseName": "CERTIFICATE COURSE",
+      "specialization": "Neurophysiology Technician Certificate Course (EEG and EMG)",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-certificate-course-15",
+      "courseName": "CERTIFICATE COURSE",
+      "specialization": "Endoscopy Technician Course",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-diploma-1",
+      "courseName": "Diploma",
+      "specialization": "Cinematography",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-diploma-2",
+      "courseName": "Diploma",
+      "specialization": "Commercial Photography",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-short-term-1",
+      "courseName": "Short Term",
+      "specialization": "Professional Food Photography",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-short-term-2",
+      "courseName": "Short Term",
+      "specialization": "Professional Fashion Photography",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-short-term-3",
+      "courseName": "Short Term",
+      "specialization": "How to make a short film: Script to Screen",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-short-term-4",
+      "courseName": "Short Term",
+      "specialization": "How to shoot a TV Commercial",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-short-term-5",
+      "courseName": "Short Term",
+      "specialization": "The Art of Food Films and Direction",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-short-term-6",
+      "courseName": "Short Term",
+      "specialization": "Basic Wedding Photography and Cinematography",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-short-term-7",
+      "courseName": "Short Term",
+      "specialization": "Fundamentals of Medical Photography & Videography",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-short-term-8",
+      "courseName": "Short Term",
+      "specialization": "Basic Mobile Photography",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "bharati-vidyapeeth-college-short-term-9",
+      "courseName": "Short Term",
+      "specialization": "Basic Digital Photography",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

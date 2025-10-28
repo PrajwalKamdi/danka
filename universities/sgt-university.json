@@ -1,0 +1,892 @@
+{
+  "id": "12",
+  "slug": "sgt-university",
+  "name": "SGT University",
+  "description": "SGT University (Gurugram) is a private university known for health sciences, engineering, management, law, agriculture and humanities, featuring experiential learning and strong industry linkages.",
+  "accreditation": [
+    "UGC recognition (State Private University)",
+    "NAAC institutional accreditation",
+    "NMC/INC/DCI/PCI/BCI/COA approvals for applicable programmes (as applicable)"
+  ],
+  "awards": [
+    "Regular presence in national rankings/ratings (recent cycles)"
+  ],
+  "website": "https://www.sgtuniversity.ac.in",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "sgt-university-hons./hons-with-research-1",
+      "courseName": "Hons./Hons with Research",
+      "specialization": "Economics",
+      "duration": "",
+      "eligibility": "10+2 with minimum 50% (varies slightly by program)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-hons./hons-with-research-2",
+      "courseName": "Hons./Hons with Research",
+      "specialization": "International Relations",
+      "duration": "",
+      "eligibility": "10+2 with minimum 50% (varies slightly by program)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-hons./hons-with-research-3",
+      "courseName": "Hons./Hons with Research",
+      "specialization": "Political Science",
+      "duration": "",
+      "eligibility": "10+2 with minimum 50% (varies slightly by program)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-hons./hons-with-research-4",
+      "courseName": "Hons./Hons with Research",
+      "specialization": "Sociology",
+      "duration": "",
+      "eligibility": "10+2 with minimum 50% (varies slightly by program)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-hons./hons-with-research-5",
+      "courseName": "Hons./Hons with Research",
+      "specialization": "English",
+      "duration": "",
+      "eligibility": "10+2 with minimum 50% (varies slightly by program)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-hons./hons-with-research-6",
+      "courseName": "Hons./Hons with Research",
+      "specialization": "Liberal Arts",
+      "duration": "",
+      "eligibility": "10+2 with minimum 50% (varies slightly by program)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-hons./hons-with-research-7",
+      "courseName": "Hons./Hons with Research",
+      "specialization": "Applied Psychology",
+      "duration": "",
+      "eligibility": "10+2 with minimum 50% (varies slightly by program)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-hons.-1",
+      "courseName": "Hons.",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 with Commerce/Maths",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-hons.-2",
+      "courseName": "Hons.",
+      "specialization": "International Accounting & Finance",
+      "duration": "",
+      "eligibility": "10+2 with Commerce/Maths",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bba-1",
+      "courseName": "BBA",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 with minimum 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bba-2",
+      "courseName": "BBA",
+      "specialization": "BFSI",
+      "duration": "",
+      "eligibility": "10+2 with minimum 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bba-3",
+      "courseName": "BBA",
+      "specialization": "Business Analytics",
+      "duration": "",
+      "eligibility": "10+2 with minimum 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bba-4",
+      "courseName": "BBA",
+      "specialization": "Global Business",
+      "duration": "",
+      "eligibility": "10+2 with minimum 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bba-5",
+      "courseName": "BBA",
+      "specialization": "Logistics & Supply Chain Management",
+      "duration": "",
+      "eligibility": "10+2 with minimum 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bba-6",
+      "courseName": "BBA",
+      "specialization": "Entrepreneurship & Family Business Management",
+      "duration": "",
+      "eligibility": "10+2 with minimum 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bba-7",
+      "courseName": "BBA",
+      "specialization": "Digital Marketing",
+      "duration": "",
+      "eligibility": "10+2 with minimum 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bba-8",
+      "courseName": "BBA",
+      "specialization": "Health Care Management",
+      "duration": "",
+      "eligibility": "10+2 with minimum 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bachelor-of-science-1",
+      "courseName": "Bachelor of Science",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "10+2 with Science stream (PCB/PCM as per program)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bachelor-of-science-2",
+      "courseName": "Bachelor of Science",
+      "specialization": "Microbiology",
+      "duration": "",
+      "eligibility": "10+2 with Science stream (PCB/PCM as per program)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bachelor-of-science-3",
+      "courseName": "Bachelor of Science",
+      "specialization": "Anaesthesia & Operation Theater Technology",
+      "duration": "",
+      "eligibility": "10+2 with Science stream (PCB/PCM as per program)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bachelor-of-science-4",
+      "courseName": "Bachelor of Science",
+      "specialization": "Radio-Imaging Technology",
+      "duration": "",
+      "eligibility": "10+2 with Science stream (PCB/PCM as per program)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bachelor-of-science-5",
+      "courseName": "Bachelor of Science",
+      "specialization": "Forensic Science",
+      "duration": "",
+      "eligibility": "10+2 with Science stream (PCB/PCM as per program)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bachelor-of-science-6",
+      "courseName": "Bachelor of Science",
+      "specialization": "Nutrition & Dietetics",
+      "duration": "",
+      "eligibility": "10+2 with Science stream (PCB/PCM as per program)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-b.tech-1",
+      "courseName": "B.Tech",
+      "specialization": "Computer Science & Engineering (Artificial Intelligence & Machine Learning)",
+      "duration": "",
+      "eligibility": "10+2 with PCM, minimum 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-b.tech-2",
+      "courseName": "B.Tech",
+      "specialization": "Computer Science & Engineering (Data Science)",
+      "duration": "",
+      "eligibility": "10+2 with PCM, minimum 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-b.tech-3",
+      "courseName": "B.Tech",
+      "specialization": "Computer Science & Engineering (Cyber Security)",
+      "duration": "",
+      "eligibility": "10+2 with PCM, minimum 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-b.tech-4",
+      "courseName": "B.Tech",
+      "specialization": "Computer Science & Engineering (Cloud Computing)",
+      "duration": "",
+      "eligibility": "10+2 with PCM, minimum 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-b.tech-5",
+      "courseName": "B.Tech",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM, minimum 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-b.tech-6",
+      "courseName": "B.Tech",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM, minimum 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-b.tech-7",
+      "courseName": "B.Tech",
+      "specialization": "Electronics & Communication Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM, minimum 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bachelor-of-pharmacy-1",
+      "courseName": "Bachelor of Pharmacy",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 with PCB/PCM, minimum 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bachelor-of-pharmacy-2",
+      "courseName": "Bachelor of Pharmacy",
+      "specialization": "Practice",
+      "duration": "",
+      "eligibility": "10+2 with PCB/PCM, minimum 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-b.des.-1",
+      "courseName": "B.Des.",
+      "specialization": "Animation",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-b.des.-2",
+      "courseName": "B.Des.",
+      "specialization": "Fashion Design",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-b.des.-3",
+      "courseName": "B.Des.",
+      "specialization": "Product Design",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-b.des.-4",
+      "courseName": "B.Des.",
+      "specialization": "Furniture & Interior Design",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-b.des.-5",
+      "courseName": "B.Des.",
+      "specialization": "Communication Design",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-b.ed.-1",
+      "courseName": "B.Ed.",
+      "specialization": "Special Education",
+      "duration": "",
+      "eligibility": "Graduation with minimum 50% (varies by program)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-b.ed.-2",
+      "courseName": "B.Ed.",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "Graduation with minimum 50% (varies by program)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bachelor-of-law-1",
+      "courseName": "Bachelor of Law",
+      "specialization": "BA-LLB",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bachelor-of-law-2",
+      "courseName": "Bachelor of Law",
+      "specialization": "BBA-LLB",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bachelor-of-law-3",
+      "courseName": "Bachelor of Law",
+      "specialization": "LLB",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-mbbs-1",
+      "courseName": "MBBS",
+      "specialization": "Medicine",
+      "duration": "",
+      "eligibility": "NEET Qualification, 10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bds-1",
+      "courseName": "BDS",
+      "specialization": "Dental",
+      "duration": "",
+      "eligibility": "NEET Qualification, 10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bams-1",
+      "courseName": "BAMS",
+      "specialization": "Ayurveda",
+      "duration": "",
+      "eligibility": "NEET Qualification, 10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bpt-1",
+      "courseName": "BPT",
+      "specialization": "Physiotherapy",
+      "duration": "",
+      "eligibility": "NEET Qualification, 10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-bachelor-of-hotel-management-1",
+      "courseName": "Bachelor of Hotel Management",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 with minimum 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-mba-1",
+      "courseName": "MBA",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "Graduation with minimum 50%, preferably with entrance exam",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-mba-2",
+      "courseName": "MBA",
+      "specialization": "HR",
+      "duration": "",
+      "eligibility": "Graduation with minimum 50%, preferably with entrance exam",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-mba-3",
+      "courseName": "MBA",
+      "specialization": "Marketing",
+      "duration": "",
+      "eligibility": "Graduation with minimum 50%, preferably with entrance exam",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-mba-4",
+      "courseName": "MBA",
+      "specialization": "Analytics",
+      "duration": "",
+      "eligibility": "Graduation with minimum 50%, preferably with entrance exam",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-mba-5",
+      "courseName": "MBA",
+      "specialization": "Healthcare",
+      "duration": "",
+      "eligibility": "Graduation with minimum 50%, preferably with entrance exam",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-mba-6",
+      "courseName": "MBA",
+      "specialization": "Fintech",
+      "duration": "",
+      "eligibility": "Graduation with minimum 50%, preferably with entrance exam",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-mba-7",
+      "courseName": "MBA",
+      "specialization": "International Business",
+      "duration": "",
+      "eligibility": "Graduation with minimum 50%, preferably with entrance exam",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-mba-8",
+      "courseName": "MBA",
+      "specialization": "Agri-Business",
+      "duration": "",
+      "eligibility": "Graduation with minimum 50%, preferably with entrance exam",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-science-1",
+      "courseName": "Master of Science",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "B.Sc. in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-science-2",
+      "courseName": "Master of Science",
+      "specialization": "Microbiology",
+      "duration": "",
+      "eligibility": "B.Sc. in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-science-3",
+      "courseName": "Master of Science",
+      "specialization": "Nutrition",
+      "duration": "",
+      "eligibility": "B.Sc. in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-science-4",
+      "courseName": "Master of Science",
+      "specialization": "Cognitive Science",
+      "duration": "",
+      "eligibility": "B.Sc. in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-science-5",
+      "courseName": "Master of Science",
+      "specialization": "Radio Imaging",
+      "duration": "",
+      "eligibility": "B.Sc. in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-arts-1",
+      "courseName": "Master of Arts",
+      "specialization": "English",
+      "duration": "",
+      "eligibility": "Graduation in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-arts-2",
+      "courseName": "Master of Arts",
+      "specialization": "Psychology",
+      "duration": "",
+      "eligibility": "Graduation in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-arts-3",
+      "courseName": "Master of Arts",
+      "specialization": "Journalism",
+      "duration": "",
+      "eligibility": "Graduation in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-arts-4",
+      "courseName": "Master of Arts",
+      "specialization": "Clinical Psychology",
+      "duration": "",
+      "eligibility": "Graduation in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-m.tech-1",
+      "courseName": "M.Tech",
+      "specialization": "Civil (Structural Engineering)",
+      "duration": "",
+      "eligibility": "B.Tech/B.E. in relevant branch",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-m.tech-2",
+      "courseName": "M.Tech",
+      "specialization": "Civil (Transportation Engineering)",
+      "duration": "",
+      "eligibility": "B.Tech/B.E. in relevant branch",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-m.tech-3",
+      "courseName": "M.Tech",
+      "specialization": "Computer Science (Big Data)",
+      "duration": "",
+      "eligibility": "B.Tech/B.E. in relevant branch",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-m.tech-4",
+      "courseName": "M.Tech",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "B.Tech/B.E. in relevant branch",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-mca-1",
+      "courseName": "MCA",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "duration": "",
+      "eligibility": "BCA/B.Sc./B.Tech with Maths",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-mca-2",
+      "courseName": "MCA",
+      "specialization": "Cyber Security",
+      "duration": "",
+      "eligibility": "BCA/B.Sc./B.Tech with Maths",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-mca-3",
+      "courseName": "MCA",
+      "specialization": "Data Science",
+      "duration": "",
+      "eligibility": "BCA/B.Sc./B.Tech with Maths",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-pharmacy-1",
+      "courseName": "Master of Pharmacy",
+      "specialization": "Pharmaceutics",
+      "duration": "",
+      "eligibility": "B.Pharm with minimum 55%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-pharmacy-2",
+      "courseName": "Master of Pharmacy",
+      "specialization": "Pharmacology",
+      "duration": "",
+      "eligibility": "B.Pharm with minimum 55%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-pharmacy-3",
+      "courseName": "Master of Pharmacy",
+      "specialization": "Pharmaceutical Chemistry",
+      "duration": "",
+      "eligibility": "B.Pharm with minimum 55%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-design-1",
+      "courseName": "Master of Design",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "Graduation in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-hotel-management-1",
+      "courseName": "Master of Hotel Management",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "Graduation in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-education-1",
+      "courseName": "Master of Education",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "Graduation in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-physiotherapy-1",
+      "courseName": "Master of Physiotherapy",
+      "specialization": "Cardiopulmonary",
+      "duration": "",
+      "eligibility": "BPT",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-physiotherapy-2",
+      "courseName": "Master of Physiotherapy",
+      "specialization": "Neurology",
+      "duration": "",
+      "eligibility": "BPT",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-physiotherapy-3",
+      "courseName": "Master of Physiotherapy",
+      "specialization": "Orthopedics",
+      "duration": "",
+      "eligibility": "BPT",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-physiotherapy-4",
+      "courseName": "Master of Physiotherapy",
+      "specialization": "Sports",
+      "duration": "",
+      "eligibility": "BPT",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-physiotherapy-5",
+      "courseName": "Master of Physiotherapy",
+      "specialization": "Community Based Rehabilitation",
+      "duration": "",
+      "eligibility": "BPT",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-physiotherapy-6",
+      "courseName": "Master of Physiotherapy",
+      "specialization": "Obstetrics & Gynaecology",
+      "duration": "",
+      "eligibility": "BPT",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-master-of-laws-1",
+      "courseName": "Master of Laws",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "LLB with minimum 50%",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-diploma-in-pharmacy-1",
+      "courseName": "Diploma in Pharmacy",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 with PCB or as per course",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-general-nursing-and-midwifery-1",
+      "courseName": "General Nursing & Midwifery",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 with PCB or as per course",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-auxiliary-nursing-midwifery-1",
+      "courseName": "Auxiliary Nursing Midwifery",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 with PCB or as per course",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-pg-diploma-1",
+      "courseName": "PG Diploma",
+      "specialization": "Psychotherapy",
+      "duration": "",
+      "eligibility": "Graduation in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-pg-diploma-2",
+      "courseName": "PG Diploma",
+      "specialization": "Pain Management",
+      "duration": "",
+      "eligibility": "Graduation in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-pg-diploma-3",
+      "courseName": "PG Diploma",
+      "specialization": "Psycho-oncology",
+      "duration": "",
+      "eligibility": "Graduation in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-ph.d.-1",
+      "courseName": "Ph.D.",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "Master’s degree in relevant field with 55% + Entrance Test/Interview",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-ph.d.-2",
+      "courseName": "Ph.D.",
+      "specialization": "Pharmacy",
+      "duration": "",
+      "eligibility": "Master’s degree in relevant field with 56% + Entrance Test/Interview",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-ph.d.-3",
+      "courseName": "Ph.D.",
+      "specialization": "Psychology",
+      "duration": "",
+      "eligibility": "Master’s degree in relevant field with 57% + Entrance Test/Interview",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-ph.d.-4",
+      "courseName": "Ph.D.",
+      "specialization": "Law",
+      "duration": "",
+      "eligibility": "Master’s degree in relevant field with 58% + Entrance Test/Interview",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-ph.d.-5",
+      "courseName": "Ph.D.",
+      "specialization": "Education",
+      "duration": "",
+      "eligibility": "Master’s degree in relevant field with 59% + Entrance Test/Interview",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-ph.d.-6",
+      "courseName": "Ph.D.",
+      "specialization": "Engineering",
+      "duration": "",
+      "eligibility": "Master’s degree in relevant field with 60% + Entrance Test/Interview",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sgt-university-ph.d.-7",
+      "courseName": "Ph.D.",
+      "specialization": "Nursing",
+      "duration": "",
+      "eligibility": "Master’s degree in relevant field with 61% + Entrance Test/Interview",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

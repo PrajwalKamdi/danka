@@ -1,0 +1,262 @@
+{
+  "id": "6",
+  "slug": "yenepoya-deemed-to-be-university",
+  "name": "Yenepoya (Deemed to be University)",
+  "description": "Yenepoya (Deemed to be University), Mangaluru is a health‑sciences focused university with medical, dental, nursing, pharmacy, allied health and research programmes, along with super‑speciality training.",
+  "accreditation": [
+    "UGC (Deemed-to-be University)",
+    "NAAC Accreditation (Institutional)",
+    "NMC/DCI/INC/PCI approvals for applicable programmes"
+  ],
+  "awards": [
+    "Regularly listed in national rankings; recognised for healthcare education"
+  ],
+  "website": "https://www.yenepoya.edu.in",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "yenepoya-deemed-to-be-university-mbbs-1",
+      "courseName": "MBBS",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th (PCB) + NEET UG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-md-1",
+      "courseName": "MD",
+      "specialization": "Anatomy",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-md-2",
+      "courseName": "MD",
+      "specialization": "Physiology",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-md-3",
+      "courseName": "MD",
+      "specialization": "Biochemistry",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-md-4",
+      "courseName": "MD",
+      "specialization": "Pharmacology",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-md-5",
+      "courseName": "MD",
+      "specialization": "Pathology",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-md-6",
+      "courseName": "MD",
+      "specialization": "Microbiology",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-md-7",
+      "courseName": "MD",
+      "specialization": "Forensic Medicine",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-md-8",
+      "courseName": "MD",
+      "specialization": "Community Medicine",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-md-9",
+      "courseName": "MD",
+      "specialization": "General Medicine",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-md-10",
+      "courseName": "MD",
+      "specialization": "Paediatrics",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-md-11",
+      "courseName": "MD",
+      "specialization": "Radio-Diagnosis",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-md-12",
+      "courseName": "MD",
+      "specialization": "Anaesthesia",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-md-13",
+      "courseName": "MD",
+      "specialization": "Dermatology",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-md-14",
+      "courseName": "MD",
+      "specialization": "Psychiatry",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-md-15",
+      "courseName": "MD",
+      "specialization": "Respiratory Medicine",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-md-16",
+      "courseName": "MD",
+      "specialization": "Geriatrics",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-md-17",
+      "courseName": "MD",
+      "specialization": "Emergency Medicine",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-md-18",
+      "courseName": "MD",
+      "specialization": "Radiation Oncology",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-ms-1",
+      "courseName": "MS",
+      "specialization": "General Surgery",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-ms-2",
+      "courseName": "MS",
+      "specialization": "Orthopaedics",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-ms-3",
+      "courseName": "MS",
+      "specialization": "Ophthalmology",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-ms-4",
+      "courseName": "MS",
+      "specialization": "E.N.T",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-ms-5",
+      "courseName": "MS",
+      "specialization": "O.B.G",
+      "duration": "",
+      "eligibility": "MBBS + NEET PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-m.ch-1",
+      "courseName": "M.Ch",
+      "specialization": "Urology",
+      "duration": "",
+      "eligibility": "MS in Surgery + NEET SS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-m.ch-2",
+      "courseName": "M.Ch",
+      "specialization": "Surgical Oncology",
+      "duration": "",
+      "eligibility": "MS in Surgery + NEET SS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "yenepoya-deemed-to-be-university-dm-1",
+      "courseName": "DM",
+      "specialization": "Onco Pathology",
+      "duration": "",
+      "eligibility": "MD Pathology + NEET SS",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

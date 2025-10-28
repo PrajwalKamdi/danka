@@ -1,0 +1,146 @@
+{
+  "id": "32",
+  "slug": "pillai-college-of-engineering",
+  "name": "PILLAI college of engineering",
+  "description": "Pillai College of Engineering (PCE), Navi Mumbai offers UG, PG and PhD programmes in engineering with modern labs, industry projects and research initiatives.",
+  "accreditation": [
+    "AICTE approval",
+    "Affiliated to the state technical university (as applicable)",
+    "NBA accreditation for select programmes (as applicable)",
+    "NAAC accreditation (institutional)"
+  ],
+  "awards": [
+    "Recognised in engineering institute rankings/ratings (recent cycles)"
+  ],
+  "website": "https://www.pce.ac.in",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "pillai-college-of-engineering-b.tech-1",
+      "courseName": "B.Tech",
+      "specialization": "Computer Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "pillai-college-of-engineering-b.tech-2",
+      "courseName": "B.Tech",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "pillai-college-of-engineering-b.tech-3",
+      "courseName": "B.Tech",
+      "specialization": "Electronics & Telecommunication",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "pillai-college-of-engineering-b.tech-4",
+      "courseName": "B.Tech",
+      "specialization": "Electronics & Computer Science",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "pillai-college-of-engineering-b.tech-5",
+      "courseName": "B.Tech",
+      "specialization": "Automobile Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "pillai-college-of-engineering-b.tech-6",
+      "courseName": "B.Tech",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "pillai-college-of-engineering-m.tech-1",
+      "courseName": "M.Tech",
+      "specialization": "Computer Engineering",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "pillai-college-of-engineering-m.tech-2",
+      "courseName": "M.Tech",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "pillai-college-of-engineering-m.tech-3",
+      "courseName": "M.Tech",
+      "specialization": "Electronics Engineering",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in Electronics or related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "pillai-college-of-engineering-m.tech-4",
+      "courseName": "M.Tech",
+      "specialization": "Mechanical Engineering (CAD/CAM and Robotics, Thermal Engineering)",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in Mechanical or related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "pillai-college-of-engineering-ph.d.-1",
+      "courseName": "Ph.D.",
+      "specialization": "Computer Engineering",
+      "duration": "",
+      "eligibility": "M.E./M.Tech in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "pillai-college-of-engineering-ph.d.-2",
+      "courseName": "Ph.D.",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "M.E./M.Tech in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "pillai-college-of-engineering-ph.d.-3",
+      "courseName": "Ph.D.",
+      "specialization": "Electronics Engineering",
+      "duration": "",
+      "eligibility": "M.E./M.Tech in Electronics or related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "pillai-college-of-engineering-ph.d.-4",
+      "courseName": "Ph.D.",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "M.E./M.Tech in Mechanical or related",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

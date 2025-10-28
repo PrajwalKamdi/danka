@@ -1,0 +1,99 @@
+{
+  "id": "25",
+  "slug": "balaji-institute-of-modern-management",
+  "name": "Balaji Institute of Modern Management",
+  "description": "Balaji Institute of Modern Management (BIMM) under Sri Balaji University Pune (SBUP) offers industry‑driven MBA programmes in domains like Finance, Operations, Technology, Data Science, Marketing and HR.",
+  "accreditation": [
+    "AICTE approval",
+    "University affiliation under SBUP"
+  ],
+  "awards": [
+    "National rankings/ratings recognitions for management education"
+  ],
+  "website": "https://www.sbup.edu.in/bimm",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "balaji-institute-of-modern-management-mba-1",
+      "courseName": "MBA",
+      "specialization": "Finance & Financial Services",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "balaji-institute-of-modern-management-mba-2",
+      "courseName": "MBA",
+      "specialization": "Operations & Supply Chain Management (Incl. Logistics)",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "balaji-institute-of-modern-management-mba-3",
+      "courseName": "MBA",
+      "specialization": "Technology Management",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "balaji-institute-of-modern-management-mba-4",
+      "courseName": "MBA",
+      "specialization": "Data Science & Business Analytics",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "balaji-institute-of-modern-management-mba-5",
+      "courseName": "MBA",
+      "specialization": "Digital Marketing & Business Analytics",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "balaji-institute-of-modern-management-mba-6",
+      "courseName": "MBA",
+      "specialization": "Product Management & Business Analytics",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "balaji-institute-of-modern-management-mba-7",
+      "courseName": "MBA",
+      "specialization": "Telecom & Business Analytics",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "balaji-institute-of-modern-management-mba-8",
+      "courseName": "MBA",
+      "specialization": "Sales & Marketing (Incl. Retail & Insurance)",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "balaji-institute-of-modern-management-mba-9",
+      "courseName": "MBA",
+      "specialization": "Personnel Management & Human Resources Management",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

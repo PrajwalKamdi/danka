@@ -1,0 +1,909 @@
+{
+  "id": "20",
+  "slug": "sage-university-indore",
+  "name": "SAGE University Indore",
+  "description": "SAGE University, Indore is a state private university with programmes spanning engineering, computing, sciences, management, commerce, design and humanities, emphasising practical learning and industry collaboration.",
+  "accreditation": [
+    "UGC recognition (State Private University)",
+    "AICTE approval for applicable programmes"
+  ],
+  "awards": [
+    "Listed in national rankings/ratings (recent cycles)"
+  ],
+  "website": "https://sageuniversity.in",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "sage-university-indore-b.tech-1",
+      "courseName": "B.Tech",
+      "specialization": "Artificial Intelligence (Samatrix.io)",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.tech-2",
+      "courseName": "B.Tech",
+      "specialization": "Cyber Security and Forensic (Samatrix.io)",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.tech-3",
+      "courseName": "B.Tech",
+      "specialization": "Data Science (Samatrix.io)",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.tech-4",
+      "courseName": "B.Tech",
+      "specialization": "Adv. Computer Science and Engineering (Greeks of Gurukul)",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.tech-5",
+      "courseName": "B.Tech",
+      "specialization": "Cloud Computing",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.tech-6",
+      "courseName": "B.Tech",
+      "specialization": "Computer Science and Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.tech-7",
+      "courseName": "B.Tech",
+      "specialization": "Computer Science and Information Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.tech-8",
+      "courseName": "B.Tech",
+      "specialization": "Adv. Computer Science and Information Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.tech-9",
+      "courseName": "B.Tech",
+      "specialization": "Computer Science and Technology Select (Sunstone Eduversity)",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.tech-10",
+      "courseName": "B.Tech",
+      "specialization": "Computer Science and Technology Sunstone (Sunstone Eduversity)",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.tech-11",
+      "courseName": "B.Tech",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.tech-12",
+      "courseName": "B.Tech",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.tech-13",
+      "courseName": "B.Tech",
+      "specialization": "Electronics and Communication Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-diploma-1",
+      "courseName": "Diploma",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "10th",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-diploma-2",
+      "courseName": "Diploma",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10th",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-diploma-3",
+      "courseName": "Diploma",
+      "specialization": "Electrical Engineering",
+      "duration": "",
+      "eligibility": "10th",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-diploma-4",
+      "courseName": "Diploma",
+      "specialization": "Computer Science Engineering",
+      "duration": "",
+      "eligibility": "10th",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-lateral-entry-diploma-1",
+      "courseName": "Lateral Entry Diploma",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "10+2 (Science/Vocational) or ITI",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-lateral-entry-diploma-2",
+      "courseName": "Lateral Entry Diploma",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10+2 (Science/Vocational) or ITI",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-lateral-entry-diploma-3",
+      "courseName": "Lateral Entry Diploma",
+      "specialization": "Electrical Engineering",
+      "duration": "",
+      "eligibility": "10+2 (Science/Vocational) or ITI",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-lateral-entry-diploma-4",
+      "courseName": "Lateral Entry Diploma",
+      "specialization": "Computer Science Engineering",
+      "duration": "",
+      "eligibility": "10+2 (Science/Vocational) or ITI",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-m.tech-1",
+      "courseName": "M.Tech",
+      "specialization": "Automobile Engineering",
+      "duration": "",
+      "eligibility": "B.Tech in relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-m.tech-2",
+      "courseName": "M.Tech",
+      "specialization": "Digital Communication",
+      "duration": "",
+      "eligibility": "B.Tech in relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-m.tech-3",
+      "courseName": "M.Tech",
+      "specialization": "Computer Science and Engineering",
+      "duration": "",
+      "eligibility": "B.Tech in relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-m.tech-4",
+      "courseName": "M.Tech",
+      "specialization": "Structural Engineering",
+      "duration": "",
+      "eligibility": "B.Tech in relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-m.tech-5",
+      "courseName": "M.Tech",
+      "specialization": "Artificial Intelligence",
+      "duration": "",
+      "eligibility": "B.Tech in relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-m.tech-6",
+      "courseName": "M.Tech",
+      "specialization": "Data Science",
+      "duration": "",
+      "eligibility": "B.Tech in relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-m.tech-7",
+      "courseName": "M.Tech",
+      "specialization": "Cyber Security",
+      "duration": "",
+      "eligibility": "B.Tech in relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-m.tech-8",
+      "courseName": "M.Tech",
+      "specialization": "ME Production Engineering and Engineering Design",
+      "duration": "",
+      "eligibility": "B.Tech in relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bsc-1",
+      "courseName": "BSc",
+      "specialization": "Agriculture",
+      "duration": "",
+      "eligibility": "10+2 with PCB/PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-ba-1",
+      "courseName": "BA",
+      "specialization": "Psychology",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-ba-2",
+      "courseName": "BA",
+      "specialization": "English Literature",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-ba-3",
+      "courseName": "BA",
+      "specialization": "Economics",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-ba-4",
+      "courseName": "BA",
+      "specialization": "Plain",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-ma-1",
+      "courseName": "MA",
+      "specialization": "Psychology",
+      "duration": "",
+      "eligibility": "Graduation in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-ma-2",
+      "courseName": "MA",
+      "specialization": "English Literature",
+      "duration": "",
+      "eligibility": "Graduation in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-ma-3",
+      "courseName": "MA",
+      "specialization": "Economics",
+      "duration": "",
+      "eligibility": "Graduation in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-ma-4",
+      "courseName": "MA",
+      "specialization": "History",
+      "duration": "",
+      "eligibility": "Graduation in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.com-1",
+      "courseName": "B.Com",
+      "specialization": "Hons",
+      "duration": "",
+      "eligibility": "10+2 in Commerce/Any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.com-2",
+      "courseName": "B.Com",
+      "specialization": "Banking and Finance",
+      "duration": "",
+      "eligibility": "10+2 in Commerce/Any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.com-3",
+      "courseName": "B.Com",
+      "specialization": "Taxation",
+      "duration": "",
+      "eligibility": "10+2 in Commerce/Any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.com-4",
+      "courseName": "B.Com",
+      "specialization": "Computer",
+      "duration": "",
+      "eligibility": "10+2 in Commerce/Any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bca-1",
+      "courseName": "BCA",
+      "specialization": "Sunstone",
+      "duration": "",
+      "eligibility": "10+2 in any stream with Maths/CS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bca-2",
+      "courseName": "BCA",
+      "specialization": "I nurture",
+      "duration": "",
+      "eligibility": "10+2 in any stream with Maths/CS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-mca-1",
+      "courseName": "MCA",
+      "specialization": "Regular",
+      "duration": "",
+      "eligibility": "BCA or graduation with Maths",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-mca-2",
+      "courseName": "MCA",
+      "specialization": "Sunstone",
+      "duration": "",
+      "eligibility": "BCA or graduation with Maths",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.des-1",
+      "courseName": "B.Des",
+      "specialization": "Interior and Space Planning Design",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.des-2",
+      "courseName": "B.Des",
+      "specialization": "Animation & Visual Effects",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.des-3",
+      "courseName": "B.Des",
+      "specialization": "Apparels and Fashion Design",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.des-4",
+      "courseName": "B.Des",
+      "specialization": "User Interactive & User Experience Design",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-ba-5",
+      "courseName": "BA",
+      "specialization": "JMC",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-ma-5",
+      "courseName": "MA",
+      "specialization": "JMC",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-ba-llb-1",
+      "courseName": "BA LLB",
+      "specialization": "Integrated",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bba-llb-1",
+      "courseName": "BBA LLB",
+      "specialization": "Integrated",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-llb-1",
+      "courseName": "LLB",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-llm-1",
+      "courseName": "LLM",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "LLB Degree",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bba-1",
+      "courseName": "BBA",
+      "specialization": "Dual Spacialization in Marketing Management, Finance, HR, Event Management",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bba-2",
+      "courseName": "BBA",
+      "specialization": "Banking and Finance",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bba-3",
+      "courseName": "BBA",
+      "specialization": "Business Administration",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bba-4",
+      "courseName": "BBA",
+      "specialization": "Insurance and Investment",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bba-5",
+      "courseName": "BBA",
+      "specialization": "Hospital Administration",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bba-6",
+      "courseName": "BBA",
+      "specialization": "Aviation",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bba-7",
+      "courseName": "BBA",
+      "specialization": "Logistics & Supply Chain Management",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bba-8",
+      "courseName": "BBA",
+      "specialization": "Digital Media Management",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bba-9",
+      "courseName": "BBA",
+      "specialization": "Business Studies",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bba-10",
+      "courseName": "BBA",
+      "specialization": "Business Management With Specilization Business Analytics, Fintech, E-Commerce, Banking and Financial Services, Supply Chain Management",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-mba-1",
+      "courseName": "MBA",
+      "specialization": "Dual Spacialization in Marketing Management, Finance, HR, Production , Information Technology & Event Management",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-mba-2",
+      "courseName": "MBA",
+      "specialization": "Agri Business Management",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-mba-3",
+      "courseName": "MBA",
+      "specialization": "Applied Management ( Specialization in Marketing Management, Finance, HR, Production , Information Technology , Event Management & Agri Business Management )",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-mba-4",
+      "courseName": "MBA",
+      "specialization": "Banking and Finance",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-mba-5",
+      "courseName": "MBA",
+      "specialization": "Hospital Administration",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-mba-6",
+      "courseName": "MBA",
+      "specialization": "Business Administration",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-mba-7",
+      "courseName": "MBA",
+      "specialization": "Logistics & Supply Chain Management",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-mba-8",
+      "courseName": "MBA",
+      "specialization": "Artifical Intelligence",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-mba-9",
+      "courseName": "MBA",
+      "specialization": "Insurance and Investment",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-mba-10",
+      "courseName": "MBA",
+      "specialization": "Business Studies",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-mba-11",
+      "courseName": "MBA",
+      "specialization": "Business Management With Specialization Business Analytic, Fin-tech, E-Commerce, Banking and Financial Services, Supply Chain Management",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-b.pharm-1",
+      "courseName": "B.Pharm",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-d.pharm-1",
+      "courseName": "D.Pharm",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-m.pharm-1",
+      "courseName": "M.Pharm",
+      "specialization": "Pharmacology",
+      "duration": "",
+      "eligibility": "Graduation in relavant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-m.pharm-2",
+      "courseName": "M.Pharm",
+      "specialization": "Pharmaceutics",
+      "duration": "",
+      "eligibility": "Graduation in relavant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-pharm.d-1",
+      "courseName": "Pharm.D",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bachelor-1",
+      "courseName": "Bachelor",
+      "specialization": "Visual Arts Specialization in Film Making",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bachelor-2",
+      "courseName": "Bachelor",
+      "specialization": "Visual Arts Specialization in Live Action",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bachelor-3",
+      "courseName": "Bachelor",
+      "specialization": "Performing Arts, Specialization in Dance",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bachelor-4",
+      "courseName": "Bachelor",
+      "specialization": "Performing Arts, Specialization in Music",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-diploma-5",
+      "courseName": "Diploma",
+      "specialization": "Music",
+      "duration": "",
+      "eligibility": "10th",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-diploma-6",
+      "courseName": "Diploma",
+      "specialization": "Dance",
+      "duration": "",
+      "eligibility": "10th",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bsc-2",
+      "courseName": "BSc",
+      "specialization": "Forensic Science (Hons.)",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bsc-3",
+      "courseName": "BSc",
+      "specialization": "Computer Science (Hons.)",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bsc-4",
+      "courseName": "BSc",
+      "specialization": "Biotechnology (Hons.)",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bsc-5",
+      "courseName": "BSc",
+      "specialization": "Microbiology (Hons.)",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-bsc-6",
+      "courseName": "BSc",
+      "specialization": "Biological Science (Hons.)",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-msc-1",
+      "courseName": "MSc",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-msc-2",
+      "courseName": "MSc",
+      "specialization": "Microbiology",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-msc-3",
+      "courseName": "MSc",
+      "specialization": "Physics",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-msc-4",
+      "courseName": "MSc",
+      "specialization": "Chemistry",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-msc-5",
+      "courseName": "MSc",
+      "specialization": "Mathematics",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sage-university-indore-msc-6",
+      "courseName": "MSc",
+      "specialization": "Forensic Science",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

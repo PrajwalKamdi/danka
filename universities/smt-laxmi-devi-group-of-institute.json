@@ -1,0 +1,100 @@
+{
+  "id": "10",
+  "slug": "smt-laxmi-devi-group-of-institute",
+  "name": "SMT Laxmi Devi Group Of Institute",
+  "description": "SMT Laxmi Devi Group of Institute offers healthcare and paramedical programmes including Nursing, Physiotherapy, Medical Lab Technology, Imaging Technology and B.Pharm with an emphasis on clinical exposure.",
+  "accreditation": [
+    "State Nursing Council recognition (as applicable)",
+    "Indian Nursing Council (INC) recognition (as applicable)",
+    "Pharmacy Council of India (PCI) approval for pharmacy programmes (as applicable)"
+  ],
+  "awards": [
+    "Institutional recognitions/ratings (recent cycles)"
+  ],
+  "website": "",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "smt-laxmi-devi-group-of-institute-general-nursing-and-midwifery-(gnm)-1",
+      "courseName": "General Nursing & Midwifery (GNM)",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th pass (preferably Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "smt-laxmi-devi-group-of-institute-bsc-1",
+      "courseName": "BSc",
+      "specialization": "Nursing",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "smt-laxmi-devi-group-of-institute-b.pharm-1",
+      "courseName": "B.Pharm",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th pass with PCB/M",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "smt-laxmi-devi-group-of-institute-b.pharm-2",
+      "courseName": "B.Pharm",
+      "specialization": "Lateral",
+      "duration": "",
+      "eligibility": "D.Pharm pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "smt-laxmi-devi-group-of-institute-bsc-2",
+      "courseName": "BSc",
+      "specialization": "Medical Lab Technology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "smt-laxmi-devi-group-of-institute-bsc-3",
+      "courseName": "BSc",
+      "specialization": "Operation Theatre & Anaesthesia Technology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "smt-laxmi-devi-group-of-institute-bsc-4",
+      "courseName": "BSc",
+      "specialization": "Renal Dialysis",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "smt-laxmi-devi-group-of-institute-bsc-5",
+      "courseName": "BSc",
+      "specialization": "Medical Imaging Technology",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "smt-laxmi-devi-group-of-institute-bpt-1",
+      "courseName": "BPT",
+      "specialization": "Physiotherapy",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

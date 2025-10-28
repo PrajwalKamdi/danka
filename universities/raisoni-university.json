@@ -1,0 +1,1377 @@
+{
+  "id": "15",
+  "slug": "raisoni-university",
+  "name": "Raisoni University",
+  "description": "Raisoni University offers multi‑disciplinary programmes across engineering, management, pharmacy, agriculture and allied health sciences with a focus on applied learning and industry partnerships.",
+  "accreditation": [
+    "UGC recognition (State Private University)",
+    "AICTE/PCI/COA/BCI approvals for applicable programmes (as applicable)"
+  ],
+  "awards": [
+    "Featured in national rankings/ratings (recent cycles)"
+  ],
+  "website": "",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "raisoni-university-diploma-(engineering)-1",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Computer Science Engineering",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-diploma-(engineering)-2",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-diploma-(engineering)-3",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-diploma-(engineering)-4",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Mining Engineering",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-diploma-(engineering)-5",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Mechatronics Engineering",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-diploma-(engineering)-6",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Electrical Engineering",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-diploma-(engineering)-7",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Automobile Engineering",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-diploma-(safety)-1",
+      "courseName": "Diploma (Safety)",
+      "specialization": "Fire Safety",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-diploma-(safety)-2",
+      "courseName": "Diploma (Safety)",
+      "specialization": "Industrial Safety",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-advanced-diploma-1",
+      "courseName": "Advanced Diploma",
+      "specialization": "Industrial safety & Security Management",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-advanced-diploma-2",
+      "courseName": "Advanced Diploma",
+      "specialization": "Fire safety & Industrial Environment Engineering",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-d.pharm-1",
+      "courseName": "D.Pharm",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-diploma-(agriculture)-1",
+      "courseName": "Diploma (Agriculture)",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-diploma-1",
+      "courseName": "Diploma",
+      "specialization": "X-Ray Technician",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-diploma-2",
+      "courseName": "Diploma",
+      "specialization": "Medical Laboratory Technology",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-diploma-3",
+      "courseName": "Diploma",
+      "specialization": "Dialysis Technicial",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-1",
+      "courseName": "B.Tech",
+      "specialization": "Artificial Intelligence",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-2",
+      "courseName": "B.Tech",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-3",
+      "courseName": "B.Tech",
+      "specialization": "Computer Science & Engineering",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-4",
+      "courseName": "B.Tech",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-5",
+      "courseName": "B.Tech",
+      "specialization": "Electrical Engineering",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-6",
+      "courseName": "B.Tech",
+      "specialization": "Mining Engineering",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-7",
+      "courseName": "B.Tech",
+      "specialization": "Automobile Engineering",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-8",
+      "courseName": "B.Tech",
+      "specialization": "Mechatronics",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-9",
+      "courseName": "B.Tech",
+      "specialization": "Electronics & Telecommunication",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-10",
+      "courseName": "B.Tech",
+      "specialization": "Data Science",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-(lateral-entry)-1",
+      "courseName": "B.Tech (Lateral Entry)",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "Diploma in Relevant Field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-(lateral-entry)-2",
+      "courseName": "B.Tech (Lateral Entry)",
+      "specialization": "Electrical Engineering",
+      "duration": "",
+      "eligibility": "Diploma in Relevant Field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-(lateral-entry)-3",
+      "courseName": "B.Tech (Lateral Entry)",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "Diploma in Relevant Field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-(lateral-entry)-4",
+      "courseName": "B.Tech (Lateral Entry)",
+      "specialization": "Artificial Intelligence",
+      "duration": "",
+      "eligibility": "Diploma in Relevant Field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-(lateral-entry)-5",
+      "courseName": "B.Tech (Lateral Entry)",
+      "specialization": "Computer Science Enginnering",
+      "duration": "",
+      "eligibility": "Diploma in Relevant Field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-(lateral-entry)-6",
+      "courseName": "B.Tech (Lateral Entry)",
+      "specialization": "Mining Enginnering",
+      "duration": "",
+      "eligibility": "Diploma in Relevant Field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-(lateral-entry)-7",
+      "courseName": "B.Tech (Lateral Entry)",
+      "specialization": "Mechatronics Enginnering",
+      "duration": "",
+      "eligibility": "Diploma in Relevant Field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-(lateral-entry)-8",
+      "courseName": "B.Tech (Lateral Entry)",
+      "specialization": "Automobile Enginnering",
+      "duration": "",
+      "eligibility": "Diploma in Relevant Field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-(lateral-entry)-9",
+      "courseName": "B.Tech (Lateral Entry)",
+      "specialization": "Electronics and Telecommunication engineering",
+      "duration": "",
+      "eligibility": "Diploma in Relevant Field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-(lateral-entry)-10",
+      "courseName": "B.Tech (Lateral Entry)",
+      "specialization": "Data Science",
+      "duration": "",
+      "eligibility": "Diploma in Relevant Field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-bca-1",
+      "courseName": "BCA",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.sc-1",
+      "courseName": "B.Sc",
+      "specialization": "Forensic Science",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.sc-2",
+      "courseName": "B.Sc",
+      "specialization": "Fire & Safety",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.sc-3",
+      "courseName": "B.Sc",
+      "specialization": "CBZ",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.sc-4",
+      "courseName": "B.Sc",
+      "specialization": "Statistics",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.sc-5",
+      "courseName": "B.Sc",
+      "specialization": "IT",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.sc-6",
+      "courseName": "B.Sc",
+      "specialization": "IT Artificial Intelligence",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.sc-7",
+      "courseName": "B.Sc",
+      "specialization": "IT Data Science",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.sc-8",
+      "courseName": "B.Sc",
+      "specialization": "PCM",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.sc-9",
+      "courseName": "B.Sc",
+      "specialization": "Animation in 2D & 3D",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.sc-10",
+      "courseName": "B.Sc",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.sc-11",
+      "courseName": "B.Sc",
+      "specialization": "Biochemistry",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.sc-12",
+      "courseName": "B.Sc",
+      "specialization": "Nursing",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-bmlt-1",
+      "courseName": "BMLT",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th Pass (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-bba-1",
+      "courseName": "BBA",
+      "specialization": "Entrepreneurship Development",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-bba-2",
+      "courseName": "BBA",
+      "specialization": "Banking & Finance",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-bba-3",
+      "courseName": "BBA",
+      "specialization": "Business Analytics",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-bba-4",
+      "courseName": "BBA",
+      "specialization": "Logistics Management",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-bba-5",
+      "courseName": "BBA",
+      "specialization": "Retail Management",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-bba-6",
+      "courseName": "BBA",
+      "specialization": "Supply chain management",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-bba-7",
+      "courseName": "BBA",
+      "specialization": "Specialization",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-bba-8",
+      "courseName": "BBA",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.com-1",
+      "courseName": "B.Com",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.com-2",
+      "courseName": "B.Com",
+      "specialization": "Envestment Management",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ba-1",
+      "courseName": "BA",
+      "specialization": "LLB (5 Yr. Integrated Programme)",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-llb-(3-years-program)-1",
+      "courseName": "LLB (3 years program)",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-bba-9",
+      "courseName": "BBA",
+      "specialization": "LLB",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.com-3",
+      "courseName": "B.Com",
+      "specialization": "LLB",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.sc-13",
+      "courseName": "B.Sc",
+      "specialization": "LLB",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.pharm-1",
+      "courseName": "B.Pharm",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.pharm-(lateral-entry)-1",
+      "courseName": "B.Pharm (Lateral Entry)",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Diploma in Relevant Field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.sc-14",
+      "courseName": "B.Sc",
+      "specialization": "Agriculture (Hon's)",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-b.tech-11",
+      "courseName": "B.Tech",
+      "specialization": "Agriculture",
+      "duration": "",
+      "eligibility": "12th Pass (Science for Engineering/Science streams)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ba-2",
+      "courseName": "BA",
+      "specialization": "Media Management",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ba-3",
+      "courseName": "BA",
+      "specialization": "Hospitality Management",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ba-4",
+      "courseName": "BA",
+      "specialization": "General Management",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ba-5",
+      "courseName": "BA",
+      "specialization": "in Civil Services",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ba-6",
+      "courseName": "BA",
+      "specialization": "in Liberal Arts",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.tech-1",
+      "courseName": "M.Tech",
+      "specialization": "Artificial Intelligence",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.tech-2",
+      "courseName": "M.Tech",
+      "specialization": "Embedded System & VLSI",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.tech-3",
+      "courseName": "M.Tech",
+      "specialization": "Structural Engineering",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.tech-4",
+      "courseName": "M.Tech",
+      "specialization": "Electronics & Telecommunication Engineering",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.tech-5",
+      "courseName": "M.Tech",
+      "specialization": "Transportation Engineering",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.tech-6",
+      "courseName": "M.Tech",
+      "specialization": "Mining Engineering",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.tech-7",
+      "courseName": "M.Tech",
+      "specialization": "CAD/CAM",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.tech-8",
+      "courseName": "M.Tech",
+      "specialization": "Computer Science & Engineering",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.tech-9",
+      "courseName": "M.Tech",
+      "specialization": "Construction Engineering Management",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.sc-1",
+      "courseName": "M.Sc",
+      "specialization": "Physics",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.sc-2",
+      "courseName": "M.Sc",
+      "specialization": "Mathematics",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.sc-3",
+      "courseName": "M.Sc",
+      "specialization": "Chemistry",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.sc-4",
+      "courseName": "M.Sc",
+      "specialization": "Statistics",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.sc-5",
+      "courseName": "M.Sc",
+      "specialization": "Remote Sensing",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.sc-6",
+      "courseName": "M.Sc",
+      "specialization": "Botany",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.sc-7",
+      "courseName": "M.Sc",
+      "specialization": "Zoology",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.sc-8",
+      "courseName": "M.Sc",
+      "specialization": "Finance",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.sc-9",
+      "courseName": "M.Sc",
+      "specialization": "Environmental Science",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.sc-10",
+      "courseName": "M.Sc",
+      "specialization": "Waste Management",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.sc-11",
+      "courseName": "M.Sc",
+      "specialization": "Biochemistry",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.sc-12",
+      "courseName": "M.Sc",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-mba-1",
+      "courseName": "MBA",
+      "specialization": "Logistics Management",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-mba-2",
+      "courseName": "MBA",
+      "specialization": "Banking & Finance",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-mba-3",
+      "courseName": "MBA",
+      "specialization": "Entrepreneurship Development",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-mba-4",
+      "courseName": "MBA",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-mba-5",
+      "courseName": "MBA",
+      "specialization": "Business Analytics",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-mba-6",
+      "courseName": "MBA",
+      "specialization": "Agri-Business Management",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-mba-7",
+      "courseName": "MBA",
+      "specialization": "Hospital Administration",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-mba-8",
+      "courseName": "MBA",
+      "specialization": "Executive",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.com-1",
+      "courseName": "M.Com",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-llm-1",
+      "courseName": "LLM",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-llm-2",
+      "courseName": "LLM",
+      "specialization": "Executive",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.sc-13",
+      "courseName": "M.Sc",
+      "specialization": "Agriculture Agronomy",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.sc-(agriculture)-1",
+      "courseName": "M.Sc (Agriculture)",
+      "specialization": "M.Sc  Agricultural Extension and Communication",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.sc-14",
+      "courseName": "M.Sc",
+      "specialization": "Agriculture Horticulture",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.sc-15",
+      "courseName": "M.Sc",
+      "specialization": "Agriculture Plant Pathology",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.sc-16",
+      "courseName": "M.Sc",
+      "specialization": "Agriculture Entomology",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.sc-17",
+      "courseName": "M.Sc",
+      "specialization": "Agriculture Ecomomics",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.sc-18",
+      "courseName": "M.Sc",
+      "specialization": "Genetic and Plant Breeding",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ma-1",
+      "courseName": "MA",
+      "specialization": "Media Management",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-m.pharm-1",
+      "courseName": "M.Pharm",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ph.d.-1",
+      "courseName": "Ph.D.",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ph.d.-2",
+      "courseName": "Ph.D.",
+      "specialization": "Computer Science & Engineering",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ph.d.-3",
+      "courseName": "Ph.D.",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ph.d.-4",
+      "courseName": "Ph.D.",
+      "specialization": "Electrical Engineering",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ph.d.-5",
+      "courseName": "Ph.D.",
+      "specialization": "Electronics & Telecommunication",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ph.d.-6",
+      "courseName": "Ph.D.",
+      "specialization": "Management",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ph.d.-7",
+      "courseName": "Ph.D.",
+      "specialization": "Physics",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ph.d.-8",
+      "courseName": "Ph.D.",
+      "specialization": "Chemistry",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ph.d.-9",
+      "courseName": "Ph.D.",
+      "specialization": "Mathematics",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ph.d.-10",
+      "courseName": "Ph.D.",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ph.d.-11",
+      "courseName": "Ph.D.",
+      "specialization": "Computer Science",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ph.d.-12",
+      "courseName": "Ph.D.",
+      "specialization": "Law",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ph.d.-13",
+      "courseName": "Ph.D.",
+      "specialization": "Pharmacy",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-ph.d.-14",
+      "courseName": "Ph.D.",
+      "specialization": "Agricultural Sciences",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-1",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Advertising",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-2",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Business Analytics",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-3",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Corporate Communication",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-4",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Digital Marketing",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-5",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Entrepreneurship Management",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-6",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Financial Decision Making for Managers",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-7",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Intellectual property Rights (IPR)",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-8",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Logistics & SCM",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-9",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Modern Project Management",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-10",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Stock Market",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-11",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Analytical Techniques",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-12",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Animal Models in Experimental Pharmacology",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-13",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Basics of Medicinal Chemistry",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-14",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Extraction & isolation Techniques",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-15",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Fundamental of Inorganic Chemistry",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-16",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Pharmaceutical Chemistry",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-17",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Physico-chemical Properties",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-18",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Quality Assurance",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-19",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Certificate course in Apiculture",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-20",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Commercial Floriculture",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-21",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Integrated farming system",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "raisoni-university-certificate-(nsqf)-22",
+      "courseName": "Certificate (NSQF)",
+      "specialization": "Mushroom Cultivation",
+      "duration": "",
+      "eligibility": "Refer to University Guidelines",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "24",
+  "slug": "dr-d-y-patil-institute-of-engg",
+  "name": "Dr.D.Y.Patil Institute of Engineering",
+  "description": "Dr. D. Y. Patil Institute of Engineering offers undergraduate and postgraduate programmes in core and emerging engineering disciplines with focus on projects, research exposure and career readiness.",
+  "accreditation": [
+    "AICTE approval",
+    "Affiliated to state technical university (as applicable)",
+    "NBA accreditation for select programmes (as applicable)"
+  ],
+  "awards": [
+    "Institute-level rankings/ratings recognitions (recent cycles)"
+  ],
+  "website": "",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "dr-d-y-patil-institute-of-engg-b.tech-1",
+      "courseName": "B.Tech",
+      "specialization": "Electronics & Telecommunication",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-d-y-patil-institute-of-engg-b.tech-2",
+      "courseName": "B.Tech",
+      "specialization": "Computer Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-d-y-patil-institute-of-engg-b.tech-3",
+      "courseName": "B.Tech",
+      "specialization": "Artificial Intelligence and Data Science",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-d-y-patil-institute-of-engg-b.tech-4",
+      "courseName": "B.Tech",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-d-y-patil-institute-of-engg-b.tech-5",
+      "courseName": "B.Tech",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-d-y-patil-institute-of-engg-b.tech-6",
+      "courseName": "B.Tech",
+      "specialization": "Chemical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

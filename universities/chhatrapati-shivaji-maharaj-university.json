@@ -1,0 +1,1188 @@
+{
+  "id": "34",
+  "slug": "chhatrapati-shivaji-maharaj-university",
+  "name": "CHHATRAPATI SHIVAJI MAHARAJ UNIVERSITY",
+  "description": "Chhatrapati Shivaji Maharaj University (Navi Mumbai) is a state private university offering programmes across engineering, management, commerce, sciences, law, humanities and design with industry-oriented curricula.",
+  "accreditation": [
+    "UGC recognition (State Private University)",
+    "AICTE/PCI/BCI/NCTE approvals for applicable programmes"
+  ],
+  "awards": [
+    "Recognised in national rankings/ratings (recent cycles)"
+  ],
+  "website": "https://www.csmu.ac.in",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.-tech.-cse-it-1",
+      "courseName": "B. Tech. CSE/ IT",
+      "specialization": "Computer Science & Engg. (Generic)",
+      "duration": "",
+      "eligibility": "Passed 10+2 with Physics, Mathematics and a third subject (Chemistry/CS/Electronics/IT/Biology/Technical Vocational); minimum 45% aggregate in the three.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.-tech.-cse-it-2",
+      "courseName": "B. Tech. CSE/ IT",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "Passed 10+2 with Physics, Mathematics and a third subject (Chemistry/CS/Electronics/IT/Biology/Technical Vocational); minimum 45% aggregate in the three.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.-tech.-cse-it-3",
+      "courseName": "B. Tech. CSE/ IT",
+      "specialization": "Artificial Intelligence & Machine Learning*",
+      "duration": "",
+      "eligibility": "Passed 10+2 with Physics, Mathematics and a third subject (Chemistry/CS/Electronics/IT/Biology/Technical Vocational); minimum 45% aggregate in the three.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.-tech.-cse-it-4",
+      "courseName": "B. Tech. CSE/ IT",
+      "specialization": "Data Science*",
+      "duration": "",
+      "eligibility": "Passed 10+2 with Physics, Mathematics and a third subject (Chemistry/CS/Electronics/IT/Biology/Technical Vocational); minimum 45% aggregate in the three.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.-tech.-cse-it-5",
+      "courseName": "B. Tech. CSE/ IT",
+      "specialization": "Cloud Computing*",
+      "duration": "",
+      "eligibility": "Passed 10+2 with Physics, Mathematics and a third subject (Chemistry/CS/Electronics/IT/Biology/Technical Vocational); minimum 45% aggregate in the three.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.-tech.-cse-it-6",
+      "courseName": "B. Tech. CSE/ IT",
+      "specialization": "Internet of Things*",
+      "duration": "",
+      "eligibility": "Passed 10+2 with Physics, Mathematics and a third subject (Chemistry/CS/Electronics/IT/Biology/Technical Vocational); minimum 45% aggregate in the three.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.-tech.-electrical-electronics-engg.-1",
+      "courseName": "B. Tech. Electrical / Electronics Engg.",
+      "specialization": "Electrical Engineering",
+      "duration": "",
+      "eligibility": "Passed 10+2 with Physics, Mathematics and Chemistry with at least 45% marks in these 3 subjects.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.-tech.-electrical-electronics-engg.-2",
+      "courseName": "B. Tech. Electrical / Electronics Engg.",
+      "specialization": "Electronics and Communications Engg.",
+      "duration": "",
+      "eligibility": "Passed 10+2 with Physics, Mathematics and Chemistry with at least 45% marks in these 3 subjects.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.-tech.-mechanical-engg.-1",
+      "courseName": "B. Tech. Mechanical Engg.",
+      "specialization": "Mechanical Engg.",
+      "duration": "",
+      "eligibility": "Passed 10+2 with Physics, Mathematics and Chemistry with at least 45% marks in these 3 subjects.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.-tech.-mechanical-engg.-2",
+      "courseName": "B. Tech. Mechanical Engg.",
+      "specialization": "Mechatronics Engg.",
+      "duration": "",
+      "eligibility": "Passed 10+2 with Physics, Mathematics and Chemistry with at least 45% marks in these 3 subjects.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.-tech.-mechanical-engg.-3",
+      "courseName": "B. Tech. Mechanical Engg.",
+      "specialization": "Aeronautical & Aerospace Engg.",
+      "duration": "",
+      "eligibility": "Passed 10+2 with Physics, Mathematics and Chemistry with at least 45% marks in these 3 subjects.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.-tech.-civil-engg.-1",
+      "courseName": "B. Tech. Civil Engg.",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "Passed 10+2 with Physics, Chemistry and a third subject such as Biology/CS/Electronics/IT/Technical Vocational.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.-tech.-biotechnology-1",
+      "courseName": "B. Tech. Biotechnology",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "Passed 10+2 with Physics, Chemistry and a third subject such as Biology/CS/Electronics/IT/Technical Vocational.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.-tech.-lateral-entry-1",
+      "courseName": "B. Tech. lateral Entry",
+      "specialization": "All above branches as per availability",
+      "duration": "",
+      "eligibility": "Passed 3-year Diploma after 10th / B.Sc. with relevant subjects (as per norms).",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bachelor-of-computer-applications-bca-1",
+      "courseName": "Bachelor of Computer Applications (BCA)",
+      "specialization": "Mobile Applications",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or diploma in relevant branch of Engineering.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bachelor-of-computer-applications-bca-2",
+      "courseName": "Bachelor of Computer Applications (BCA)",
+      "specialization": "Data Science & Information Security*",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or diploma in relevant branch of Engineering.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bachelor-of-computer-applications-bca-3",
+      "courseName": "Bachelor of Computer Applications (BCA)",
+      "specialization": "Artificial Intelligence & Machine Learning*",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or diploma in relevant branch of Engineering.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bachelor-of-computer-applications-bca-4",
+      "courseName": "Bachelor of Computer Applications (BCA)",
+      "specialization": "Cloud Computing*",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or diploma in relevant branch of Engineering.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.sc.-cs-it-1",
+      "courseName": "B.Sc. (CS/ IT)",
+      "specialization": "Computer Science",
+      "duration": "",
+      "eligibility": "Passed 10+2 with Physics and Mathematics and any one of Chemistry/Biology/Computer Science.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.sc.-cs-it-2",
+      "courseName": "B.Sc. (CS/ IT)",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "Passed 10+2 with Physics and Mathematics and any one of Chemistry/Biology/Computer Science.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-technology-m.tech.-1",
+      "courseName": "Master of Technology (M.Tech.)",
+      "specialization": "Computer Science and Engineering",
+      "duration": "",
+      "eligibility": "Minimum 50% marks in B.Tech. in respective branch.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-technology-m.tech.-2",
+      "courseName": "Master of Technology (M.Tech.)",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "Minimum 50% marks in B.Tech. in respective branch.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-technology-m.tech.-3",
+      "courseName": "Master of Technology (M.Tech.)",
+      "specialization": "Civil Engg.",
+      "duration": "",
+      "eligibility": "Minimum 50% marks in B.Tech. in respective branch.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-technology-m.tech.-4",
+      "courseName": "Master of Technology (M.Tech.)",
+      "specialization": "Mechanical Engg.",
+      "duration": "",
+      "eligibility": "Minimum 50% marks in B.Tech. in respective branch.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-technology-m.tech.-5",
+      "courseName": "Master of Technology (M.Tech.)",
+      "specialization": "Electrical Engg.",
+      "duration": "",
+      "eligibility": "Minimum 50% marks in B.Tech. in respective branch.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-technology-m.tech.-6",
+      "courseName": "Master of Technology (M.Tech.)",
+      "specialization": "Electronics Engg.",
+      "duration": "",
+      "eligibility": "Minimum 50% marks in B.Tech. in respective branch.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-technology-m.tech.-7",
+      "courseName": "Master of Technology (M.Tech.)",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "Minimum 50% marks in B.Tech. in respective branch.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-m.sc.-cs-it-1",
+      "courseName": "M.Sc. (CS/IT)",
+      "specialization": "Computer Science",
+      "duration": "",
+      "eligibility": "Passed bachelor’s degree in relevant subject.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-m.sc.-cs-it-2",
+      "courseName": "M.Sc. (CS/IT)",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "Passed bachelor’s degree in relevant subject.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-computer-applications-mca-1",
+      "courseName": "Master of Computer Applications (MCA)",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "duration": "",
+      "eligibility": "Bachelor's degree with minimum 50% aggregate; bridge course for non‑Math background.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-computer-applications-mca-2",
+      "courseName": "Master of Computer Applications (MCA)",
+      "specialization": "Cyber Security",
+      "duration": "",
+      "eligibility": "Bachelor's degree with minimum 50% aggregate; bridge course for non‑Math background.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-ph.d.-in-engineering-technology-1",
+      "courseName": "Ph.D. in Engineering & Technology",
+      "specialization": "Ph.D. in various disciplines of Engineering and Technology as per availability of supervisor",
+      "duration": "",
+      "eligibility": "As per the UGC Regulations 2022.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.-com.-b.com.-a-f-b.-com.-hons.-research-1",
+      "courseName": "B. Com. / B.Com. (A&F) / B. Com. (Hons. / Research)",
+      "specialization": "Generic",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.-com.-b.com.-a-f-b.-com.-hons.-research-2",
+      "courseName": "B. Com. / B.Com. (A&F) / B. Com. (Hons. / Research)",
+      "specialization": "Accounts and Finance (Equivalent to B.A.F.)",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-commerce-m.-com.-1",
+      "courseName": "Master of Commerce (M. Com.)",
+      "specialization": "Accounting",
+      "duration": "",
+      "eligibility": "Passed Bachelor degree in relevant subject.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-commerce-m.-com.-2",
+      "courseName": "Master of Commerce (M. Com.)",
+      "specialization": "Banking and Insurance",
+      "duration": "",
+      "eligibility": "Passed Bachelor degree in relevant subject.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bba-1",
+      "courseName": "BBA",
+      "specialization": "International Business",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bba-2",
+      "courseName": "BBA",
+      "specialization": "Supply Chain Management",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bba-3",
+      "courseName": "BBA",
+      "specialization": "Finance",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bba-4",
+      "courseName": "BBA",
+      "specialization": "Aviation Management",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bba-5",
+      "courseName": "BBA",
+      "specialization": "Marketing",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bba-6",
+      "courseName": "BBA",
+      "specialization": "Human Resources",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bba-7",
+      "courseName": "BBA",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bba-8",
+      "courseName": "BBA",
+      "specialization": "Branding and Advertising",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bba-9",
+      "courseName": "BBA",
+      "specialization": "Business Analytics",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bba-10",
+      "courseName": "BBA",
+      "specialization": "Global e-Business",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bba-11",
+      "courseName": "BBA",
+      "specialization": "Global Business Management",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bba-12",
+      "courseName": "BBA",
+      "specialization": "Global Marketing and Event Management",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bba-13",
+      "courseName": "BBA",
+      "specialization": "Banking Finance and Insurance",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bba-14",
+      "courseName": "BBA",
+      "specialization": "HR Management",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bba-15",
+      "courseName": "BBA",
+      "specialization": "Sales and Marketing",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bba-16",
+      "courseName": "BBA",
+      "specialization": "Creative Communication",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bba-17",
+      "courseName": "BBA",
+      "specialization": "Financial Analysis (Integrated with CFA)",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-mba-1",
+      "courseName": "MBA",
+      "specialization": "Marketing",
+      "duration": "",
+      "eligibility": "Bachelor degree in any subject with at least 50% marks in aggregate or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-mba-2",
+      "courseName": "MBA",
+      "specialization": "Finance",
+      "duration": "",
+      "eligibility": "Bachelor degree in any subject with at least 50% marks in aggregate or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-mba-3",
+      "courseName": "MBA",
+      "specialization": "Human Resources",
+      "duration": "",
+      "eligibility": "Bachelor degree in any subject with at least 50% marks in aggregate or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-mba-4",
+      "courseName": "MBA",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "Bachelor degree in any subject with at least 50% marks in aggregate or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-mba-5",
+      "courseName": "MBA",
+      "specialization": "Hospital Management",
+      "duration": "",
+      "eligibility": "Bachelor degree in any subject with at least 50% marks in aggregate or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-mba-6",
+      "courseName": "MBA",
+      "specialization": "Pharmaceutical Management",
+      "duration": "",
+      "eligibility": "Bachelor degree in any subject with at least 50% marks in aggregate or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-mba-7",
+      "courseName": "MBA",
+      "specialization": "Fintech",
+      "duration": "",
+      "eligibility": "Bachelor degree in any subject with at least 50% marks in aggregate or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-mba-8",
+      "courseName": "MBA",
+      "specialization": "Operations Management",
+      "duration": "",
+      "eligibility": "Bachelor degree in any subject with at least 50% marks in aggregate or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-mba-9",
+      "courseName": "MBA",
+      "specialization": "Logistics and Supply Chain Management",
+      "duration": "",
+      "eligibility": "Bachelor degree in any subject with at least 50% marks in aggregate or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-mba-10",
+      "courseName": "MBA",
+      "specialization": "International Business",
+      "duration": "",
+      "eligibility": "Bachelor degree in any subject with at least 50% marks in aggregate or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-mba-11",
+      "courseName": "MBA",
+      "specialization": "Business Analytics",
+      "duration": "",
+      "eligibility": "Bachelor degree in any subject with at least 50% marks in aggregate or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-mba-12",
+      "courseName": "MBA",
+      "specialization": "Digital Marketing",
+      "duration": "",
+      "eligibility": "Bachelor degree in any subject with at least 50% marks in aggregate or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-mba-13",
+      "courseName": "MBA",
+      "specialization": "Agri Business Management",
+      "duration": "",
+      "eligibility": "Bachelor degree in any subject with at least 50% marks in aggregate or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-mba-14",
+      "courseName": "MBA",
+      "specialization": "Innovation and Design",
+      "duration": "",
+      "eligibility": "Bachelor degree in any subject with at least 50% marks in aggregate or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bhm-b.sc.-hs-1",
+      "courseName": "BHM/ B.Sc. (HS)",
+      "specialization": "Hotel and Catering Tech.",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bhm-b.sc.-hs-2",
+      "courseName": "BHM/ B.Sc. (HS)",
+      "specialization": "Travel and Tourism",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bhm-b.sc.-hs-3",
+      "courseName": "BHM/ B.Sc. (HS)",
+      "specialization": "Aviation Hospitality Management",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-m.h.m.-1",
+      "courseName": "M.H.M.",
+      "specialization": "Hotel and Catering Tech.",
+      "duration": "",
+      "eligibility": "Bachelor’s degree in Hotel Management or equivalent with at least 45% marks.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-m.h.m.-2",
+      "courseName": "M.H.M.",
+      "specialization": "Travel and Tourism",
+      "duration": "",
+      "eligibility": "Bachelor’s degree in Hotel Management or equivalent with at least 45% marks.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-diploma-in-hotel-operations-1",
+      "courseName": "Diploma in Hotel Operations",
+      "specialization": "Culinary Arts, Cookery, Bakery & Confectionary, Food & Beverage, Housekeeping",
+      "duration": "",
+      "eligibility": "Passed 10th Std./SSC examination or Equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-ph.d.-in-commerce-and-management-1",
+      "courseName": "Ph.D. in Commerce and Management",
+      "specialization": "Ph.D. in various disciplines of Commerce and Management as per availability of supervisor",
+      "duration": "",
+      "eligibility": "As per the UGC Regulations 2022.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.sc.-b.sc.-hons.-research-1",
+      "courseName": "B.Sc. / B.Sc. (Hons. / Research)",
+      "specialization": "Basic Sciences (Physics, Chemistry, Mathematics, Geology)",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination with PCM/PCB or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.sc.-b.sc.-hons.-research-2",
+      "courseName": "B.Sc. / B.Sc. (Hons. / Research)",
+      "specialization": "Life Sciences (Botany, Zoology, Biotechnology, Microbiology, Geology, Bioinformatics, Biochemistry, Psychology)",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination with PCM/PCB or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-science-m.sc.-1",
+      "courseName": "Master of Science (M.Sc.)",
+      "specialization": "Physics",
+      "duration": "",
+      "eligibility": "Minimum 45% marks in B.Sc./B.Sc. (Hons.) with relevant subjects.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-science-m.sc.-2",
+      "courseName": "Master of Science (M.Sc.)",
+      "specialization": "Biophysics",
+      "duration": "",
+      "eligibility": "Minimum 45% marks in B.Sc./B.Sc. (Hons.) with relevant subjects.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-science-m.sc.-3",
+      "courseName": "Master of Science (M.Sc.)",
+      "specialization": "Chemistry",
+      "duration": "",
+      "eligibility": "Minimum 45% marks in B.Sc./B.Sc. (Hons.) with relevant subjects.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-science-m.sc.-4",
+      "courseName": "Master of Science (M.Sc.)",
+      "specialization": "Mathematics",
+      "duration": "",
+      "eligibility": "Minimum 45% marks in B.Sc./B.Sc. (Hons.) with relevant subjects.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-science-m.sc.-5",
+      "courseName": "Master of Science (M.Sc.)",
+      "specialization": "Industrial Mathematics and Data Science",
+      "duration": "",
+      "eligibility": "Minimum 45% marks in B.Sc./B.Sc. (Hons.) with relevant subjects.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-science-m.sc.-6",
+      "courseName": "Master of Science (M.Sc.)",
+      "specialization": "Statistics",
+      "duration": "",
+      "eligibility": "Minimum 45% marks in B.Sc./B.Sc. (Hons.) with relevant subjects.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-science-m.sc.-7",
+      "courseName": "Master of Science (M.Sc.)",
+      "specialization": "Geology",
+      "duration": "",
+      "eligibility": "Minimum 45% marks in B.Sc./B.Sc. (Hons.) with relevant subjects.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-science-m.sc.-8",
+      "courseName": "Master of Science (M.Sc.)",
+      "specialization": "Botany",
+      "duration": "",
+      "eligibility": "Minimum 45% marks in B.Sc./B.Sc. (Hons.) with relevant subjects.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-science-m.sc.-9",
+      "courseName": "Master of Science (M.Sc.)",
+      "specialization": "Zoology",
+      "duration": "",
+      "eligibility": "Minimum 45% marks in B.Sc./B.Sc. (Hons.) with relevant subjects.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-science-m.sc.-10",
+      "courseName": "Master of Science (M.Sc.)",
+      "specialization": "Environmental Science",
+      "duration": "",
+      "eligibility": "Minimum 45% marks in B.Sc./B.Sc. (Hons.) with relevant subjects.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-science-m.sc.-11",
+      "courseName": "Master of Science (M.Sc.)",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "Minimum 45% marks in B.Sc./B.Sc. (Hons.) with relevant subjects.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-science-m.sc.-12",
+      "courseName": "Master of Science (M.Sc.)",
+      "specialization": "Bioinformatics",
+      "duration": "",
+      "eligibility": "Minimum 45% marks in B.Sc./B.Sc. (Hons.) with relevant subjects.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-science-m.sc.-13",
+      "courseName": "Master of Science (M.Sc.)",
+      "specialization": "Biochemistry",
+      "duration": "",
+      "eligibility": "Minimum 45% marks in B.Sc./B.Sc. (Hons.) with relevant subjects.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-science-m.sc.-14",
+      "courseName": "Master of Science (M.Sc.)",
+      "specialization": "Microbiology",
+      "duration": "",
+      "eligibility": "Minimum 45% marks in B.Sc./B.Sc. (Hons.) with relevant subjects.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-ph.d.-in-science-1",
+      "courseName": "Ph.D. in Science",
+      "specialization": "Ph.D. in various disciplines of science as per availability of supervisor",
+      "duration": "",
+      "eligibility": "As per the UGC Regulations 2022.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bachelor-of-design-b.-des.-1",
+      "courseName": "Bachelor of Design (B. Des.)",
+      "specialization": "Fashion",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or Equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bachelor-of-design-b.-des.-2",
+      "courseName": "Bachelor of Design (B. Des.)",
+      "specialization": "Interior",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or Equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bachelor-of-design-b.-des.-3",
+      "courseName": "Bachelor of Design (B. Des.)",
+      "specialization": "Graphics",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or Equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bachelor-of-visual-arts-b.v.a.-1",
+      "courseName": "Bachelor of Visual Arts (B.V.A.)",
+      "specialization": "Animation and VFX",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or Equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-design-m.-des.-1",
+      "courseName": "Master of Design (M. Des.)",
+      "specialization": "Fashion",
+      "duration": "",
+      "eligibility": "Passed bachelor’s degree in relevant subject(s).",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-design-m.-des.-2",
+      "courseName": "Master of Design (M. Des.)",
+      "specialization": "Interior",
+      "duration": "",
+      "eligibility": "Passed bachelor’s degree in relevant subject(s).",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-design-m.-des.-3",
+      "courseName": "Master of Design (M. Des.)",
+      "specialization": "Graphics",
+      "duration": "",
+      "eligibility": "Passed bachelor’s degree in relevant subject(s).",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-diploma-in-design-1",
+      "courseName": "Diploma in Design",
+      "specialization": "Fashion",
+      "duration": "",
+      "eligibility": "Passed 10th Std. or Equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-diploma-in-design-2",
+      "courseName": "Diploma in Design",
+      "specialization": "Interior",
+      "duration": "",
+      "eligibility": "Passed 10th Std. or Equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-diploma-in-design-3",
+      "courseName": "Diploma in Design",
+      "specialization": "Graphics",
+      "duration": "",
+      "eligibility": "Passed 10th Std. or Equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.a.-b.-a.-hons.-research-1",
+      "courseName": "B.A./ B. A. (Hons. / Research)",
+      "specialization": "Humanities (English, Hindi, Marathi, Sanskrit/ Public Administration/ History/ Political Science/ Geography/ Economics)",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or Equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.a.-b.-a.-hons.-research-2",
+      "courseName": "B.A./ B. A. (Hons. / Research)",
+      "specialization": "Journalism and Mass Communications",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or Equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.a.-b.sc.-hons.-research-psychology-1",
+      "courseName": "B.A./B.Sc. (Hons. / Research) Psychology",
+      "specialization": "Psychology",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or Equivalent (Science subjects required for B.Sc.).",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-arts-m.a.-1",
+      "courseName": "Master of Arts (M.A.)",
+      "specialization": "English",
+      "duration": "",
+      "eligibility": "Passed bachelor’s degree in relevant subject(s) or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-arts-m.a.-2",
+      "courseName": "Master of Arts (M.A.)",
+      "specialization": "Psychology",
+      "duration": "",
+      "eligibility": "Passed bachelor’s degree in relevant subject(s) or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-arts-m.a.-3",
+      "courseName": "Master of Arts (M.A.)",
+      "specialization": "Economics",
+      "duration": "",
+      "eligibility": "Passed bachelor’s degree in relevant subject(s) or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-arts-m.a.-4",
+      "courseName": "Master of Arts (M.A.)",
+      "specialization": "History",
+      "duration": "",
+      "eligibility": "Passed bachelor’s degree in relevant subject(s) or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-arts-m.a.-5",
+      "courseName": "Master of Arts (M.A.)",
+      "specialization": "J&MC",
+      "duration": "",
+      "eligibility": "Passed bachelor’s degree in relevant subject(s) or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-m.a.-m.sc.-psychology-1",
+      "courseName": "M.A. / M.Sc. Psychology",
+      "specialization": "Psychology",
+      "duration": "",
+      "eligibility": "Passed B.A./B.Sc. in Psychology (as applicable).",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-b.-lib.-i.sc.-1",
+      "courseName": "B. Lib. I.Sc.",
+      "specialization": "Library and Information Science",
+      "duration": "",
+      "eligibility": "Passed bachelor’s degree or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-m.-lib.-i.sc.-1",
+      "courseName": "M. Lib. I.Sc.",
+      "specialization": "Library and Information Science",
+      "duration": "",
+      "eligibility": "Passed bachelor’s degree in relevant subject(s).",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bsw-1",
+      "courseName": "BSW",
+      "specialization": "Bachelor of Social Work",
+      "duration": "",
+      "eligibility": "Passed 10+2 examination or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-msw-1",
+      "courseName": "MSW",
+      "specialization": "Master of Social Work",
+      "duration": "",
+      "eligibility": "Passed bachelor’s degree in any discipline.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-ph.d.-in-arts-and-humanities-1",
+      "courseName": "Ph.D. in Arts and Humanities",
+      "specialization": "Ph.D. in various disciplines of Arts and Humanities as per availability of supervisor",
+      "duration": "",
+      "eligibility": "As per the UGC Regulations 2022.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-diploma-in-pharmacy-1",
+      "courseName": "Diploma in Pharmacy",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 with Physics, Chemistry, Biology/Mathematics and English.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bachelor-of-pharmacy-1",
+      "courseName": "Bachelor of Pharmacy",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 with PCB/PCM & English or D.Pharm (as applicable).",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bachelor-of-pharmacy-lateral-entry-1",
+      "courseName": "Bachelor of Pharmacy (Lateral Entry)",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "D.Pharm from a PCI-approved institution.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-pharmacy-1",
+      "courseName": "Master of Pharmacy",
+      "specialization": "Pharmaceutics",
+      "duration": "",
+      "eligibility": "B.Pharm with at least 55% aggregate from PCI approved institution.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-pharmacy-2",
+      "courseName": "Master of Pharmacy",
+      "specialization": "Quality assurance",
+      "duration": "",
+      "eligibility": "B.Pharm with at least 55% aggregate from PCI approved institution.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-pharmacy-3",
+      "courseName": "Master of Pharmacy",
+      "specialization": "Regulatory affairs",
+      "duration": "",
+      "eligibility": "B.Pharm with at least 55% aggregate from PCI approved institution.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-master-of-pharmacy-4",
+      "courseName": "Master of Pharmacy",
+      "specialization": "Pharmaceutical Chemistry",
+      "duration": "",
+      "eligibility": "B.Pharm with at least 55% aggregate from PCI approved institution.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-ll.b.-1",
+      "courseName": "LL.B.",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 and a 3‑year UG degree with minimum 45% (42% OBC, 40% SC/ST).",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-ba-ll.b.-hons.-1",
+      "courseName": "BA LL.B. (Hons.)",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 with minimum 45% (42% OBC, 40% SC/ST).",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-bba-ll.b.-1",
+      "courseName": "BBA LL.B.",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 with minimum 45% (42% OBC, 40% SC/ST).",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-ll.m.-1",
+      "courseName": "LL.M.",
+      "specialization": "Criminology",
+      "duration": "",
+      "eligibility": "LL.B. or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-ll.m.-2",
+      "courseName": "LL.M.",
+      "specialization": "Constitution Law",
+      "duration": "",
+      "eligibility": "LL.B. or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-ll.m.-3",
+      "courseName": "LL.M.",
+      "specialization": "Business Law",
+      "duration": "",
+      "eligibility": "LL.B. or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-ll.m.-4",
+      "courseName": "LL.M.",
+      "specialization": "Human Rights",
+      "duration": "",
+      "eligibility": "LL.B. or equivalent.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "chhatrapati-shivaji-maharaj-university-ph.d.-in-law-1",
+      "courseName": "Ph.D. in Law",
+      "specialization": "Doctor of Philosophy in Law",
+      "duration": "",
+      "eligibility": "As per the UGC Regulations 2022.",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

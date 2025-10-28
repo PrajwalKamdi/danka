@@ -1,0 +1,765 @@
+{
+  "id": "23",
+  "slug": "mit-adt",
+  "name": "MIT ADT",
+  "description": "MIT Art, Design and Technology (MIT-ADT) University, Pune is a state private university focused on design, media, film, engineering, maritime studies, management and humanities with strong industry and creative sector linkages.",
+  "accreditation": [
+    "UGC recognition (State Private University)",
+    "AICTE/PCI/COA approvals for applicable programmes"
+  ],
+  "awards": [
+    "Recognised in national rankings/ratings and creative excellence awards"
+  ],
+  "website": "https://www.mituniversity.edu.in",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "mit-adt-b.des-1",
+      "courseName": "B.Des",
+      "specialization": "Design (General)",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.des-1",
+      "courseName": "M.Des",
+      "specialization": "Animation Design",
+      "duration": "",
+      "eligibility": "Graduation in Design/related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.des-2",
+      "courseName": "M.Des",
+      "specialization": "Design Management",
+      "duration": "",
+      "eligibility": "Graduation in Design/related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.des-3",
+      "courseName": "M.Des",
+      "specialization": "Fashion Management and Marketing",
+      "duration": "",
+      "eligibility": "Graduation in Design/related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.des-4",
+      "courseName": "M.Des",
+      "specialization": "Film & Video Design",
+      "duration": "",
+      "eligibility": "Graduation in Design/related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.des-5",
+      "courseName": "M.Des",
+      "specialization": "Graphic Design",
+      "duration": "",
+      "eligibility": "Graduation in Design/related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.des-6",
+      "courseName": "M.Des",
+      "specialization": "Immersive Media Design",
+      "duration": "",
+      "eligibility": "Graduation in Design/related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.des-7",
+      "courseName": "M.Des",
+      "specialization": "Interior Space & Furniture Design",
+      "duration": "",
+      "eligibility": "Graduation in Design/related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.des-8",
+      "courseName": "M.Des",
+      "specialization": "Product Design",
+      "duration": "",
+      "eligibility": "Graduation in Design/related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.des-9",
+      "courseName": "M.Des",
+      "specialization": "Transportation Design",
+      "duration": "",
+      "eligibility": "Graduation in Design/related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.des-10",
+      "courseName": "M.Des",
+      "specialization": "User Experience Design",
+      "duration": "",
+      "eligibility": "Graduation in Design/related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-pg-diploma-1",
+      "courseName": "PG Diploma",
+      "specialization": "Automotive Clay & Digital Sculpting",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-pg-diploma-2",
+      "courseName": "PG Diploma",
+      "specialization": "Innovation",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-ba-1",
+      "courseName": "BA",
+      "specialization": "Journalism & Mass Communication",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-ma-1",
+      "courseName": "MA",
+      "specialization": "Journalism & Mass Communication",
+      "duration": "",
+      "eligibility": "Graduation in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-bsc-1",
+      "courseName": "BSc",
+      "specialization": "Nautical Science",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-b.tech-1",
+      "courseName": "B.Tech",
+      "specialization": "Marine Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-bba-1",
+      "courseName": "BBA",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-b.com-(hons)-1",
+      "courseName": "B.Com (Hons)",
+      "specialization": "Honors",
+      "duration": "",
+      "eligibility": "10+2 in Commerce or any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-bca-1",
+      "courseName": "BCA",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 with Maths/CS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-mba-1",
+      "courseName": "MBA",
+      "specialization": "Executive",
+      "duration": "",
+      "eligibility": "Graduation + work experience",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-mba-2",
+      "courseName": "MBA",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-mba-3",
+      "courseName": "MBA",
+      "specialization": "Agri & Food Business Mgmt",
+      "duration": "",
+      "eligibility": "Graduation in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-mba-4",
+      "courseName": "MBA",
+      "specialization": "Project & Construction Mgmt",
+      "duration": "",
+      "eligibility": "Graduation in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-mca-1",
+      "courseName": "MCA",
+      "specialization": "Computer Applications",
+      "duration": "",
+      "eligibility": "BCA or Graduation with Maths",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.tech-1",
+      "courseName": "M.Tech",
+      "specialization": "Construction Management",
+      "duration": "",
+      "eligibility": "B.Tech/BE in Civil or relevant",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-b.tech-2",
+      "courseName": "B.Tech",
+      "specialization": "Bioengineering",
+      "duration": "",
+      "eligibility": "10+2 with PCB/PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-integrated-m.tech-1",
+      "courseName": "Integrated M.Tech",
+      "specialization": "Bioengineering",
+      "duration": "",
+      "eligibility": "10+2 with PCB/PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-msc-1",
+      "courseName": "MSc",
+      "specialization": "Industrial Biotechnology",
+      "duration": "",
+      "eligibility": "B.Sc/B.Tech in related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.tech-2",
+      "courseName": "M.Tech",
+      "specialization": "Environmental Bioengineering",
+      "duration": "",
+      "eligibility": "B.Tech in Bio/related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-msc-2",
+      "courseName": "MSc",
+      "specialization": "Bioinformatics",
+      "duration": "",
+      "eligibility": "B.Sc in Bioinformatics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-ba-2",
+      "courseName": "BA",
+      "specialization": "Direction & Screenplay Writing",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-bsc-2",
+      "courseName": "BSc",
+      "specialization": "Filmmaking",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-ba-3",
+      "courseName": "BA",
+      "specialization": "Dramatics",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-ma-2",
+      "courseName": "MA",
+      "specialization": "Direction & Screenplay Writing",
+      "duration": "",
+      "eligibility": "Graduation in any field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-msc-3",
+      "courseName": "MSc",
+      "specialization": "Filmmaking",
+      "duration": "",
+      "eligibility": "Graduation in any field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-ba-4",
+      "courseName": "BA",
+      "specialization": "Administration",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-ma-3",
+      "courseName": "MA",
+      "specialization": "Administration",
+      "duration": "",
+      "eligibility": "Graduation in any field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-b.arch-1",
+      "courseName": "B.Arch",
+      "specialization": "Architecture",
+      "duration": "",
+      "eligibility": "10+2 with PCM + NATA Score",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.arch-1",
+      "courseName": "M.Arch",
+      "specialization": "Traditional Indian Architectural Knowledge System",
+      "duration": "",
+      "eligibility": "B.Arch",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.plan-1",
+      "courseName": "M.Plan",
+      "specialization": "Urban & Regional Planning",
+      "duration": "",
+      "eligibility": "B.Arch/B.Plan or related field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-b.tech-3",
+      "courseName": "B.Tech",
+      "specialization": "Computer Science & Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-b.tech-4",
+      "courseName": "B.Tech",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-msc-4",
+      "courseName": "MSc",
+      "specialization": "Computer Science (AI & ML)",
+      "duration": "",
+      "eligibility": "B.Sc/BCA/related degree",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.tech-3",
+      "courseName": "M.Tech",
+      "specialization": "CSE - Intelligent Systems & Analytics",
+      "duration": "",
+      "eligibility": "B.Tech in CSE/related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.tech-4",
+      "courseName": "M.Tech",
+      "specialization": "IT - Cyber Security",
+      "duration": "",
+      "eligibility": "B.Tech in IT/related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-b.ed-1",
+      "courseName": "B.Ed",
+      "specialization": "Education",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-ma-4",
+      "courseName": "MA",
+      "specialization": "Education",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-msc-5",
+      "courseName": "MSc",
+      "specialization": "e-Learning",
+      "duration": "",
+      "eligibility": "B.Sc/BCA/related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-pg-diploma-3",
+      "courseName": "PG Diploma",
+      "specialization": "Guidance and Counselling",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-b.tech-5",
+      "courseName": "B.Tech",
+      "specialization": "Aerospace Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-b.tech-6",
+      "courseName": "B.Tech",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-b.tech-7",
+      "courseName": "B.Tech",
+      "specialization": "Electronics & Communication Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-b.tech-8",
+      "courseName": "B.Tech",
+      "specialization": "Electronics & Computer Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-b.tech-9",
+      "courseName": "B.Tech",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-integrated-m.tech-2",
+      "courseName": "Integrated M.Tech",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-msc-6",
+      "courseName": "MSc",
+      "specialization": "Applied Statistics",
+      "duration": "",
+      "eligibility": "B.Sc in Statistics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-msc-7",
+      "courseName": "MSc",
+      "specialization": "Chemistry",
+      "duration": "",
+      "eligibility": "B.Sc in Chemistry",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.tech-(research)-1",
+      "courseName": "M.Tech (Research)",
+      "specialization": "Civil - Structural Engineering",
+      "duration": "",
+      "eligibility": "B.Tech in Civil",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.tech-(research)-2",
+      "courseName": "M.Tech (Research)",
+      "specialization": "Civil - Transportation Engineering",
+      "duration": "",
+      "eligibility": "B.Tech in Civil",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.tech-5",
+      "courseName": "M.Tech",
+      "specialization": "Civil - Environmental Engineering",
+      "duration": "",
+      "eligibility": "B.Tech in Civil",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.tech-6",
+      "courseName": "M.Tech",
+      "specialization": "Civil - Structural Engineering",
+      "duration": "",
+      "eligibility": "B.Tech in Civil",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.tech-7",
+      "courseName": "M.Tech",
+      "specialization": "Civil - Transportation Engineering",
+      "duration": "",
+      "eligibility": "B.Tech in Civil",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.tech-8",
+      "courseName": "M.Tech",
+      "specialization": "ECE - Microelectronics & VLSI Design",
+      "duration": "",
+      "eligibility": "B.Tech in ECE/related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.tech-9",
+      "courseName": "M.Tech",
+      "specialization": "Mech. - Design Engineering",
+      "duration": "",
+      "eligibility": "B.Tech in Mech.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.tech-10",
+      "courseName": "M.Tech",
+      "specialization": "Mech. - Electric Vehicles",
+      "duration": "",
+      "eligibility": "B.Tech in Mech.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.tech-11",
+      "courseName": "M.Tech",
+      "specialization": "Mech. - Robotics & Automation",
+      "duration": "",
+      "eligibility": "B.Tech in Mech./ECE",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-bfa-1",
+      "courseName": "BFA",
+      "specialization": "Fine Art",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-mfa-1",
+      "courseName": "MFA",
+      "specialization": "Fine Art",
+      "duration": "",
+      "eligibility": "BFA",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-mfa-2",
+      "courseName": "MFA",
+      "specialization": "Art Therapy",
+      "duration": "",
+      "eligibility": "BFA or related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-mfa-3",
+      "courseName": "MFA",
+      "specialization": "Bridge Course",
+      "duration": "",
+      "eligibility": "For BFA holders",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-b.tech-10",
+      "courseName": "B.Tech",
+      "specialization": "Food Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCB/PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.tech-12",
+      "courseName": "M.Tech",
+      "specialization": "Food Safety and Quality Management",
+      "duration": "",
+      "eligibility": "B.Tech in Food Tech",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-m.tech-13",
+      "courseName": "M.Tech",
+      "specialization": "Food Technology",
+      "duration": "",
+      "eligibility": "B.Tech in Food Tech",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-ba-(hons)-1",
+      "courseName": "BA (Hons)",
+      "specialization": "English",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-bba-llb-1",
+      "courseName": "BBA LLB",
+      "specialization": "Integrated",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-llb-1",
+      "courseName": "LLB",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "Graduation in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-llm-1",
+      "courseName": "LLM",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "LLB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-pg-certificate-1",
+      "courseName": "PG Certificate",
+      "specialization": "Legal Journalism",
+      "duration": "",
+      "eligibility": "Graduation in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-bsc-(hons)-1",
+      "courseName": "BSc (Hons)",
+      "specialization": "Psychology",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-msc-8",
+      "courseName": "MSc",
+      "specialization": "Clinical Psychology",
+      "duration": "",
+      "eligibility": "Graduation in Psychology",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-bpa-1",
+      "courseName": "BPA",
+      "specialization": "Performing Arts",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-adt-mpa-1",
+      "courseName": "MPA",
+      "specialization": "Performing Arts",
+      "duration": "",
+      "eligibility": "BPA",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

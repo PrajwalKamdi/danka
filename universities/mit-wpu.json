@@ -1,0 +1,1549 @@
+{
+  "id": "31",
+  "slug": "mit-wpu",
+  "name": "MIT-WPU",
+  "description": "MIT World Peace University (MIT-WPU), Pune is a state private university offering programmes across engineering, management, liberal arts, science, commerce, design, law and media with strong industry linkages, research, and experiential learning.",
+  "accreditation": [
+    "UGC recognition (State Private University)",
+    "NAAC institutional accreditation (university)",
+    "AICTE approval for applicable programmes"
+  ],
+  "awards": [
+    "Featured in national rankings/ratings (recent cycles)"
+  ],
+  "website": "https://mitwpu.edu.in",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "mit-wpu-b.tech-1",
+      "courseName": "B.Tech",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.tech-2",
+      "courseName": "B.Tech",
+      "specialization": "Civil Engineering (Smart Infrastructure and Construction)",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.tech-3",
+      "courseName": "B.Tech",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.tech-4",
+      "courseName": "B.Tech",
+      "specialization": "Mechanical Engineering (Robotics and Automation)",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.tech-5",
+      "courseName": "B.Tech",
+      "specialization": "Chemical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.tech-6",
+      "courseName": "B.Tech",
+      "specialization": "Bioengineering",
+      "duration": "",
+      "eligibility": "10+2 with PCB or PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.tech-7",
+      "courseName": "B.Tech",
+      "specialization": "Materials Science and Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.tech-8",
+      "courseName": "B.Tech",
+      "specialization": "Electronics and Communication Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.tech-9",
+      "courseName": "B.Tech",
+      "specialization": "Electronics and Comm. Engg (AI & ML)",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.tech-10",
+      "courseName": "B.Tech",
+      "specialization": "Electrical and Computer Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.tech-11",
+      "courseName": "B.Tech",
+      "specialization": "Petroleum Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.tech-12",
+      "courseName": "B.Tech",
+      "specialization": "Computer Science and Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.tech-13",
+      "courseName": "B.Tech",
+      "specialization": "CSE (AI and Data Science)",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.tech-14",
+      "courseName": "B.Tech",
+      "specialization": "CSE (Cyber Security and Forensics)",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.tech-15",
+      "courseName": "B.Tech",
+      "specialization": "CSE (Cloud Computing)",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.tech-16",
+      "courseName": "B.Tech",
+      "specialization": "CSE (Gaming Technology)",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-integrated-b.tech-1",
+      "courseName": "Integrated B.Tech",
+      "specialization": "Mechanical Engineering (Diploma + Degree)",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-integrated-b.tech-2",
+      "courseName": "Integrated B.Tech",
+      "specialization": "CSE (Diploma + Degree)",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-integrated-b.tech-3",
+      "courseName": "Integrated B.Tech",
+      "specialization": "CSE (AI and DS) (Diploma + Degree)",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-integrated-b.tech-4",
+      "courseName": "Integrated B.Tech",
+      "specialization": "Mech. Engg (Robotics & Automation) (Diploma + Degree)",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-integrated-b.tech-5",
+      "courseName": "Integrated B.Tech",
+      "specialization": "Civil Engg (Smart Infra) (Diploma + Degree)",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-integrated-b.tech-6",
+      "courseName": "Integrated B.Tech",
+      "specialization": "ECE (AI & ML) (Diploma + Degree)",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.tech-lateral-entry-1",
+      "courseName": "B.Tech Lateral Entry",
+      "specialization": "All Streams",
+      "duration": "",
+      "eligibility": "Diploma in Engineering (3 years)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-integrated-b.tech-m.tech-1",
+      "courseName": "Integrated B.Tech-M.Tech",
+      "specialization": "Mechanical Engineering with AI",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.sc.-1",
+      "courseName": "B.Sc.",
+      "specialization": "Computer Science",
+      "duration": "",
+      "eligibility": "10+2 with Math",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.sc.-2",
+      "courseName": "B.Sc.",
+      "specialization": "Data Science and Big Data Analytics",
+      "duration": "",
+      "eligibility": "10+2 with Math",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.sc.-3",
+      "courseName": "B.Sc.",
+      "specialization": "Economics",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.sc.-4",
+      "courseName": "B.Sc.",
+      "specialization": "Chemistry",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.sc.-5",
+      "courseName": "B.Sc.",
+      "specialization": "Applied Statistics and Data Analytics",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-bca-1",
+      "courseName": "BCA",
+      "specialization": "Science",
+      "duration": "",
+      "eligibility": "10+2 with Math",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.com-1",
+      "courseName": "B.Com",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 in Commerce/Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.com-2",
+      "courseName": "B.Com",
+      "specialization": "International Accounting and Finance(ACCA)",
+      "duration": "",
+      "eligibility": "10+2 in Commerce/Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.com-3",
+      "courseName": "B.Com",
+      "specialization": "Advanced Accounting and Auditing (AAA)",
+      "duration": "",
+      "eligibility": "10+2 in Commerce",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.com-4",
+      "courseName": "B.Com",
+      "specialization": "Fintech",
+      "duration": "",
+      "eligibility": "10+2 in Commerce/Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.com-5",
+      "courseName": "B.Com",
+      "specialization": "Financial Analysis (Integrated with Chartered Financial Analyst CFA)",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.a.-1",
+      "courseName": "B.A.",
+      "specialization": "Government and Administration",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.pharm-1",
+      "courseName": "B.Pharm",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 with PCB/PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.pharm-lateral-entry-1",
+      "courseName": "B.Pharm Lateral Entry",
+      "specialization": "After 2 Years Pharmacy Diploma",
+      "duration": "",
+      "eligibility": "D.Pharm",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-pharm.d-1",
+      "courseName": "Pharm.D",
+      "specialization": "Doctor of Pharmacy",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-pharm.d-2",
+      "courseName": "Pharm.D",
+      "specialization": "Post Baccalaureate",
+      "duration": "",
+      "eligibility": "10+2 inScience",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.des.-1",
+      "courseName": "B.Des.",
+      "specialization": "Animation and VFX Design",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.des.-2",
+      "courseName": "B.Des.",
+      "specialization": "Fashion and Apparel Design",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.des.-3",
+      "courseName": "B.Des.",
+      "specialization": "Interior and Space Design",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.des.-4",
+      "courseName": "B.Des.",
+      "specialization": "Product Design",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.des.-5",
+      "courseName": "B.Des.",
+      "specialization": "User Experience Design",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.des.-6",
+      "courseName": "B.Des.",
+      "specialization": "Visual Communication Design",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-bfa-1",
+      "courseName": "BFA",
+      "specialization": "Applied Arts",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ba-1",
+      "courseName": "BA",
+      "specialization": "English",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ba-2",
+      "courseName": "BA",
+      "specialization": "Psychology",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ba-3",
+      "courseName": "BA",
+      "specialization": "Political Science",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ba-4",
+      "courseName": "BA",
+      "specialization": "Liberal Arts",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ba-5",
+      "courseName": "BA",
+      "specialization": "Photography",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ba-6",
+      "courseName": "BA",
+      "specialization": "Media and Communication",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ba-7",
+      "courseName": "BA",
+      "specialization": "Filmmaking",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ba-8",
+      "courseName": "BA",
+      "specialization": "Creative Communication",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.ed-1",
+      "courseName": "B.Ed",
+      "specialization": "Education",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-bba-ll.b.-hons-1",
+      "courseName": "BBA LL.B. (Hons)",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ba-ll.b.-hons-1",
+      "courseName": "BA LL.B. (Hons)",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-bba-1",
+      "courseName": "BBA",
+      "specialization": "Digital Marketing",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-bba-2",
+      "courseName": "BBA",
+      "specialization": "Entrepreneurship and Family Business Management",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-bba-3",
+      "courseName": "BBA",
+      "specialization": "Global Business Management",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-bba-4",
+      "courseName": "BBA",
+      "specialization": "Branding and Advertising",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-bba-5",
+      "courseName": "BBA",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-bba-6",
+      "courseName": "BBA",
+      "specialization": "International Business",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-bba-7",
+      "courseName": "BBA",
+      "specialization": "Global Marketing and Event Management",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-bba-8",
+      "courseName": "BBA",
+      "specialization": "Banking Finance and Insurance",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-bba-9",
+      "courseName": "BBA",
+      "specialization": "Business Analytics",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-bba-10",
+      "courseName": "BBA",
+      "specialization": "Global e-Business",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-bba-11",
+      "courseName": "BBA",
+      "specialization": "Hospitality and Hotel Administration",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-bba-12",
+      "courseName": "BBA",
+      "specialization": "HR Management",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-bba-13",
+      "courseName": "BBA",
+      "specialization": "Sales and Marketing",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-integrated-bba-mba-1",
+      "courseName": "Integrated BBA+MBA",
+      "specialization": "Business Management",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-integrated-m.sc.-1",
+      "courseName": "Integrated M.Sc.",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "B.Sc",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.sc.-honors-1",
+      "courseName": "B.Sc.(Honors)",
+      "specialization": "Physics",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-b.tech-2nd-year-lateral-entry-1",
+      "courseName": "B.Tech (2nd Year Lateral Entry",
+      "specialization": "After 3 Years of Diploma in Engineering",
+      "duration": "",
+      "eligibility": "10+2 in Maths",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.tech-1",
+      "courseName": "M.Tech",
+      "specialization": "Chemical Engineering",
+      "duration": "",
+      "eligibility": "B.Tech in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.tech-2",
+      "courseName": "M.Tech",
+      "specialization": "Petroleum Engineering",
+      "duration": "",
+      "eligibility": "B.Tech in Petroleum or related field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.tech-3",
+      "courseName": "M.Tech",
+      "specialization": "Civil Engg (Construction Engineering & Management)",
+      "duration": "",
+      "eligibility": "B.Tech in Civil",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.tech-4",
+      "courseName": "M.Tech",
+      "specialization": "Environmental Engineering",
+      "duration": "",
+      "eligibility": "B.Tech in Civil/Environmental",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.tech-5",
+      "courseName": "M.Tech",
+      "specialization": "ECE (VLSI and Embedded Systems)",
+      "duration": "",
+      "eligibility": "B.Tech in ECE or related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.tech-6",
+      "courseName": "M.Tech",
+      "specialization": "e-Mobility",
+      "duration": "",
+      "eligibility": "B.Tech in Mech/EEE",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.tech-7",
+      "courseName": "M.Tech",
+      "specialization": "CSE (Data Science & Analytics)",
+      "duration": "",
+      "eligibility": "B.Tech in CS/IT",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.tech-8",
+      "courseName": "M.Tech",
+      "specialization": "CSE (Cyber Security)",
+      "duration": "",
+      "eligibility": "B.Tech in CS/IT",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.tech-9",
+      "courseName": "M.Tech",
+      "specialization": "Civil Engineering (Structural)",
+      "duration": "",
+      "eligibility": "B.Tech Civil",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.tech-10",
+      "courseName": "M.Tech",
+      "specialization": "Civil Engineering (Tunnel)",
+      "duration": "",
+      "eligibility": "B.Tech Civil",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.tech-11",
+      "courseName": "M.Tech",
+      "specialization": "Mech Engg (CAD/CAM/CAE)",
+      "duration": "",
+      "eligibility": "B.Tech Mech",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.tech-12",
+      "courseName": "M.Tech",
+      "specialization": "Mech Engg (Design Engg)",
+      "duration": "",
+      "eligibility": "B.Tech Mech",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.tech-13",
+      "courseName": "M.Tech",
+      "specialization": "Medical Devices",
+      "duration": "",
+      "eligibility": "B.Tech Biomedical/related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.tech-14",
+      "courseName": "M.Tech",
+      "specialization": "Mech Engg (Robotics and Automation)",
+      "duration": "",
+      "eligibility": "B.Tech Mech",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.tech-15",
+      "courseName": "M.Tech",
+      "specialization": "CSE (AI and Optimization Methods)",
+      "duration": "",
+      "eligibility": "B.Tech in CS/IT",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.sc.-1",
+      "courseName": "M.Sc.",
+      "specialization": "Computer Science",
+      "duration": "",
+      "eligibility": "B.Sc. CS/BCA or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.sc.-2",
+      "courseName": "M.Sc.",
+      "specialization": "Data Science and Big Data Analytics",
+      "duration": "",
+      "eligibility": "B.Sc. with Math",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.sc.-3",
+      "courseName": "M.Sc.",
+      "specialization": "Blockchain Technology",
+      "duration": "",
+      "eligibility": "Graduation in CS/IT/related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.sc.-4",
+      "courseName": "M.Sc.",
+      "specialization": "Economics",
+      "duration": "",
+      "eligibility": "B.A./B.Sc. Economics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.sc.-5",
+      "courseName": "M.Sc.",
+      "specialization": "Environment Science",
+      "duration": "",
+      "eligibility": "B.Sc. in Science/Biology/Env. Sci",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.sc.-6",
+      "courseName": "M.Sc.",
+      "specialization": "Yoga and Meditation",
+      "duration": "",
+      "eligibility": "Bachelor's in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.sc.-7",
+      "courseName": "M.Sc.",
+      "specialization": "Clinical Psychology",
+      "duration": "",
+      "eligibility": "B.A./B.Sc. in Psychology",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.sc.-8",
+      "courseName": "M.Sc.",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "B.Sc. Biotechnology/Biology",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.sc.-9",
+      "courseName": "M.Sc.",
+      "specialization": "Microbiology",
+      "duration": "",
+      "eligibility": "B.Sc. Microbiology",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.sc.-10",
+      "courseName": "M.Sc.",
+      "specialization": "Physics",
+      "duration": "",
+      "eligibility": "B.Sc. Physics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.sc.-11",
+      "courseName": "M.Sc.",
+      "specialization": "Chemistry (Industrial Polymer Chemistry)",
+      "duration": "",
+      "eligibility": "B.Sc. Chemistry",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.sc.-12",
+      "courseName": "M.Sc.",
+      "specialization": "Mathematics and Data Science",
+      "duration": "",
+      "eligibility": "B.Sc. Mathematics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.sc.-13",
+      "courseName": "M.Sc.",
+      "specialization": "Statistics",
+      "duration": "",
+      "eligibility": "B.Sc. Statistics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.sc.-14",
+      "courseName": "M.Sc.",
+      "specialization": "Chemistry (Organic Chemistry)",
+      "duration": "",
+      "eligibility": "B.Sc. Chemistry",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-mca-1",
+      "courseName": "MCA",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "BCA or any Bachelor's with Math",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.com-1",
+      "courseName": "M.Com",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "B.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ma-1",
+      "courseName": "MA",
+      "specialization": "Political Leadership and Government",
+      "duration": "",
+      "eligibility": "Graduation in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ma-2",
+      "courseName": "MA",
+      "specialization": "English",
+      "duration": "",
+      "eligibility": "B.A. English or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ma-3",
+      "courseName": "MA",
+      "specialization": "Psychology",
+      "duration": "",
+      "eligibility": "B.A./B.Sc. Psychology",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ma-4",
+      "courseName": "MA",
+      "specialization": "Media and Communication",
+      "duration": "",
+      "eligibility": "Graduation in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ma-5",
+      "courseName": "MA",
+      "specialization": "Peace and Conflict Management",
+      "duration": "",
+      "eligibility": "Graduation in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ma-6",
+      "courseName": "MA",
+      "specialization": "Photography",
+      "duration": "",
+      "eligibility": "B.A. or relevant UG degree",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ma-7",
+      "courseName": "MA",
+      "specialization": "Creative Communication",
+      "duration": "",
+      "eligibility": "Graduation in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.pharm-1",
+      "courseName": "M.Pharm",
+      "specialization": "Pharmaceutical Chemistry",
+      "duration": "",
+      "eligibility": "B.Pharm",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.pharm-2",
+      "courseName": "M.Pharm",
+      "specialization": "Pharmaceutics",
+      "duration": "",
+      "eligibility": "B.Pharm",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.pharm-3",
+      "courseName": "M.Pharm",
+      "specialization": "Pharmaceutical Quality Assurance",
+      "duration": "",
+      "eligibility": "B.Pharm",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.pharm-4",
+      "courseName": "M.Pharm",
+      "specialization": "Pharmacology",
+      "duration": "",
+      "eligibility": "B.Pharm",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.pharm-5",
+      "courseName": "M.Pharm",
+      "specialization": "Pharmacognosy",
+      "duration": "",
+      "eligibility": "B.Pharm",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.pharm-6",
+      "courseName": "M.Pharm",
+      "specialization": "Pharmaceutical Analysis",
+      "duration": "",
+      "eligibility": "B.Pharm",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-mph-1",
+      "courseName": "MPH",
+      "specialization": "Public Health",
+      "duration": "",
+      "eligibility": "Graduation in Health/Social Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-mfa-1",
+      "courseName": "MFA",
+      "specialization": "Applied Arts",
+      "duration": "",
+      "eligibility": "BFA",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.ed.-1",
+      "courseName": "M.Ed.",
+      "specialization": "Education",
+      "duration": "",
+      "eligibility": "B.Ed.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ll.b.-1",
+      "courseName": "LL.B.",
+      "specialization": "Law",
+      "duration": "",
+      "eligibility": "Graduation in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ll.m.-1",
+      "courseName": "LL.M.",
+      "specialization": "Law",
+      "duration": "",
+      "eligibility": "LL.B.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-mba-1",
+      "courseName": "MBA",
+      "specialization": "Dual",
+      "duration": "",
+      "eligibility": "Bachelor's in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-mba-2",
+      "courseName": "MBA",
+      "specialization": "International Business",
+      "duration": "",
+      "eligibility": "Bachelor's in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-mba-3",
+      "courseName": "MBA",
+      "specialization": "Marketing",
+      "duration": "",
+      "eligibility": "Bachelor's in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-mba-4",
+      "courseName": "MBA",
+      "specialization": "Finance",
+      "duration": "",
+      "eligibility": "Bachelor's in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-mba-5",
+      "courseName": "MBA",
+      "specialization": "Human Resource Management",
+      "duration": "",
+      "eligibility": "Bachelor's in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-mba-6",
+      "courseName": "MBA",
+      "specialization": "Operations and Supply Chain",
+      "duration": "",
+      "eligibility": "Bachelor's in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-mba-7",
+      "courseName": "MBA",
+      "specialization": "Banking and Financial Services",
+      "duration": "",
+      "eligibility": "Bachelor's in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-mba-8",
+      "courseName": "MBA",
+      "specialization": "Digital Marketing",
+      "duration": "",
+      "eligibility": "Bachelor's in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-mba-9",
+      "courseName": "MBA",
+      "specialization": "Business Analytics",
+      "duration": "",
+      "eligibility": "Bachelor's in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-mba-10",
+      "courseName": "MBA",
+      "specialization": "Agri Business Management",
+      "duration": "",
+      "eligibility": "B.Sc. Agri or any Bachelor's",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-mba-11",
+      "courseName": "MBA",
+      "specialization": "Hospital and Healthcare Management",
+      "duration": "",
+      "eligibility": "Bachelor's in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-mba-12",
+      "courseName": "MBA",
+      "specialization": "Innovation and Design",
+      "duration": "",
+      "eligibility": "Bachelor's in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.des-1",
+      "courseName": "M.Des",
+      "specialization": "Industrial Design",
+      "duration": "",
+      "eligibility": "B.Des/B.E./B.Tech",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-m.des-2",
+      "courseName": "M.Des",
+      "specialization": "User Experience Design",
+      "duration": "",
+      "eligibility": "B.Des/Any design UG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-1",
+      "courseName": "Ph.D.",
+      "specialization": "Chemical Engineering",
+      "duration": "",
+      "eligibility": "Master’s in Chemical Engineering",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-2",
+      "courseName": "Ph.D.",
+      "specialization": "Business Administration",
+      "duration": "",
+      "eligibility": "MBA or relevant PG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-3",
+      "courseName": "Ph.D.",
+      "specialization": "Commerce",
+      "duration": "",
+      "eligibility": "M.Com or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-4",
+      "courseName": "Ph.D.",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "M.Tech Civil",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-5",
+      "courseName": "Ph.D.",
+      "specialization": "ECE",
+      "duration": "",
+      "eligibility": "M.Tech ECE",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-6",
+      "courseName": "Ph.D.",
+      "specialization": "Computer Engineering",
+      "duration": "",
+      "eligibility": "M.Tech CS/IT",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-7",
+      "courseName": "Ph.D.",
+      "specialization": "Mathematics",
+      "duration": "",
+      "eligibility": "M.Sc. Mathematics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-8",
+      "courseName": "Ph.D.",
+      "specialization": "Physics",
+      "duration": "",
+      "eligibility": "M.Sc. Physics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-9",
+      "courseName": "Ph.D.",
+      "specialization": "Pharmaceutical Sciences",
+      "duration": "",
+      "eligibility": "M.Pharm",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-10",
+      "courseName": "Ph.D.",
+      "specialization": "Consciousness Studies",
+      "duration": "",
+      "eligibility": "Relevant Master’s Degree",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-11",
+      "courseName": "Ph.D.",
+      "specialization": "Computer Science",
+      "duration": "",
+      "eligibility": "M.Sc./M.Tech CS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-12",
+      "courseName": "Ph.D.",
+      "specialization": "Public Health",
+      "duration": "",
+      "eligibility": "MPH or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-13",
+      "courseName": "Ph.D.",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "M.Sc./M.Tech Biotechnology",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-14",
+      "courseName": "Ph.D.",
+      "specialization": "Biochemistry",
+      "duration": "",
+      "eligibility": "M.Sc. Biochemistry",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-15",
+      "courseName": "Ph.D.",
+      "specialization": "Microbiology",
+      "duration": "",
+      "eligibility": "M.Sc. Microbiology",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-16",
+      "courseName": "Ph.D.",
+      "specialization": "Economics",
+      "duration": "",
+      "eligibility": "MA Economics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-17",
+      "courseName": "Ph.D.",
+      "specialization": "Law",
+      "duration": "",
+      "eligibility": "LL.M.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-18",
+      "courseName": "Ph.D.",
+      "specialization": "Chemistry",
+      "duration": "",
+      "eligibility": "M.Sc. Chemistry",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-19",
+      "courseName": "Ph.D.",
+      "specialization": "Education",
+      "duration": "",
+      "eligibility": "M.Ed. or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-20",
+      "courseName": "Ph.D.",
+      "specialization": "Design",
+      "duration": "",
+      "eligibility": "M.Des./MFA",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-21",
+      "courseName": "Ph.D.",
+      "specialization": "English",
+      "duration": "",
+      "eligibility": "MA English",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-22",
+      "courseName": "Ph.D.",
+      "specialization": "Sociology",
+      "duration": "",
+      "eligibility": "MA Sociology",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-23",
+      "courseName": "Ph.D.",
+      "specialization": "Petroleum Engineering",
+      "duration": "",
+      "eligibility": "M.Tech Petroleum",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-24",
+      "courseName": "Ph.D.",
+      "specialization": "Visual Arts",
+      "duration": "",
+      "eligibility": "MFA",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-25",
+      "courseName": "Ph.D.",
+      "specialization": "Clinical Psychology",
+      "duration": "",
+      "eligibility": "M.Sc. Clinical Psychology",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-26",
+      "courseName": "Ph.D.",
+      "specialization": "Management",
+      "duration": "",
+      "eligibility": "MBA or PGDM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-27",
+      "courseName": "Ph.D.",
+      "specialization": "Statistics",
+      "duration": "",
+      "eligibility": "M.Sc. Statistics",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-28",
+      "courseName": "Ph.D.",
+      "specialization": "Environmental Science",
+      "duration": "",
+      "eligibility": "M.Sc. Env. Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-29",
+      "courseName": "Ph.D.",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "M.Tech Mechanical",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-ph.d.-30",
+      "courseName": "Ph.D.",
+      "specialization": "Bioengineering",
+      "duration": "",
+      "eligibility": "M.Tech Bioengineering",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-pg-diploma-1",
+      "courseName": "PG Diploma",
+      "specialization": "Artificial Intelligence and Machine Learning",
+      "duration": "",
+      "eligibility": "Graduation in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mit-wpu-advance-certification-1",
+      "courseName": "Advance Certification",
+      "specialization": "Photography",
+      "duration": "",
+      "eligibility": "Graduation in any stream",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

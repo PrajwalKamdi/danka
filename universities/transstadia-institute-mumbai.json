@@ -1,0 +1,72 @@
+{
+  "id": "5",
+  "slug": "transstadia-institute-mumbai",
+  "name": "Transstadia Institute (Mumbai)",
+  "description": "TransStadia Institute (Mumbai) offers multidisciplinary undergraduate programmes with a focus on sports management, AI, data science and sport administration, integrating industry projects and internships.",
+  "accreditation": [
+    "Affiliation/Recognition under competent authorities (as applicable)",
+    "AICTE approval for applicable programmes (as applicable)"
+  ],
+  "awards": [
+    "Industry tie-ups and recognition in sports education space"
+  ],
+  "website": "https://transstadiainstitute.in",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "transstadia-institute-mumbai-b.sc.-1",
+      "courseName": "B.Sc.",
+      "specialization": "Artificial Intelligence & Sports Analytics",
+      "duration": "",
+      "eligibility": "12th pass (Science/Maths preferred)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "transstadia-institute-mumbai-b.sc.-2",
+      "courseName": "B.Sc.",
+      "specialization": "Artificial Intelligence (AI)",
+      "duration": "",
+      "eligibility": "12th pass (Science/Maths preferred)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "transstadia-institute-mumbai-b.sc.-3",
+      "courseName": "B.Sc.",
+      "specialization": "Data Science & Sports Studies",
+      "duration": "",
+      "eligibility": "12th pass (Science/Maths preferred)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "transstadia-institute-mumbai-b.sc.-4",
+      "courseName": "B.Sc.",
+      "specialization": "Sport Administration",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "transstadia-institute-mumbai-bms-1",
+      "courseName": "BMS",
+      "specialization": "Sports Management",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "transstadia-institute-mumbai-bms-2",
+      "courseName": "BMS",
+      "specialization": "Management & Sports Administration",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

@@ -1,0 +1,1125 @@
+{
+  "id": "29",
+  "slug": "ajeenkya-dy-patil-university",
+  "name": "Ajeenkya DY Patil University",
+  "description": "Ajeenkya DY Patil University (Pune) offers programmes in engineering, design, management, law, liberal arts and hospitality with strong industry linkages and project-based learning.",
+  "accreditation": [
+    "UGC recognition (State Private University)",
+    "AICTE/PCI/BCI approvals for applicable programmes"
+  ],
+  "awards": [
+    "Recognised in national rankings/ratings (recent cycles)"
+  ],
+  "website": "https://adypu.edu.in",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "ajeenkya-dy-patil-university-b.tech-1",
+      "courseName": "B.Tech",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-b.tech-2",
+      "courseName": "B.Tech",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "10+2 with PCM / PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-b.tech-3",
+      "courseName": "B.Tech",
+      "specialization": "Biomedical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM / PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-b.tech-4",
+      "courseName": "B.Tech",
+      "specialization": "Artificial Intelligence and Data Science",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-b.tech-5",
+      "courseName": "B.Tech",
+      "specialization": "Computer Science and Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-b.tech-6",
+      "courseName": "B.Tech",
+      "specialization": "Computer Science and Engineering (Artificial Intelligence)",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-b.tech-7",
+      "courseName": "B.Tech",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-b.tech-8",
+      "courseName": "B.Tech",
+      "specialization": "Robotics Engineering and Automation Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-b.tech-9",
+      "courseName": "B.Tech",
+      "specialization": "Aeronautical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-b.tech-10",
+      "courseName": "B.Tech",
+      "specialization": "Aerospace Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-b.tech-11",
+      "courseName": "B.Tech",
+      "specialization": "Avionics Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-b.tech-12",
+      "courseName": "B.Tech",
+      "specialization": "Smart and Sustainable Energy",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-b.tech-13",
+      "courseName": "B.Tech",
+      "specialization": "Bachelor of Computer Application",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-business-administration-bba-1",
+      "courseName": "Bachelor's in Business Administration (BBA)",
+      "specialization": "Sales and Marketing",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-business-administration-bba-2",
+      "courseName": "Bachelor's in Business Administration (BBA)",
+      "specialization": "Finance",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-business-administration-bba-3",
+      "courseName": "Bachelor's in Business Administration (BBA)",
+      "specialization": "Entrepreneurship and Innovation",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-business-administration-bba-4",
+      "courseName": "Bachelor's in Business Administration (BBA)",
+      "specialization": "International Business",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-business-administration-bba-5",
+      "courseName": "Bachelor's in Business Administration (BBA)",
+      "specialization": "Financial Markets",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-business-administration-bba-6",
+      "courseName": "Bachelor's in Business Administration (BBA)",
+      "specialization": "Business Analytics",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-business-administration-bba-7",
+      "courseName": "Bachelor's in Business Administration (BBA)",
+      "specialization": "Business and Process Excellence",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-business-administration-bba-8",
+      "courseName": "Bachelor's in Business Administration (BBA)",
+      "specialization": "e-Commerce and Logistics",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-business-administration-bba-9",
+      "courseName": "Bachelor's in Business Administration (BBA)",
+      "specialization": "Online Media and e-Marketing",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-business-administration-bba-10",
+      "courseName": "Bachelor's in Business Administration (BBA)",
+      "specialization": "Brand Management",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-business-administration-bba-11",
+      "courseName": "Bachelor's in Business Administration (BBA)",
+      "specialization": "Logistics and Supply Chain Management",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-business-administration-bba-12",
+      "courseName": "Bachelor's in Business Administration (BBA)",
+      "specialization": "Retail Management",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-business-administration-bba-13",
+      "courseName": "Bachelor's in Business Administration (BBA)",
+      "specialization": "Aviation",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-business-administration-bba-14",
+      "courseName": "Bachelor's in Business Administration (BBA)",
+      "specialization": "Fintech and Digital Banking",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-business-administration-bba-15",
+      "courseName": "Bachelor's in Business Administration (BBA)",
+      "specialization": "Banking and Financial Services",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-business-administration-bba-16",
+      "courseName": "Bachelor's in Business Administration (BBA)",
+      "specialization": "Decision Sciences",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-business-administration-bba-17",
+      "courseName": "Bachelor's in Business Administration (BBA)",
+      "specialization": "BBA Honours",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-b.com-1",
+      "courseName": "B.Com",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 (preferably Commerce)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-design-1",
+      "courseName": "Bachelor's in Design",
+      "specialization": "UI/UX",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-design-2",
+      "courseName": "Bachelor's in Design",
+      "specialization": "Visual Communication",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-design-3",
+      "courseName": "Bachelor's in Design",
+      "specialization": "Transportation Design",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-design-4",
+      "courseName": "Bachelor's in Design",
+      "specialization": "Product Design",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-design-5",
+      "courseName": "Bachelor's in Design",
+      "specialization": "Fashion Design",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-design-6",
+      "courseName": "Bachelor's in Design",
+      "specialization": "Interior Design",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-law-ba.llb-1",
+      "courseName": "Bachelor's in law(BA.LLB)",
+      "specialization": "BA LLB",
+      "duration": "",
+      "eligibility": "10+2 with 45% marks (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-law-ba.llb-2",
+      "courseName": "Bachelor's in law(BA.LLB)",
+      "specialization": "LLB",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-b.sc-in-hospitality-hotel-administration-1",
+      "courseName": "B.Sc in Hospitality & Hotel Administration",
+      "specialization": "Culinary Arts",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-b.sc-in-hospitality-hotel-administration-2",
+      "courseName": "B.Sc in Hospitality & Hotel Administration",
+      "specialization": "Hotel Management",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-b.sc-in-hospitality-hotel-administration-3",
+      "courseName": "B.Sc in Hospitality & Hotel Administration",
+      "specialization": "Travel and Tourism",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-ba-liberal-arts-hons-1",
+      "courseName": "BA Liberal Arts- Hons",
+      "specialization": "English",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-ba-liberal-arts-hons-2",
+      "courseName": "BA Liberal Arts- Hons",
+      "specialization": "International Studies",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-ba-liberal-arts-hons-3",
+      "courseName": "BA Liberal Arts- Hons",
+      "specialization": "Psychology",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-ba-liberal-arts-hons-4",
+      "courseName": "BA Liberal Arts- Hons",
+      "specialization": "Economics",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelor-of-science-1",
+      "courseName": "Bachelor of Science",
+      "specialization": "Sound Engineering",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelor-of-science-2",
+      "courseName": "Bachelor of Science",
+      "specialization": "Film Making",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelor-of-science-3",
+      "courseName": "Bachelor of Science",
+      "specialization": "Animation and Visual Effects",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelor-of-science-4",
+      "courseName": "Bachelor of Science",
+      "specialization": "Game Art and Design",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelor-of-arts-1",
+      "courseName": "Bachelor of Arts",
+      "specialization": "Journalism & Media Production",
+      "duration": "",
+      "eligibility": "10+2 or Equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-bachelors-in-architecture-1",
+      "courseName": "Bachelor's in Architecture",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 with PCM + NATA Score",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-postgraduate-masters-of-technology-m.tech-1",
+      "courseName": "PostGraduate – Masters of Technology(M.Tech)",
+      "specialization": "M Tech Bio Engineering",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-postgraduate-masters-of-technology-m.tech-2",
+      "courseName": "PostGraduate – Masters of Technology(M.Tech)",
+      "specialization": "M.Tech (Space Technology)",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-postgraduate-masters-of-technology-m.tech-3",
+      "courseName": "PostGraduate – Masters of Technology(M.Tech)",
+      "specialization": "M.Tech Robotics and Automation",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-postgraduate-masters-of-technology-m.tech-4",
+      "courseName": "PostGraduate – Masters of Technology(M.Tech)",
+      "specialization": "M.Tech Artificial Intelligence & Machine Learning",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-postgraduate-masters-of-technology-m.tech-5",
+      "courseName": "PostGraduate – Masters of Technology(M.Tech)",
+      "specialization": "M. Tech Infrastructure Engineering",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-postgraduate-masters-of-technology-m.tech-6",
+      "courseName": "PostGraduate – Masters of Technology(M.Tech)",
+      "specialization": "M. Tech in Renewable Engineering",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-postgraduate-masters-of-technology-m.tech-7",
+      "courseName": "PostGraduate – Masters of Technology(M.Tech)",
+      "specialization": "M. Tech. Aerospace Engineering",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-postgraduate-masters-of-technology-m.tech-8",
+      "courseName": "PostGraduate – Masters of Technology(M.Tech)",
+      "specialization": "M. Tech in Electric Vehicle Technology",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-postgraduate-masters-of-technology-m.tech-9",
+      "courseName": "PostGraduate – Masters of Technology(M.Tech)",
+      "specialization": "M.Sc. Clinical Research",
+      "duration": "",
+      "eligibility": "B.Sc in Life Sciences / Pharmacy or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-postgraduate-masters-of-technology-m.tech-10",
+      "courseName": "PostGraduate – Masters of Technology(M.Tech)",
+      "specialization": "Master of Computer Application",
+      "duration": "",
+      "eligibility": "Graduation with Math at 10+2 or UG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-business-administration-mba-1",
+      "courseName": "Masters in Business Administration(MBA)",
+      "specialization": "Human Resources",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-business-administration-mba-2",
+      "courseName": "Masters in Business Administration(MBA)",
+      "specialization": "Finance",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-business-administration-mba-3",
+      "courseName": "Masters in Business Administration(MBA)",
+      "specialization": "Operations",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-business-administration-mba-4",
+      "courseName": "Masters in Business Administration(MBA)",
+      "specialization": "Entrepreneurship and Innovation",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-business-administration-mba-5",
+      "courseName": "Masters in Business Administration(MBA)",
+      "specialization": "Marketing",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-business-administration-mba-6",
+      "courseName": "Masters in Business Administration(MBA)",
+      "specialization": "Digital Marketing and e-Commerce",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-business-administration-mba-7",
+      "courseName": "Masters in Business Administration(MBA)",
+      "specialization": "Logistics and Supply Chain Management",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-business-administration-mba-8",
+      "courseName": "Masters in Business Administration(MBA)",
+      "specialization": "Business Analytics",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-business-administration-mba-9",
+      "courseName": "Masters in Business Administration(MBA)",
+      "specialization": "Business and Process Excellence",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-business-administration-mba-10",
+      "courseName": "Masters in Business Administration(MBA)",
+      "specialization": "Brand Management",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-business-administration-mba-11",
+      "courseName": "Masters in Business Administration(MBA)",
+      "specialization": "Retail Management",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-business-administration-mba-12",
+      "courseName": "Masters in Business Administration(MBA)",
+      "specialization": "Aviation",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-business-administration-mba-13",
+      "courseName": "Masters in Business Administration(MBA)",
+      "specialization": "Banking and Financial Services",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-business-administration-mba-14",
+      "courseName": "Masters in Business Administration(MBA)",
+      "specialization": "Sports Management",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-business-administration-mba-15",
+      "courseName": "Masters in Business Administration(MBA)",
+      "specialization": "Data Science & AI",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-business-administration-mba-16",
+      "courseName": "Masters in Business Administration(MBA)",
+      "specialization": "International Business management",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-business-administration-mba-17",
+      "courseName": "Masters in Business Administration(MBA)",
+      "specialization": "Ecommerce & Logistics",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-business-administration-mba-18",
+      "courseName": "Masters in Business Administration(MBA)",
+      "specialization": "MBA Fintech",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-business-administration-mba-19",
+      "courseName": "Masters in Business Administration(MBA)",
+      "specialization": "MBA Pro",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-business-administration-mba-20",
+      "courseName": "Masters in Business Administration(MBA)",
+      "specialization": "Digital Health Transformation",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-llm-1",
+      "courseName": "LLM",
+      "specialization": "Constitutional Laws",
+      "duration": "",
+      "eligibility": "LLB or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-llm-2",
+      "courseName": "LLM",
+      "specialization": "Corporate Laws",
+      "duration": "",
+      "eligibility": "LLB or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-llm-3",
+      "courseName": "LLM",
+      "specialization": "Criminal Laws",
+      "duration": "",
+      "eligibility": "LLB or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-design-1",
+      "courseName": "Master’s in Design",
+      "specialization": "Transportation Design",
+      "duration": "",
+      "eligibility": "Bachelor’s in Design or relevant",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-design-2",
+      "courseName": "Master’s in Design",
+      "specialization": "UI/UX",
+      "duration": "",
+      "eligibility": "Bachelor’s in Design or relevant",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-post-graduate-diploma-in-digital-modelling-1",
+      "courseName": "Post Graduate Diploma in Digital Modelling",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Graduation in Design/Engg/Art or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-school-of-film-media-1",
+      "courseName": "School of Film & Media",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Graduation in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-ma-in-liberal-arts-1",
+      "courseName": "MA in Liberal Arts",
+      "specialization": "International Studies",
+      "duration": "",
+      "eligibility": "Bachelor's in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-ma-in-liberal-arts-2",
+      "courseName": "MA in Liberal Arts",
+      "specialization": "Master of Arts in Psychology (Counselling)",
+      "duration": "",
+      "eligibility": "Bachelor's in Psychology or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-ma-in-liberal-arts-3",
+      "courseName": "MA in Liberal Arts",
+      "specialization": "Master of Arts in Psychology (Industrial and Human Resource Development)",
+      "duration": "",
+      "eligibility": "Bachelor's in Psychology or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-ma-in-liberal-arts-4",
+      "courseName": "MA in Liberal Arts",
+      "specialization": "Master of Arts in Economics (International Business Economics)",
+      "duration": "",
+      "eligibility": "Bachelor’s in Economics or relevant",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-ma-in-liberal-arts-5",
+      "courseName": "MA in Liberal Arts",
+      "specialization": "Master of Arts in Economics (Finance)",
+      "duration": "",
+      "eligibility": "Bachelor’s in Economics or relevant",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-ma-in-liberal-arts-6",
+      "courseName": "MA in Liberal Arts",
+      "specialization": "PG Diploma in Child Guidance and Counselling",
+      "duration": "",
+      "eligibility": "Graduation in Psychology or relevant",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-m.sc-in-hospitality-and-tourism-management-1",
+      "courseName": "M.Sc in Hospitality And Tourism Management",
+      "specialization": "Hospitality & Tourism Management",
+      "duration": "",
+      "eligibility": "Graduation in Hospitality or relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-masters-in-architecture-environmental-arch-1",
+      "courseName": "Masters in Architecture (Environmental Arch)",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "B.Arch or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-engineering-1",
+      "courseName": "Doctoral Program – School of Engineering",
+      "specialization": "Biomedical Engineering",
+      "duration": "",
+      "eligibility": "M.Tech / M.E. + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-engineering-2",
+      "courseName": "Doctoral Program – School of Engineering",
+      "specialization": "Biotechnology",
+      "duration": "",
+      "eligibility": "M.Tech / M.E. + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-engineering-3",
+      "courseName": "Doctoral Program – School of Engineering",
+      "specialization": "Physics",
+      "duration": "",
+      "eligibility": "M.Sc / M.Tech + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-engineering-4",
+      "courseName": "Doctoral Program – School of Engineering",
+      "specialization": "Mathematics",
+      "duration": "",
+      "eligibility": "M.Sc / M.Tech + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-engineering-5",
+      "courseName": "Doctoral Program – School of Engineering",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "M.Tech / M.E. + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-engineering-6",
+      "courseName": "Doctoral Program – School of Engineering",
+      "specialization": "Electrical Engineering",
+      "duration": "",
+      "eligibility": "M.Tech / M.E. + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-engineering-7",
+      "courseName": "Doctoral Program – School of Engineering",
+      "specialization": "Artificial Intelligence",
+      "duration": "",
+      "eligibility": "M.Tech / M.E. + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-engineering-8",
+      "courseName": "Doctoral Program – School of Engineering",
+      "specialization": "Robotics Engineering",
+      "duration": "",
+      "eligibility": "M.Tech / M.E. + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-engineering-9",
+      "courseName": "Doctoral Program – School of Engineering",
+      "specialization": "Computer Science Engineering",
+      "duration": "",
+      "eligibility": "M.Tech / M.E. + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-engineering-10",
+      "courseName": "Doctoral Program – School of Engineering",
+      "specialization": "Bioinformatics",
+      "duration": "",
+      "eligibility": "M.Tech / M.E. + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-management-1",
+      "courseName": "Doctoral Program – School of Management",
+      "specialization": "Enterpreneurship & Innovation",
+      "duration": "",
+      "eligibility": "MBA / PGDM + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-management-2",
+      "courseName": "Doctoral Program – School of Management",
+      "specialization": "Strategic Management",
+      "duration": "",
+      "eligibility": "MBA / PGDM + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-management-3",
+      "courseName": "Doctoral Program – School of Management",
+      "specialization": "Human Resource Management",
+      "duration": "",
+      "eligibility": "MBA / PGDM + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-management-4",
+      "courseName": "Doctoral Program – School of Management",
+      "specialization": "Organizational Behaviour",
+      "duration": "",
+      "eligibility": "MBA / PGDM + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-management-5",
+      "courseName": "Doctoral Program – School of Management",
+      "specialization": "Marketing Management",
+      "duration": "",
+      "eligibility": "MBA / PGDM + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-management-6",
+      "courseName": "Doctoral Program – School of Management",
+      "specialization": "Financial Management",
+      "duration": "",
+      "eligibility": "MBA / PGDM + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-law-1",
+      "courseName": "Doctoral Program – School of Law",
+      "specialization": "Law & Governance",
+      "duration": "",
+      "eligibility": "LLM + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-law-2",
+      "courseName": "Doctoral Program – School of Law",
+      "specialization": "Criminal Law",
+      "duration": "",
+      "eligibility": "LLM + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-law-3",
+      "courseName": "Doctoral Program – School of Law",
+      "specialization": "Constitutional Law",
+      "duration": "",
+      "eligibility": "LLM + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-law-4",
+      "courseName": "Doctoral Program – School of Law",
+      "specialization": "Labor Law",
+      "duration": "",
+      "eligibility": "LLM + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-law-5",
+      "courseName": "Doctoral Program – School of Law",
+      "specialization": "Industrial Laws",
+      "duration": "",
+      "eligibility": "LLM + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-law-6",
+      "courseName": "Doctoral Program – School of Law",
+      "specialization": "Human Rights",
+      "duration": "",
+      "eligibility": "LLM + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-law-7",
+      "courseName": "Doctoral Program – School of Law",
+      "specialization": "Administrative Laws",
+      "duration": "",
+      "eligibility": "LLM + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-law-8",
+      "courseName": "Doctoral Program – School of Law",
+      "specialization": "Intellectual Property Rights",
+      "duration": "",
+      "eligibility": "LLM + Entrance (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-liberal-arts-1",
+      "courseName": "Doctoral Program – School of Liberal Arts",
+      "specialization": "Economics",
+      "duration": "",
+      "eligibility": "Master's in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "ajeenkya-dy-patil-university-doctoral-program-school-of-liberal-arts-2",
+      "courseName": "Doctoral Program – School of Liberal Arts",
+      "specialization": "Sociology",
+      "duration": "",
+      "eligibility": "Master's in relevant stream",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

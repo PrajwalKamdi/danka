@@ -1,0 +1,35 @@
+{
+  "id": "17",
+  "slug": "arham-international-institute",
+  "name": "Arham International Institute",
+  "description": "Arham International Institute offers specialised programmes in cyber & digital sciences and related domains aimed at industry readiness.",
+  "accreditation": [
+    "Institutional approvals/affiliations (as applicable)"
+  ],
+  "awards": [
+    "Academic/industry recognitions (recent cycles)"
+  ],
+  "website": "",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "arham-international-institute-bsc-1",
+      "courseName": "BSc",
+      "specialization": "Cyber & Digital Science",
+      "duration": "",
+      "eligibility": "10+2 or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "arham-international-institute-advanced-diploma-1",
+      "courseName": "Advanced Diploma",
+      "specialization": "Cyber Security Management",
+      "duration": "",
+      "eligibility": "10+2 or Graduation preferred",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

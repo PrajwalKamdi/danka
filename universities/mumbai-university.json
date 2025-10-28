@@ -1,0 +1,4239 @@
+{
+  "id": "35",
+  "slug": "mumbai-university",
+  "name": "Mumbai University",
+  "description": "University of Mumbai (Mumbai, Maharashtra) is one of India’s oldest state public universities with comprehensive teaching and research across arts, science, commerce, management, law and technology; it operates numerous affiliated colleges and centres.",
+  "accreditation": [
+    "UGC recognition (State Public University)",
+    "NAAC institutional accreditation"
+  ],
+  "awards": [
+    "Regularly listed in national rankings (NIRF/ARIIA categories)"
+  ],
+  "website": "https://mu.ac.in",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "mumbai-university-bachelor-of-arts-b.a-1",
+      "courseName": "Bachelor of Arts (B.A)",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.a.-1",
+      "courseName": "B.A.",
+      "specialization": "Film",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.a.-2",
+      "courseName": "B.A.",
+      "specialization": "Television",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.a.-3",
+      "courseName": "B.A.",
+      "specialization": "New Media Production",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-integrated-b.a.-m.a.-1",
+      "courseName": "Integrated(B.A.+M.A.)",
+      "specialization": "degree Course in Russian",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-integrated-b.a.-m.a.-2",
+      "courseName": "Integrated(B.A.+M.A.)",
+      "specialization": "degree Course in German",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelors-degree-1",
+      "courseName": "Bachelor’s Degree",
+      "specialization": "Library & Information Science (B.L.I.Sc.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.s.w.-1",
+      "courseName": "B.S.W.",
+      "specialization": "Bachelor of Social Work",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.m.m-1",
+      "courseName": "B.M.M",
+      "specialization": "Bachelor’s of Mass Media",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.h.m.-1",
+      "courseName": "B.H.M.",
+      "specialization": "Bachelor In Heritage Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.a-1",
+      "courseName": "M.A",
+      "specialization": "Master of Arts",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.a.-1",
+      "courseName": "M.A.",
+      "specialization": "Numismatics and Archaeology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.a.-2",
+      "courseName": "M.A.",
+      "specialization": "Education",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.a.-3",
+      "courseName": "M.A.",
+      "specialization": "Entertainment, Media and Advertising",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.a.-4",
+      "courseName": "M.A.",
+      "specialization": "Film, Television and New Media Production",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.a.-5",
+      "courseName": "M.A.",
+      "specialization": "Sociology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.a.-6",
+      "courseName": "M.A.",
+      "specialization": "Politics",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.a.-7",
+      "courseName": "M.A.",
+      "specialization": "Public Policy",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.a.-8",
+      "courseName": "M.A.",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.a.-9",
+      "courseName": "M.A.",
+      "specialization": "Education",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.l.i.sc-1",
+      "courseName": "M.L.I.Sc",
+      "specialization": "Library and Information Science",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.s.w-1",
+      "courseName": "M.S.W",
+      "specialization": "Master of Social Work",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.l.s.-1",
+      "courseName": "M.L.S.",
+      "specialization": "Master of Labour Studies",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-arts-1",
+      "courseName": "Master of Arts",
+      "specialization": "Communication and Journalism",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-arts-2",
+      "courseName": "Master of Arts",
+      "specialization": "Public Relations",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-arts-3",
+      "courseName": "Master of Arts",
+      "specialization": "Electronic Media",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-arts-4",
+      "courseName": "Master of Arts",
+      "specialization": "Film Studies",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-arts-5",
+      "courseName": "Master of Arts",
+      "specialization": "German Studies / German Studies (Translation)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.ed.-1",
+      "courseName": "B.Ed.",
+      "specialization": "Education",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.ed.-2",
+      "courseName": "B.Ed.",
+      "specialization": "Physical Education",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.ed.-3",
+      "courseName": "B.Ed.",
+      "specialization": "Special Education (Mentally Retarded)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.ed.-4",
+      "courseName": "B.Ed.",
+      "specialization": "Hearing Impairment",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.ed.-5",
+      "courseName": "B.Ed.",
+      "specialization": "Autism Spectrum Disorders (ASD)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.ed.-6",
+      "courseName": "B.Ed.",
+      "specialization": "Learning Disability (LD)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.ed-1",
+      "courseName": "M.Ed",
+      "specialization": "Master of Education",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.ed.-1",
+      "courseName": "M.Ed.",
+      "specialization": "Hearing Impairment",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.p.ed-1",
+      "courseName": "M.P.Ed",
+      "specialization": "Physical Education",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-1",
+      "courseName": "Certificate Course",
+      "specialization": "Teaching Technologies in Higher Education",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-2",
+      "courseName": "Certificate Course",
+      "specialization": "G-Tech 360 Degrees",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-3",
+      "courseName": "Certificate Course",
+      "specialization": "Therapeutic skills for the Helping Professions",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-4",
+      "courseName": "Certificate Course",
+      "specialization": "Social Perspectives in Disaster Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-5",
+      "courseName": "Certificate Course",
+      "specialization": "Advanced Social Research Methodology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-6",
+      "courseName": "Certificate Course",
+      "specialization": "CRÈME (Customer Relations Management Expert)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-7",
+      "courseName": "Certificate Course",
+      "specialization": "G-Tech Network Specialist",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-8",
+      "courseName": "Certificate Course",
+      "specialization": "Environment Management and Disaster Mitigation",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-9",
+      "courseName": "Certificate Course",
+      "specialization": "Disaster Counseling",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-10",
+      "courseName": "Certificate Course",
+      "specialization": "Pali Language and Literature",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-11",
+      "courseName": "Certificate Course",
+      "specialization": "Tennis Administration and Diploma Course in Tennis Training and Administration for Coaches",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-12",
+      "courseName": "Certificate Course",
+      "specialization": "Sound and Film Editing",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-13",
+      "courseName": "Certificate Course",
+      "specialization": "Voice Dubbing and Modulation",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-14",
+      "courseName": "Certificate Course",
+      "specialization": "“Peace Education",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-15",
+      "courseName": "Certificate Course",
+      "specialization": "Course in Italian",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-16",
+      "courseName": "Certificate Course",
+      "specialization": "Mass Media in Hindi",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-17",
+      "courseName": "Certificate Course",
+      "specialization": "Philosophy of Communal Harmony and Social Peace’",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-18",
+      "courseName": "Certificate Course",
+      "specialization": "‘Indian Aesthetics",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-19",
+      "courseName": "Certificate Course",
+      "specialization": "Puppetry",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-20",
+      "courseName": "Certificate Course",
+      "specialization": "Ancient Indian Culture",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-21",
+      "courseName": "Certificate Course",
+      "specialization": "International Trade (Africa)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-22",
+      "courseName": "Certificate Course",
+      "specialization": "French (Intensive)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-23",
+      "courseName": "Certificate Course",
+      "specialization": "Functional Proficiency in English",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-24",
+      "courseName": "Certificate Course",
+      "specialization": "Business English Skills",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-25",
+      "courseName": "Certificate Course",
+      "specialization": "Russian",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-26",
+      "courseName": "Certificate Course",
+      "specialization": "WINGS",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-27",
+      "courseName": "Certificate Course",
+      "specialization": "German",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-28",
+      "courseName": "Certificate Course",
+      "specialization": "French",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-29",
+      "courseName": "Certificate Course",
+      "specialization": "Persian",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-30",
+      "courseName": "Certificate Course",
+      "specialization": "Arabic",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-31",
+      "courseName": "Certificate Course",
+      "specialization": "Italian",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-32",
+      "courseName": "Certificate Course",
+      "specialization": "Sanskrit",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-33",
+      "courseName": "Certificate Course",
+      "specialization": "Marathi",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-34",
+      "courseName": "Certificate Course",
+      "specialization": "Spanish",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-35",
+      "courseName": "Certificate Course",
+      "specialization": "Kannada",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-36",
+      "courseName": "Certificate Course",
+      "specialization": "Functional Hindi",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-37",
+      "courseName": "Certificate Course",
+      "specialization": "Urdu",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-38",
+      "courseName": "Certificate Course",
+      "specialization": "Sindhi",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-39",
+      "courseName": "Certificate Course",
+      "specialization": "Philosophy of Vallabh Vedanta (S’uddhadvaita) and Vaisnavism",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-40",
+      "courseName": "Certificate Course",
+      "specialization": "Voice Culture and Verbal Communication.",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-41",
+      "courseName": "Certificate Course",
+      "specialization": "Yoga",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-42",
+      "courseName": "Certificate Course",
+      "specialization": "मुद्रित शोधन आणि संपादन कौशल्य",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-43",
+      "courseName": "Certificate Course",
+      "specialization": "Parliamentary Procedure",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-44",
+      "courseName": "Certificate Course",
+      "specialization": "Glimpses of World Religions (one year)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-45",
+      "courseName": "Certificate Course",
+      "specialization": "Indian Culture",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-46",
+      "courseName": "Certificate Course",
+      "specialization": "American Accent and Culture Training",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-47",
+      "courseName": "Certificate Course",
+      "specialization": "Buddhism",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-48",
+      "courseName": "Certificate Course",
+      "specialization": "Indian Philosophy",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-49",
+      "courseName": "Certificate Course",
+      "specialization": "Indian Religions",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-50",
+      "courseName": "Certificate Course",
+      "specialization": "Islamic Studies",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-51",
+      "courseName": "Certificate Course",
+      "specialization": "Jainology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-52",
+      "courseName": "Certificate Course",
+      "specialization": "Manuscriptology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-53",
+      "courseName": "Certificate Course",
+      "specialization": "Gardening and Nursery Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-54",
+      "courseName": "Certificate Course",
+      "specialization": "Astronomy and Astrophysics",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-55",
+      "courseName": "Certificate Course",
+      "specialization": "Peace Education",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-56",
+      "courseName": "Certificate Course",
+      "specialization": "Medical Attendant",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-57",
+      "courseName": "Certificate Course",
+      "specialization": "Radio Jockeying",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-58",
+      "courseName": "Certificate Course",
+      "specialization": "Documentary Film Making",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-59",
+      "courseName": "Certificate Course",
+      "specialization": "Rudra Veena",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-60",
+      "courseName": "Certificate Course",
+      "specialization": "Personnel Assessment and Management Technique for Business and Industry",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-61",
+      "courseName": "Certificate Course",
+      "specialization": "Crucial Issues in Disaster Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-62",
+      "courseName": "Certificate Course",
+      "specialization": "Environment Management and Disaster Mitigation.",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-63",
+      "courseName": "Certificate Course",
+      "specialization": "Computerized Accounting and Tally Package",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-64",
+      "courseName": "Certificate Course",
+      "specialization": "Bio-informatics",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-65",
+      "courseName": "Certificate Course",
+      "specialization": "Primary Care Paramedics",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-66",
+      "courseName": "Certificate Course",
+      "specialization": "Sensor Networks",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-67",
+      "courseName": "Certificate Course",
+      "specialization": "Bio-culture Techniques",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-68",
+      "courseName": "Certificate Course",
+      "specialization": "Agro Products Processing",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-69",
+      "courseName": "Certificate Course",
+      "specialization": "Medical Social Worker",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-70",
+      "courseName": "Certificate Course",
+      "specialization": "Food Nutrition & Health",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-71",
+      "courseName": "Certificate Course",
+      "specialization": "Chemical Technology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-72",
+      "courseName": "Certificate Course",
+      "specialization": "Studio Singing Technique",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-73",
+      "courseName": "Certificate Course",
+      "specialization": "Music Composition and Direction",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-74",
+      "courseName": "Certificate Course",
+      "specialization": "Music Appreciation and Music Journalism",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-75",
+      "courseName": "Certificate Course",
+      "specialization": "Sound Recording and Sound Reproduction",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-76",
+      "courseName": "Certificate Course",
+      "specialization": "Light Music",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-77",
+      "courseName": "Certificate Course",
+      "specialization": "Performance Proficiency in Hindustani Classical Music (Vocal/Sitar/Tabla)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-78",
+      "courseName": "Certificate Course",
+      "specialization": "Remote Sensing Technology and Geographic Information Systems",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-79",
+      "courseName": "Certificate Course",
+      "specialization": "Marathi Language for Non-Marathains",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-80",
+      "courseName": "Certificate Course",
+      "specialization": "Gandhian Philosophy",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-81",
+      "courseName": "Certificate Course",
+      "specialization": "Entrepreneurship in Textile Crafts",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-82",
+      "courseName": "Certificate Course",
+      "specialization": "Visual Merchandising",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-83",
+      "courseName": "Certificate Course",
+      "specialization": "Nutrition and Exercise for Fitness",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-84",
+      "courseName": "Certificate Course",
+      "specialization": "Indirect Taxes",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-85",
+      "courseName": "Certificate Course",
+      "specialization": "Bioinformatics",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-86",
+      "courseName": "Certificate Course",
+      "specialization": "Retail Marketing",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-87",
+      "courseName": "Certificate Course",
+      "specialization": "Clinical Studies and Data Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-88",
+      "courseName": "Certificate Course",
+      "specialization": "Swahili Language",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-89",
+      "courseName": "Certificate Course",
+      "specialization": "Geology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-90",
+      "courseName": "Certificate Course",
+      "specialization": "Workstation Design and Applied Ergonomics",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-1",
+      "courseName": "Diploma Course",
+      "specialization": "Management of Education",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-2",
+      "courseName": "Diploma Course",
+      "specialization": "Dr. Babasaheb Ambedkar Thoughts",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-3",
+      "courseName": "Diploma Course",
+      "specialization": "Vallabh Vedanta",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-4",
+      "courseName": "Diploma Course",
+      "specialization": "Buddhist Studies",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-5",
+      "courseName": "Diploma Course",
+      "specialization": "Sound Engineering (Audio Production, Sound Recording and  Editing",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-6",
+      "courseName": "Diploma Course",
+      "specialization": "Mass Media in Hindi",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-7",
+      "courseName": "Diploma Course",
+      "specialization": "Buddhist Studies",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-8",
+      "courseName": "Diploma Course",
+      "specialization": "Translation (French)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-9",
+      "courseName": "Diploma Course",
+      "specialization": "German",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-10",
+      "courseName": "Diploma Course",
+      "specialization": "Security Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-11",
+      "courseName": "Diploma Course",
+      "specialization": "Transport and Logistics Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-12",
+      "courseName": "Diploma Course",
+      "specialization": "Personality Development through Yoga",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-13",
+      "courseName": "Diploma Course",
+      "specialization": "Event Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-14",
+      "courseName": "Diploma Course",
+      "specialization": "Analytical Instrumentation",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-15",
+      "courseName": "Diploma Course",
+      "specialization": "Electronics",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-16",
+      "courseName": "Diploma Course",
+      "specialization": "Labour Laws and Labour Welfare",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-17",
+      "courseName": "Diploma Course",
+      "specialization": "Taxation Law",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-18",
+      "courseName": "Diploma Course",
+      "specialization": "Dance (Kathak) (Part-time) (Three Year)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-19",
+      "courseName": "Diploma Course",
+      "specialization": "Bioinformatics",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-20",
+      "courseName": "Diploma Course",
+      "specialization": "Clinical Studies and Data Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-1",
+      "courseName": "Diploma",
+      "specialization": "Early Child hood care and Education (Dip E.C.C.Ed.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-2",
+      "courseName": "Diploma",
+      "specialization": "Yogic Education",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-3",
+      "courseName": "Diploma",
+      "specialization": "Aviation Safety and Hospitality",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-4",
+      "courseName": "Diploma",
+      "specialization": "Indian Aesthetics",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-5",
+      "courseName": "Diploma",
+      "specialization": "Comparative Mythology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-6",
+      "courseName": "Diploma",
+      "specialization": "Geography",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-7",
+      "courseName": "Diploma",
+      "specialization": "Social Work",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-8",
+      "courseName": "Diploma",
+      "specialization": "Epigraphy",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-9",
+      "courseName": "Diploma",
+      "specialization": "Indian Numismatics",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-10",
+      "courseName": "Diploma",
+      "specialization": "Pali",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-11",
+      "courseName": "Diploma",
+      "specialization": "Sanskrit",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-12",
+      "courseName": "Diploma",
+      "specialization": "Marathi",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-13",
+      "courseName": "Diploma",
+      "specialization": "साहित्य संवाद",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-14",
+      "courseName": "Diploma",
+      "specialization": "Russian",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-15",
+      "courseName": "Diploma",
+      "specialization": "French",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-16",
+      "courseName": "Diploma",
+      "specialization": "Persian",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-17",
+      "courseName": "Diploma",
+      "specialization": "Arabic",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-18",
+      "courseName": "Diploma",
+      "specialization": "Urdu",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-19",
+      "courseName": "Diploma",
+      "specialization": "Prakrit",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-20",
+      "courseName": "Diploma",
+      "specialization": "Italian",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-21",
+      "courseName": "Diploma",
+      "specialization": "Sindhi",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-22",
+      "courseName": "Diploma",
+      "specialization": "Japanese",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-23",
+      "courseName": "Diploma",
+      "specialization": "Urdu Computer Applications and Multilingual",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-24",
+      "courseName": "Diploma",
+      "specialization": "Consumer Consultancy (Part-Time)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-25",
+      "courseName": "Diploma",
+      "specialization": "Manuscriptology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-26",
+      "courseName": "Diploma",
+      "specialization": "Buddhist Studies and Vipassana",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-27",
+      "courseName": "Diploma",
+      "specialization": "Foundation of Yoga",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-28",
+      "courseName": "Diploma",
+      "specialization": "Islamic Studies",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-29",
+      "courseName": "Diploma",
+      "specialization": "Jainology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-30",
+      "courseName": "Diploma",
+      "specialization": "Tour Management (UGDTM)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-31",
+      "courseName": "Diploma",
+      "specialization": "Marketing Management (D.M.M )",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-32",
+      "courseName": "Diploma",
+      "specialization": "Management Studies (D.M.S.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-33",
+      "courseName": "Diploma",
+      "specialization": "Systems Management (D.S.M. )",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-34",
+      "courseName": "Diploma",
+      "specialization": "Operation Management (D.O.M.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-35",
+      "courseName": "Diploma",
+      "specialization": "Computer Management (D.C.M.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-36",
+      "courseName": "Diploma",
+      "specialization": "Administrative Management (D.A.M.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-37",
+      "courseName": "Diploma",
+      "specialization": "Administration",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-38",
+      "courseName": "Diploma",
+      "specialization": "Investment Studies (D.I.S. )",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-39",
+      "courseName": "Diploma",
+      "specialization": "Financial Services Management (D.F.S.M.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-40",
+      "courseName": "Diploma",
+      "specialization": "Textile Management and Marketing (D.T.M.M.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-41",
+      "courseName": "Diploma",
+      "specialization": "Computer Software Techniques (D.C.S.T.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-42",
+      "courseName": "Diploma",
+      "specialization": "Computer Software Techniques (D.A.C.S.T.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-43",
+      "courseName": "Diploma",
+      "specialization": "Computer Programming (D.C.P.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-44",
+      "courseName": "Diploma",
+      "specialization": "Urban Management and Advanced Post-Graduate Diploma in Urban Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-45",
+      "courseName": "Diploma",
+      "specialization": "Management (Indian Navy) (P.G.D.M.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-46",
+      "courseName": "Diploma",
+      "specialization": "Marketing Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-47",
+      "courseName": "Diploma",
+      "specialization": "Financial Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-48",
+      "courseName": "Diploma",
+      "specialization": "Materials Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-49",
+      "courseName": "Diploma",
+      "specialization": "Human Resources Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-50",
+      "courseName": "Diploma",
+      "specialization": "Industrial Toxicology Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-51",
+      "courseName": "Diploma",
+      "specialization": "Aspects of Bio-Technology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-52",
+      "courseName": "Diploma",
+      "specialization": "Cosmetics and Perfumery Technology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-53",
+      "courseName": "Diploma",
+      "specialization": "Computerized Data Processing and Management Information System",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-54",
+      "courseName": "Diploma",
+      "specialization": "Environmental Pollution Control Technology (D.E.P.C.T.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-55",
+      "courseName": "Diploma",
+      "specialization": "Music",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-56",
+      "courseName": "Diploma",
+      "specialization": "Music K.V.C.",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-57",
+      "courseName": "Diploma",
+      "specialization": "Remote Sensing Technology and Geographic Information Systems",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-1",
+      "courseName": "Post Graduate Diploma",
+      "specialization": "Counseling",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-2",
+      "courseName": "Post Graduate Diploma",
+      "specialization": "Continuing Education and Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-1",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Management of Education",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-2",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Linguistics",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-3",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Travel and Tourism Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-4",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Human Rights",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-5",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Buddhist Studies (part-time)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-6",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Study of Religions",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-7",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Journalism through Urdu medium",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-8",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Urdu, Theatre, Script Writing and Translation, Adaptation/Translation",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-9",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Philosophy of Communal Harmony and Social Peace",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-10",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "German and European Inter-Cultural Studies",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-11",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Slums Studies and Development (DCSSD)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-12",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Travel and Tourism Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-13",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Radio and Television Lekhan",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-14",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Film Lekhan",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-15",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Therapeutic Counselling",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-16",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Rural Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-17",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Museology and Conservation",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-18",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Cyber Law",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-19",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Forensic Science and Law",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-20",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Human Rights and Laws",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-21",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Intellectual Property Rights",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-22",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Juvenile Jurisprudence and Juvenile Justice system.",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-course-23",
+      "courseName": "Post-Graduate Diploma Course",
+      "specialization": "Performing Folk Arts (DPFA)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-p.g.-dip.-1",
+      "courseName": "P.G. Dip.",
+      "specialization": "Special Education (Multiple/Disability Physical and Neurological)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-p.g.-certificate-course-1",
+      "courseName": "P.G. Certificate Course",
+      "specialization": "Research Methodology in Education",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-social-work-certificate-1",
+      "courseName": "Social Work Certificate",
+      "specialization": "Senior Citizens",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-1",
+      "courseName": "Certificate course",
+      "specialization": "Professional proficiency in English",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-2",
+      "courseName": "Certificate course",
+      "specialization": "Bhakti Literature",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-one-year-part-time-diploma-1",
+      "courseName": "One Year Part-time Diploma",
+      "specialization": "Conversational Japanese",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-one-year-part-time-diploma-2",
+      "courseName": "One Year Part-time Diploma",
+      "specialization": "Business Japanese",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-intensive-diploma-1",
+      "courseName": "Intensive Diploma",
+      "specialization": "Italian",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-1",
+      "courseName": "Diploma course",
+      "specialization": "Religion and Society, Peace and Dialogue",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-2",
+      "courseName": "Diploma course",
+      "specialization": "Advanced Diploma in Counseling Psychology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-advanced-diploma-post-m.a.-1",
+      "courseName": "Advanced Diploma (Post M.A.)",
+      "specialization": "Clinical Psychology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-advanced-diploma-post-m.a.-2",
+      "courseName": "Advanced Diploma (Post M.A.)",
+      "specialization": "Industrial and Organizational Psychology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-advanced-diploma-course-1",
+      "courseName": "Advanced Diploma Course",
+      "specialization": "German",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-advanced-diploma-course-2",
+      "courseName": "Advanced Diploma Course",
+      "specialization": "Japanese",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-advanced-diploma-course-3",
+      "courseName": "Advanced Diploma Course",
+      "specialization": "Yoga",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-advanced-diploma-course-4",
+      "courseName": "Advanced Diploma Course",
+      "specialization": "Arabic",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-advanced-diploma-course-5",
+      "courseName": "Advanced Diploma Course",
+      "specialization": "Russian",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-advanced-diploma-course-6",
+      "courseName": "Advanced Diploma Course",
+      "specialization": "French",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-advanced-diploma-course-7",
+      "courseName": "Advanced Diploma Course",
+      "specialization": "Urdu",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-advanced-diploma-course-8",
+      "courseName": "Advanced Diploma Course",
+      "specialization": "German",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-advanced-diploma-course-9",
+      "courseName": "Advanced Diploma Course",
+      "specialization": "Manuscriptology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-advanced-diploma-course-10",
+      "courseName": "Advanced Diploma Course",
+      "specialization": "Sindhi",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-advanced-diploma-course-11",
+      "courseName": "Advanced Diploma Course",
+      "specialization": "Clinical Studies and Data Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-advanced-diploma-course-12",
+      "courseName": "Advanced Diploma Course",
+      "specialization": "Bioinformatics",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-advanced-diploma-1",
+      "courseName": "Advanced Diploma",
+      "specialization": "Commercial and Technical Translation and Tourism (German)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-1-yr-part-time-advance-diploma-course-1",
+      "courseName": "1 Yr Part-time Advance Diploma Course",
+      "specialization": "Philosophy of Vallabha Vedanta (Shuddhavaita) and Vaisnavism",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-advance-diploma-course-1",
+      "courseName": "Advance Diploma Course",
+      "specialization": "Italian",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-advance-diploma-course-2",
+      "courseName": "Advance Diploma Course",
+      "specialization": "Sanskri",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-advance-diploma-course-3",
+      "courseName": "Advance Diploma Course",
+      "specialization": "Translation (French)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-advanced-diploma-course-1",
+      "courseName": "Post-Graduate Advanced Diploma Course",
+      "specialization": "Comparative Mythology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-1",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Media and Disability Communication",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-2",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Women’s Studies",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-3",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Public Policy",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-4",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "International Studies",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-5",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Environment and Development",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-6",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Mysticism",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-7",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Management of Insurance Sector",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-8",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Environmental Technology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-9",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Dietetics and Applied Nutrition",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-10",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Food Processing and Preservation",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-11",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Horticulture",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-12",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Industrial Chemical Process Operations (P.G.D.I.C.P.O.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-13",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Environmental Pollution Analysis and Control",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-14",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Perfumery and Cosmetics Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-15",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Techniques in Chemical Industry (PGDTICI)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-16",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Energy Audit and Alternative Energy Sources",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-17",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Analytical Techniques",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-18",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Actuarial Science",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-19",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-20",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Applied, Statistics with Software",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-21",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Digital Composting and Visual Effects (PGDDCVE)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-22",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Digital and Cyber Forensic and related Law",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-23",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Forensic Science and related Law",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-24",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Clinical Studies, Data Management and Medical Writing",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-25",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Bio-nanotechnology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-26",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Biopharmaceut-ical Production and Quality Control",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-27",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Criminal Law, Procedure and Practice.",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-28",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Environmental Laws and Practice",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-29",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Consumer Protection",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-30",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Financial Management (D.F.M.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-diploma-31",
+      "courseName": "Post-Graduate Diploma",
+      "specialization": "Operational Research Management (D.O.R.M.",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-advance-diploma-course-1",
+      "courseName": "Post Graduate Advance Diploma Course",
+      "specialization": "Mysticism",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-advanced-diploma-1",
+      "courseName": "Post Graduate Advanced Diploma",
+      "specialization": "Pali",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-p.g.-diploma-course-1",
+      "courseName": "P.G. Diploma Course",
+      "specialization": "Child Rights and Child Protection",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-short-term-intensive-basic-certificate-course-1",
+      "courseName": "Short Term/Intensive Basic Certificate Course",
+      "specialization": "German",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-conversational-course-1",
+      "courseName": "Conversational Course",
+      "specialization": "German for beginners",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-course-in-marathi-language-1",
+      "courseName": "Certificate Course in Marathi Language",
+      "specialization": "ओळख महाराष्ट्राच्या संस्कृतीची",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-short-course-1",
+      "courseName": "Short Course",
+      "specialization": "Spoken Armenian",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-short-term-intensive-diploma-1",
+      "courseName": "Short term Intensive Diploma",
+      "specialization": "German",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-in-agricultural-and-horticulture-management-1",
+      "courseName": "Diploma Course in Agricultural and Horticulture Management",
+      "specialization": "Agro-Supplementary Animal Farm",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-in-agricultural-and-horticulture-management-2",
+      "courseName": "Diploma Course in Agricultural and Horticulture Management",
+      "specialization": "Agro Farm Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-in-agricultural-and-horticulture-management-3",
+      "courseName": "Diploma Course in Agricultural and Horticulture Management",
+      "specialization": "Horticulture Techniques",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-in-communication-and-event-management-1",
+      "courseName": "Diploma Course in Communication and Event Management",
+      "specialization": "Communication Techniques",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-in-communication-and-event-management-2",
+      "courseName": "Diploma Course in Communication and Event Management",
+      "specialization": "Event Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-in-tours-travel-tourism-management-1",
+      "courseName": "Diploma Course in Tours, Travel & Tourism Management",
+      "specialization": "Tours & Ticketing Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-in-tours-travel-tourism-management-2",
+      "courseName": "Diploma Course in Tours, Travel & Tourism Management",
+      "specialization": "Tourism and Travel Techniques",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-in-tours-travel-tourism-management-3",
+      "courseName": "Diploma Course in Tours, Travel & Tourism Management",
+      "specialization": "Expert in Tour Costing",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-commerce-b.-com.-1",
+      "courseName": "Bachelor of Commerce (B. Com.)",
+      "specialization": "Accounting & Finance",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-commerce-b.-com.-2",
+      "courseName": "Bachelor of Commerce (B. Com.)",
+      "specialization": "Banking & Insurance",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-commerce-b.-com.-3",
+      "courseName": "Bachelor of Commerce (B. Com.)",
+      "specialization": "Financial Markets",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.m.s.-1",
+      "courseName": "B.M.S.",
+      "specialization": "Management Studies",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.com-1",
+      "courseName": "M.Com",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.com-2",
+      "courseName": "M.Com",
+      "specialization": "E. Commerce",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.com-3",
+      "courseName": "M.Com",
+      "specialization": "Account OR Management Group",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-masters-1",
+      "courseName": "Masters",
+      "specialization": "Management Studies",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-masters-2",
+      "courseName": "Masters",
+      "specialization": "Financial Management (M.F.M. )",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-masters-3",
+      "courseName": "Masters",
+      "specialization": "Human Resources Development Management (M.H.R.D.M.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-masters-4",
+      "courseName": "Masters",
+      "specialization": "Financial Services Management (M.F.S.M.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-masters-5",
+      "courseName": "Masters",
+      "specialization": "Chemical Engineering (M.Chem. Engg.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-masters-6",
+      "courseName": "Masters",
+      "specialization": "Computer Application (M.C.A.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-masters-7",
+      "courseName": "Masters",
+      "specialization": "Pharmaceutical Science (M.Pharm.Sc.) Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-masters-8",
+      "courseName": "Masters",
+      "specialization": "Architecture (By Research)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-masters-9",
+      "courseName": "Masters",
+      "specialization": "Computer Application (M.C.A.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-masters-degree-1",
+      "courseName": "Master’s Degree",
+      "specialization": "Marketing Management (M.M.M.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-masters-degree-1",
+      "courseName": "Master’s degree",
+      "specialization": "Information Management (M.I.M)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-courses-in-accountancy-1",
+      "courseName": "Certificate Courses in Accountancy",
+      "specialization": "Certificate Course in Accounts of Trusts & Co-operative Society.",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-courses-in-accountancy-2",
+      "courseName": "Certificate Courses in Accountancy",
+      "specialization": "Certificate Course in Indirect Taxes(Central Excise & Service Tax)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-courses-in-accountancy-3",
+      "courseName": "Certificate Courses in Accountancy",
+      "specialization": "Certificate Course in Basic Accounting",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-courses-in-accountancy-4",
+      "courseName": "Certificate Courses in Accountancy",
+      "specialization": "Certificate Course in Direct Taxes (Income Tax)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-in-e-commerce-financial-accounting-management-1",
+      "courseName": "Diploma Course in E-Commerce & Financial Accounting Management",
+      "specialization": "E-Commerce Technician",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-in-e-commerce-financial-accounting-management-2",
+      "courseName": "Diploma Course in E-Commerce & Financial Accounting Management",
+      "specialization": "Computerized Office Technician",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-in-e-commerce-financial-accounting-management-3",
+      "courseName": "Diploma Course in E-Commerce & Financial Accounting Management",
+      "specialization": "Computerized Financial Accounting Technician",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-science-b.sc.-1",
+      "courseName": "Bachelor of Science (B.Sc.)",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-science-b.sc.-2",
+      "courseName": "Bachelor of Science (B.Sc.)",
+      "specialization": "Home Science",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-science-b.sc.-3",
+      "courseName": "Bachelor of Science (B.Sc.)",
+      "specialization": "Computer Science",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-science-b.sc.-4",
+      "courseName": "Bachelor of Science (B.Sc.)",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-science-b.sc.-5",
+      "courseName": "Bachelor of Science (B.Sc.)",
+      "specialization": "Bio-Technology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-science-b.sc.-6",
+      "courseName": "Bachelor of Science (B.Sc.)",
+      "specialization": "Hospitality Studies degree Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-science-b.sc.-7",
+      "courseName": "Bachelor of Science (B.Sc.)",
+      "specialization": "Nautical Sciences",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-science-b.sc.-8",
+      "courseName": "Bachelor of Science (B.Sc.)",
+      "specialization": "Aviation",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-science-programme-1",
+      "courseName": "Bachelor of Science Programme",
+      "specialization": "Aeronautics(Avionics)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-science-programme-2",
+      "courseName": "Bachelor of Science Programme",
+      "specialization": "Aeronautics (Mechanical)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.sc-1",
+      "courseName": "B.Sc",
+      "specialization": "Mari-time Sciences",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.sc-2",
+      "courseName": "B.Sc",
+      "specialization": "Sports Management Degree Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.sc-3",
+      "courseName": "B.Sc",
+      "specialization": "Mari-time Hospitality Studies",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.sc-4",
+      "courseName": "B.Sc",
+      "specialization": "Forensic Science",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-science-m.sc.-1",
+      "courseName": "Master of Science (M.Sc.)",
+      "specialization": "Degree Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.sc.-1",
+      "courseName": "M.Sc.",
+      "specialization": "Home Science",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.sc.-2",
+      "courseName": "M.Sc.",
+      "specialization": "Bioanalytical Sciences",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.sc.-home-science-degree-course-1",
+      "courseName": "M.Sc. (Home Science) degree Course",
+      "specialization": "Food Processing and Preservation",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.sc.-home-science-degree-course-2",
+      "courseName": "M.Sc. (Home Science) degree Course",
+      "specialization": "Sports Nutrition",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-five-year-integrated-m.sc.-degree-1",
+      "courseName": "Five Year Integrated M.Sc. Degree",
+      "specialization": "Basic Sciences",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-five-year-integrated-course-in-m.sc.-1",
+      "courseName": "Five Year Integrated Course in M.Sc.",
+      "specialization": "Bioanlytical Sciences",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-five-year-integrated-course-in-m.sc.-degree-course-1",
+      "courseName": "Five Year Integrated Course in M.Sc. degree Course",
+      "specialization": "Computer Science",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.sc-1",
+      "courseName": "M.Sc",
+      "specialization": "(Bio-Chemistry) By Research",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.sc-2",
+      "courseName": "M.Sc",
+      "specialization": "Nano-Science and Nano Technology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.sc-3",
+      "courseName": "M.Sc",
+      "specialization": "Environmental Sciences",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.sc-4",
+      "courseName": "M.Sc",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.sc-5",
+      "courseName": "M.Sc",
+      "specialization": "Computer Science",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.sc.-degree-course-1",
+      "courseName": "M.Sc. Degree Course",
+      "specialization": "Herbal Science",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.sc.-degree-course-2",
+      "courseName": "M.Sc. Degree Course",
+      "specialization": "Bio-analytical Instrumentation",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.sc.-degree-course-3",
+      "courseName": "M.Sc. Degree Course",
+      "specialization": "Bio-Informatics",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.sc.-degree-course-4",
+      "courseName": "M.Sc. Degree Course",
+      "specialization": "Nutraceuticals",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-b.sc.-diploma-1",
+      "courseName": "Post B.Sc. Diploma",
+      "specialization": "Computer Science and Application",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-diploma-advance-course-1",
+      "courseName": "Certificate/Diploma/Advance Course",
+      "specialization": "Bio-technology (Vocational",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-diploma-advance-course-2",
+      "courseName": "Certificate/Diploma/Advance Course",
+      "specialization": "Molecular Microbiology (Vocational)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-one-year-post-graduate-diploma-course-1",
+      "courseName": "One Year Post-Graduate Diploma Course",
+      "specialization": "Remote Sensing Technology and Geographic Information Systems",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-advanced-diploma-1",
+      "courseName": "Post-Graduate Advanced Diploma",
+      "specialization": "Naval Architecture and Shipbuilding",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-short-term-under-graduate-courses-viz.-1",
+      "courseName": "Short-term Under-Graduate Courses Viz.",
+      "specialization": "Industrial Chemistry",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-short-term-under-graduate-courses-viz.-2",
+      "courseName": "Short-term Under-Graduate Courses Viz.",
+      "specialization": "Polymers Chemistry & Processing",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-short-term-under-graduate-courses-viz.-3",
+      "courseName": "Short-term Under-Graduate Courses Viz.",
+      "specialization": "Environment & Industry",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-in-computer-dtp-multimedia-web-page-technician-1",
+      "courseName": "Diploma Course in Computer DTP, Multimedia Web Page Technician",
+      "specialization": "Computer Technician",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-in-computer-dtp-multimedia-web-page-technician-2",
+      "courseName": "Diploma Course in Computer DTP, Multimedia Web Page Technician",
+      "specialization": "DTP Technician",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-in-computer-dtp-multimedia-web-page-technician-3",
+      "courseName": "Diploma Course in Computer DTP, Multimedia Web Page Technician",
+      "specialization": "Multimedia Technician",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-diploma-course-in-computer-dtp-multimedia-web-page-technician-4",
+      "courseName": "Diploma Course in Computer DTP, Multimedia Web Page Technician",
+      "specialization": "Web Page Technician",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-law-ll.b.-1",
+      "courseName": "Bachelor of Law (LL.B.)",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-law-ll.b.-three-years-1",
+      "courseName": "Bachelor of Law (LL.B.) (Three Years)",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-law-ll.b.-five-years-1",
+      "courseName": "Bachelor of Law (LL.B.) (Five Years)",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-law-ll.m.-1",
+      "courseName": "Master of Law (LL.M.)",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-law-by-research-ll.m.-1",
+      "courseName": "Master of Law By Research (LL.M.)",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-certificate-course-1",
+      "courseName": "Post-Graduate Certificate Course",
+      "specialization": "Alternative Dispute Resolution (A.D.R.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-engineering-b.e.-full-time-1",
+      "courseName": "Bachelor of Engineering (B.E.) (Full-time)",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-engineering-b.e.-part-time-1",
+      "courseName": "Bachelor of Engineering (B.E.) (Part-time)",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelors-1",
+      "courseName": "Bachelors",
+      "specialization": "Textiles (B.Text.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelors-2",
+      "courseName": "Bachelors",
+      "specialization": "Chemical Technology (B.Chem. Tech.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelors-3",
+      "courseName": "Bachelors",
+      "specialization": "Chemical Engineering (B.Chem. Engg.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelors-4",
+      "courseName": "Bachelors",
+      "specialization": "Pharmaceutical Sciences (B.Pharm. Sci.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelors-5",
+      "courseName": "Bachelors",
+      "specialization": "Architecture (B.Arch.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelors-6",
+      "courseName": "Bachelors",
+      "specialization": "Architecture with Interior Design Course Master of Engineering (M.E.) (Full-time) Master of Engineering Degree Course (P.T.D.C.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelors-7",
+      "courseName": "Bachelors",
+      "specialization": "Music (B.Mus.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelors-8",
+      "courseName": "Bachelors",
+      "specialization": "Performing Arts/ (B.P.A.) (Music) (Karnataka Vocal/ Instrumental)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-engineering-m.e.-1",
+      "courseName": "Master of Engineering (M.E.)",
+      "specialization": "Electronics (Part-Time) Degree Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-engineering-m.e.-2",
+      "courseName": "Master of Engineering (M.E.)",
+      "specialization": "(Plastic Engineering) Degree Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-engineering-m.e.-3",
+      "courseName": "Master of Engineering (M.E.)",
+      "specialization": "Electrical (Power Electronics & Drives)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-engineering-1",
+      "courseName": "Master of Engineering",
+      "specialization": "(Production) (with specialization in Manufacturing) (Part-time degree Course)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-technology-m.tech.-1",
+      "courseName": "Master of Technology (M.Tech.)",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-technology-1",
+      "courseName": "Master of Technology",
+      "specialization": "(Green Technology) (Full time)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-technology-2",
+      "courseName": "Master of Technology",
+      "specialization": "(Green Technology) (Part-time)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-technology-3",
+      "courseName": "Master of Technology",
+      "specialization": "(Textiles)/M.Tech. (Textiles)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-textiles-1",
+      "courseName": "Master of Textiles",
+      "specialization": "(M.Text.) (By Papers)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-textiles-2",
+      "courseName": "Master of Textiles",
+      "specialization": "(M.Text.) (By Research)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-architecture-1",
+      "courseName": "Master of Architecture",
+      "specialization": "Urban Design (M.Arch) (Urban Design",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-architecture-2",
+      "courseName": "Master of Architecture",
+      "specialization": "Landscape (M.Arch.) (Landscape) (Full time)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-architecture-3",
+      "courseName": "Master of Architecture",
+      "specialization": "Landscape (M.Arch.) (Landscape) (Part-time)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-architecture-4",
+      "courseName": "Master of Architecture",
+      "specialization": "Architectural and Urban Conservation",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-architecture-5",
+      "courseName": "Master of Architecture",
+      "specialization": "Urban and Regional Planning",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-architecture-6",
+      "courseName": "Master of Architecture",
+      "specialization": "Project Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-fine-art-b.f.a.-1",
+      "courseName": "Bachelor of Fine Art (B.F.A.)",
+      "specialization": "(Applied Art) (Revised) Degree Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-fine-art-b.f.a.-2",
+      "courseName": "Bachelor of Fine Art (B.F.A.)",
+      "specialization": "Painting (Revised Degree Course)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-fine-art-b.f.a.-3",
+      "courseName": "Bachelor of Fine Art (B.F.A.)",
+      "specialization": "(Sculpture) (Revised) Degree Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-fine-art-b.f.a.-4",
+      "courseName": "Bachelor of Fine Art (B.F.A.)",
+      "specialization": "(Metal Work) (Revised Course)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-fine-art-b.f.a.-5",
+      "courseName": "Bachelor of Fine Art (B.F.A.)",
+      "specialization": "(Textile Design) (Revised Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-fine-art-b.f.a.-6",
+      "courseName": "Bachelor of Fine Art (B.F.A.)",
+      "specialization": "(Interior Decoration) (Revised Course)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-fine-art-b.f.a.-7",
+      "courseName": "Bachelor of Fine Art (B.F.A.)",
+      "specialization": "(Ceramics) (Revised Course) Master of Fine Art Degree Course (M.F.A.) (By Research and By Papers.) in the Branches",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-bachelor-of-performing-art-1",
+      "courseName": "Bachelor of Performing Art",
+      "specialization": "(B.P.A.) (Dance)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-performing-art-1",
+      "courseName": "Master of Performing Art",
+      "specialization": "(M.P.A.) (Dance)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-diploma-advance-diploma-1",
+      "courseName": "Certificate/Diploma/Advance Diploma",
+      "specialization": "Dance (Kathak) Part-time",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-p.g.-diploma-1",
+      "courseName": "P.G. Diploma",
+      "specialization": "Dance and Fitness",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-foundation-course-1",
+      "courseName": "Foundation Course",
+      "specialization": "Dance",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-post-graduate-bridge-course-1",
+      "courseName": "Post Graduate Bridge Course",
+      "specialization": "Dance",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-advanced-certificate-course-1",
+      "courseName": "Advanced Certificate Course",
+      "specialization": "Sound Recording and Reproduction",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-pre-diploma-certificate-course-1",
+      "courseName": "Pre Diploma Certificate Course",
+      "specialization": "Music (Classical Vocal)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-1",
+      "courseName": "Master",
+      "specialization": "Theatre Arts",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-courses-1",
+      "courseName": "Certificate Courses",
+      "specialization": "Performing Folk Arts लोकवाद्यवादन, लोकगीतगायन, लोकनृत्य आणि लोकभिनय",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-courses-2",
+      "courseName": "Certificate Courses",
+      "specialization": "Dramatics (In Marathi)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-diploma-advanced-diploma-course-1",
+      "courseName": "Certificate/Diploma/Advanced Diploma Course",
+      "specialization": "Rainfed Agriculture (Revised Course of Dylan Agriculture Vocational Course of UGC)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-forensic-biochemistry-1",
+      "courseName": "Forensic Biochemistry",
+      "specialization": "__",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-environmental-biochemistry-1",
+      "courseName": "Environmental Biochemistry",
+      "specialization": "__",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-applied-biotechnology-1",
+      "courseName": "Applied Biotechnology",
+      "specialization": "__",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-research-methodology-1",
+      "courseName": "Research Methodology",
+      "specialization": "__",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-drug-discovery-and-development-1",
+      "courseName": "Drug Discovery and Development",
+      "specialization": "__",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-industrial-biochemistry-1",
+      "courseName": "Industrial Biochemistry",
+      "specialization": "__",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-clinical-biochemistry-and-basics-of-medical-laboratory-technology-1",
+      "courseName": "Clinical Biochemistry and Basics of Medical Laboratory Technology",
+      "specialization": "__",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-nutrition-and-dietetics-1",
+      "courseName": "Nutrition and Dietetics",
+      "specialization": "__ Food Processing and Preservation",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-quality-control-oc-good-manufacturing-practices-gmp-and-good-laboratory-practices-glp-1",
+      "courseName": "Quality Control (OC), Good Manufacturing Practices (GMP) and Good Laboratory Practices (GLP)",
+      "specialization": "1) Certificate Course 2) Diploma Course 3) Advanced Diploma Course in Vocational Bio-Technology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-e-commerce-1",
+      "courseName": "E-Commerce",
+      "specialization": "__",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-foreign-trade-management-1",
+      "courseName": "Foreign Trade Management",
+      "specialization": "__",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-customer-resource-management-1",
+      "courseName": "Customer Resource Management",
+      "specialization": "1) Certificate Course 2) Diploma Course 3)Advanced Diploma Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-stock-market-operation-1",
+      "courseName": "Stock Market Operation",
+      "specialization": "1) Certificate Course 2) Diploma Course 3)Advanced Diploma Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-tax-procedure-and-practice-1",
+      "courseName": "Tax Procedure and Practice",
+      "specialization": "1) Certificate Course 2) Diploma Course 3)Advanced Diploma Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-tax-procedure-and-practice-2",
+      "courseName": "Tax Procedure and Practice",
+      "specialization": "1) Certificate Course/ 2) Diploma Course and 3) Advanced Diploma Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-family-business-management-1",
+      "courseName": "Family Business Management",
+      "specialization": "1) Certificate Course 2) Diploma Course 3) Advanced Diploma Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-international-business-export-mgt.-1",
+      "courseName": "International Business (Export Mgt.)",
+      "specialization": "1) Certificate Course 2) Diploma Course 3) Advanced Diploma Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-stock-market-operation-management-1",
+      "courseName": "Stock Market Operation Management",
+      "specialization": "1) Certificate Course 2) Diploma Course 3) Advanced Diploma Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-management-of-retail-business-1",
+      "courseName": "Management of Retail Business",
+      "specialization": "1) Certificate Course 2) Diploma Course 3) Advanced Diploma Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-in-advertising-sales-promotion-and-sales-management-1",
+      "courseName": "Certificate in Advertising, Sales Promotion and Sales Management",
+      "specialization": "1) Certificate Course 2) Diploma Course 3) Advanced Diploma Course Personal Selling Salesmanship and Sales Force Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-secretarial-practice-and-office-management-1",
+      "courseName": "Secretarial Practice and Office Management",
+      "specialization": "1) Certificate Course 2) Diploma Course 3) Advanced Diploma Course Certificate Course in Biodiversity Certificate Course in Horticulture Design & Maintenance of Domestic & Industrial (Electrical & Electronic Appliances",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-functional-english-1",
+      "courseName": "Functional English",
+      "specialization": "1)Certificate Course 2) Diploma Course 3)Advanced Diploma Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-child-care-and-child-development-1",
+      "courseName": "Child Care and Child Development",
+      "specialization": "1) Certificate Course 2) Diploma Course 3) Advanced Diploma Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-environmental-auditing-1",
+      "courseName": "Environmental Auditing",
+      "specialization": "1) Certificate Course 2) Diploma Course 3) Advanced Diploma Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-web-designing-and-office-automation-1",
+      "courseName": "Web Designing and Office Automation",
+      "specialization": "1) Certificate Course 2) Diploma Course 3) Advanced Diploma Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-hardware-maintenance-1",
+      "courseName": "Hardware Maintenance",
+      "specialization": "1) Certificate Course 2) Diploma Course 3) Advanced Diploma Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-tissue-culture-1",
+      "courseName": "Tissue Culture",
+      "specialization": "1) Certificate Course 2) Diploma Course 3) Advanced Diploma Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-electronics-equipment-maintenance-1",
+      "courseName": "Electronics Equipment Maintenance",
+      "specialization": "1) Certificate Course 2) Diploma Course 3) Advanced Diploma Course Heritage Management",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-certificate-diploma-1",
+      "courseName": "Certificate/Diploma",
+      "specialization": "Conversational English",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-tourism-and-travel-management-1",
+      "courseName": "Tourism and Travel Management",
+      "specialization": "1) Certificate Course/ 2) Diploma Course and 3) Advanced Diploma Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-science-of-fishery-1",
+      "courseName": "Science of Fishery",
+      "specialization": "1) Certificate Course 2) Diploma Course 3) Advanced Diploma Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-instrumentation-1",
+      "courseName": "Instrumentation",
+      "specialization": "1) Certificate Course 2) Diploma Course 3) Advanced Diploma",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-computer-applications-1",
+      "courseName": "Computer Applications",
+      "specialization": "1) Certificate Course 2) Diploma Course 3) Advanced Diploma Course",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-one-year-post-graduate-diploma-course-1",
+      "courseName": "One year Post-Graduate Diploma Course",
+      "specialization": "Biodiversity",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-doctor-of-science-1",
+      "courseName": "Doctor of Science",
+      "specialization": "D.Sc. (By Thesis)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-doctor-of-letters-1",
+      "courseName": "Doctor of Letters",
+      "specialization": "(D.Litt.)",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-doctor-of-philosophy-1",
+      "courseName": "Doctor of Philosophy",
+      "specialization": "(Ph. D) in various subjects",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-master-of-philosophy-m.phil-in-the-faculties-of-1",
+      "courseName": "Master of Philosophy (M.Phil) in the faculties of :",
+      "specialization": "(1)Arts (including Education) (2) Science (3) Commerce (4) Law",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.phil.-1",
+      "courseName": "M.Phil.",
+      "specialization": "Nano Science & Nano technology B.A.",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.com-1",
+      "courseName": "B.COM",
+      "specialization": "Accounts OR Management Group",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.sc.-1",
+      "courseName": "B.Sc.",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.sc.-2",
+      "courseName": "B.Sc.",
+      "specialization": "Computer Science",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-b.sc.-3",
+      "courseName": "B.Sc.",
+      "specialization": "Nautical Technology",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "mumbai-university-m.a.-m.sc.-1",
+      "courseName": "M.A./M.Sc.",
+      "specialization": "Mathematics",
+      "duration": "",
+      "eligibility": "",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

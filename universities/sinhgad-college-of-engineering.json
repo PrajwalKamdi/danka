@@ -1,0 +1,254 @@
+{
+  "id": "28",
+  "slug": "sinhgad-college-of-engineering",
+  "name": "Sinhgad College of Engineering",
+  "description": "Sinhgad College of Engineering (SCOE), Pune offers UG/PG programmes across core and emerging engineering disciplines with modern labs, research centres and strong industry connect.",
+  "accreditation": [
+    "AICTE approval",
+    "Affiliated to Savitribai Phule Pune University",
+    "NAAC accreditation (Institutional)",
+    "NBA accreditation for select programmes (as applicable)"
+  ],
+  "awards": [
+    "Recognised in engineering institute rankings/ratings (recent cycles)"
+  ],
+  "website": "https://www.sinhgad.edu",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "sinhgad-college-of-engineering-b.e.-b.tech-1",
+      "courseName": "B.E./B.Tech",
+      "specialization": "Chemical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-b.e.-b.tech-2",
+      "courseName": "B.E./B.Tech",
+      "specialization": "Computer Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-b.e.-b.tech-3",
+      "courseName": "B.E./B.Tech",
+      "specialization": "Electronics and Telecommunication Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-b.e.-b.tech-4",
+      "courseName": "B.E./B.Tech",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-b.e.-b.tech-5",
+      "courseName": "B.E./B.Tech",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-b.e.-b.tech-6",
+      "courseName": "B.E./B.Tech",
+      "specialization": "Production Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-b.e.-b.tech-7",
+      "courseName": "B.E./B.Tech",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-b.e.-b.tech-8",
+      "courseName": "B.E./B.Tech",
+      "specialization": "Bio-technology",
+      "duration": "",
+      "eligibility": "10+2 with PCM / PCB depending on university norms",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-m.tech-1",
+      "courseName": "M.Tech",
+      "specialization": "Chemical Engineering",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in Chemical or related field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-m.tech-2",
+      "courseName": "M.Tech",
+      "specialization": "Design Engineering",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in Mechanical or related field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-m.tech-3",
+      "courseName": "M.Tech",
+      "specialization": "Digital System",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in E&TC / Electrical or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-m.tech-4",
+      "courseName": "M.Tech",
+      "specialization": "Heat Power Engineering",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in Mechanical or related field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-m.tech-5",
+      "courseName": "M.Tech",
+      "specialization": "Structural Engineering",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in Civil or related field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-m.tech-6",
+      "courseName": "M.Tech",
+      "specialization": "VLSI and Embedded Systems",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in E&TC or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-m.tech-7",
+      "courseName": "M.Tech",
+      "specialization": "Computer Network",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in Computer / IT or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-m.tech-8",
+      "courseName": "M.Tech",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in IT or Computer",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-m.tech-9",
+      "courseName": "M.Tech",
+      "specialization": "Mechatronics",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in Mech/Auto/Elec/E&TC or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-m.tech-10",
+      "courseName": "M.Tech",
+      "specialization": "Communication Network",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in E&TC or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-m.tech-11",
+      "courseName": "M.Tech",
+      "specialization": "Hydraulics",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in Civil / Mechanical or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-m.tech-12",
+      "courseName": "M.Tech",
+      "specialization": "Automotive Engineering",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in Mechanical / Automobile or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-m.tech-13",
+      "courseName": "M.Tech",
+      "specialization": "Environmental Engineering",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in Civil / Environmental or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-m.tech-14",
+      "courseName": "M.Tech",
+      "specialization": "Signal Processing",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in E&TC / Electrical or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-ph.d.-1",
+      "courseName": "Ph.D.",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "Master’s in relevant field + Entrance Exam (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-ph.d.-2",
+      "courseName": "Ph.D.",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "Master’s in relevant field + Entrance Exam (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-ph.d.-3",
+      "courseName": "Ph.D.",
+      "specialization": "Chemical Engineering",
+      "duration": "",
+      "eligibility": "Master’s in relevant field + Entrance Exam (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "sinhgad-college-of-engineering-ph.d.-4",
+      "courseName": "Ph.D.",
+      "specialization": "Electronics & Telecommunication",
+      "duration": "",
+      "eligibility": "Master’s in relevant field + Entrance Exam (as per norms)",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

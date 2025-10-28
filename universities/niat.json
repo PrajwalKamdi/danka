@@ -1,0 +1,45 @@
+{
+  "id": "8",
+  "slug": "niat",
+  "name": "NIAT",
+  "description": "NIAT offers undergraduate engineering programmes in Computer Science and related specialisations, with a focus on foundational CS skills, data science and AI/ML.",
+  "accreditation": [
+    "AICTE approval (as applicable)",
+    "Affiliated to state technical university (as applicable)"
+  ],
+  "awards": [
+    "Institute-level rankings/ratings recognitions (recent cycles)"
+  ],
+  "website": "",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "niat-b.tech-1",
+      "courseName": "B.Tech",
+      "specialization": "Computer Science and Engineering",
+      "duration": "",
+      "eligibility": "12th pass with PCM + Entrance Exam (as applicable)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "niat-b.tech-2",
+      "courseName": "B.Tech",
+      "specialization": "Computer Science and Engineering - Data Science",
+      "duration": "",
+      "eligibility": "12th pass with PCM + Entrance Exam (as applicable)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "niat-b.tech-3",
+      "courseName": "B.Tech",
+      "specialization": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+      "duration": "",
+      "eligibility": "12th pass with PCM + Entrance Exam (as applicable)",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

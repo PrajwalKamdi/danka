@@ -1,0 +1,90 @@
+{
+  "id": "33",
+  "slug": "nl-dalmia-institute-of-mngt",
+  "name": "N.L. Dalmia Institute of Mngt",
+  "description": "N. L. Dalmia Institute of Management Studies & Research (Mumbai) offers AICTE-approved PGDM programmes and doctoral studies with strong industry interface and Bloomberg/analytics labs.",
+  "accreditation": [
+    "AICTE approval (PGDM)",
+    "NBA/NAAC quality accreditations at institute/university level (as applicable)"
+  ],
+  "awards": [
+    "Recognised in national management institute rankings/ratings"
+  ],
+  "website": "https://www.nldalmia.in",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "nl-dalmia-institute-of-mngt-pgdm-1",
+      "courseName": "PGDM",
+      "specialization": "Financial Management",
+      "duration": "",
+      "eligibility": "Graduation + Entrance Exam (CAT/XAT/CMAT etc.)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "nl-dalmia-institute-of-mngt-pgdm-2",
+      "courseName": "PGDM",
+      "specialization": "Business Analytics",
+      "duration": "",
+      "eligibility": "Graduation + Entrance Exam",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "nl-dalmia-institute-of-mngt-pgdm-3",
+      "courseName": "PGDM",
+      "specialization": "General Management",
+      "duration": "",
+      "eligibility": "Graduation + Entrance Exam",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "nl-dalmia-institute-of-mngt-pgdm-4",
+      "courseName": "PGDM",
+      "specialization": "Human Resource Management",
+      "duration": "",
+      "eligibility": "Graduation + Entrance Exam",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "nl-dalmia-institute-of-mngt-pgdm-5",
+      "courseName": "PGDM",
+      "specialization": "Finance",
+      "duration": "",
+      "eligibility": "Graduation + Entrance Exam",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "nl-dalmia-institute-of-mngt-pgdm-6",
+      "courseName": "PGDM",
+      "specialization": "Marketing",
+      "duration": "",
+      "eligibility": "Graduation + Entrance Exam",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "nl-dalmia-institute-of-mngt-certificate-1",
+      "courseName": "Certificate",
+      "specialization": "Bloomberg Research Analyst",
+      "duration": "",
+      "eligibility": "Open to management students/professionals",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "nl-dalmia-institute-of-mngt-ph.d.-1",
+      "courseName": "Ph.D.",
+      "specialization": "Management Studies",
+      "duration": "",
+      "eligibility": "Master’s Degree + Entrance Test + Interview",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

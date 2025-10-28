@@ -1,0 +1,585 @@
+{
+  "id": "18",
+  "slug": "dr-apj-abdul-kalam-university",
+  "name": "Dr A.P.J Abdul Kalam University",
+  "description": "Dr. A.P.J. Abdul Kalam University (State Private University) offers UG/PG programmes across engineering, science, pharmacy, management, commerce, education and humanities with focus on employability and skills.",
+  "accreditation": [
+    "UGC recognition (State Private University)",
+    "AICTE/PCI/NCTE approvals for applicable programmes"
+  ],
+  "awards": [
+    "Participation/mentions in national rankings/ratings (recent cycles)"
+  ],
+  "website": "",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "dr-apj-abdul-kalam-university-ph.d.-1",
+      "courseName": "Ph.D.",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Post Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-m.tech-1",
+      "courseName": "M.Tech",
+      "specialization": "Computer Science & Engineering",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in relevant discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-m.tech-2",
+      "courseName": "M.Tech",
+      "specialization": "Computer Technology & Application",
+      "duration": "",
+      "eligibility": "B.E./B.Tech or MCA",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-m.tech-3",
+      "courseName": "M.Tech",
+      "specialization": "Cyber Security",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in CS/IT or MCA",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-m.tech-4",
+      "courseName": "M.Tech",
+      "specialization": "Digital Communication",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in Electronics/Communication",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-m.tech-5",
+      "courseName": "M.Tech",
+      "specialization": "Power System",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in Electrical Engineering",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-m.tech-6",
+      "courseName": "M.Tech",
+      "specialization": "Thermal Engineering",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in Mechanical Engineering",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-m.tech-7",
+      "courseName": "M.Tech",
+      "specialization": "Structural Engineering",
+      "duration": "",
+      "eligibility": "B.E./B.Tech in Civil Engineering",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-msc-1",
+      "courseName": "MSc",
+      "specialization": "Maths",
+      "duration": "",
+      "eligibility": "B.Sc. in relevant subject",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-msc-2",
+      "courseName": "MSc",
+      "specialization": "Chemistry",
+      "duration": "",
+      "eligibility": "B.Sc. in relevant subject",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-msc-3",
+      "courseName": "MSc",
+      "specialization": "Physics",
+      "duration": "",
+      "eligibility": "B.Sc. in relevant subject",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-msc-4",
+      "courseName": "MSc",
+      "specialization": "Botany",
+      "duration": "",
+      "eligibility": "B.Sc. in relevant subject",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-msc-5",
+      "courseName": "MSc",
+      "specialization": "Agriculture",
+      "duration": "",
+      "eligibility": "B.Sc. Agriculture",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-ma-1",
+      "courseName": "MA",
+      "specialization": "English",
+      "duration": "",
+      "eligibility": "Graduation in relevant subject",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-ma-2",
+      "courseName": "MA",
+      "specialization": "Geography",
+      "duration": "",
+      "eligibility": "Graduation in relevant subject",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-ma-3",
+      "courseName": "MA",
+      "specialization": "Psychology",
+      "duration": "",
+      "eligibility": "Graduation in relevant subject",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-ma-4",
+      "courseName": "MA",
+      "specialization": "Hindi",
+      "duration": "",
+      "eligibility": "Graduation in relevant subject",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-ma-5",
+      "courseName": "MA",
+      "specialization": "Political Science",
+      "duration": "",
+      "eligibility": "Graduation in relevant subject",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-ma-6",
+      "courseName": "MA",
+      "specialization": "Sociology",
+      "duration": "",
+      "eligibility": "Graduation in relevant subject",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-ma-7",
+      "courseName": "MA",
+      "specialization": "Education",
+      "duration": "",
+      "eligibility": "Graduation in Education/related stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-m.pharm-1",
+      "courseName": "M.Pharm",
+      "specialization": "Pharmaceutics",
+      "duration": "",
+      "eligibility": "B.Pharm",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-m.pharm-2",
+      "courseName": "M.Pharm",
+      "specialization": "Pharmacology",
+      "duration": "",
+      "eligibility": "B.Pharm",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-m.pharm-3",
+      "courseName": "M.Pharm",
+      "specialization": "Pharmaceutical Quality Assurance",
+      "duration": "",
+      "eligibility": "B.Pharm",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-m.com-1",
+      "courseName": "M.Com",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "B.Com",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-msw-1",
+      "courseName": "MSW",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Graduation in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-mba-1",
+      "courseName": "MBA",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Graduation in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-mca-1",
+      "courseName": "MCA",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Graduation with Math in 12th or UG",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-b.arch-1",
+      "courseName": "B.Arch",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 with Math + NATA",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-bhms-1",
+      "courseName": "BHMS",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-bams-1",
+      "courseName": "BAMS",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-b.e-1",
+      "courseName": "B.E",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-b.e-2",
+      "courseName": "B.E",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-b.e-3",
+      "courseName": "B.E",
+      "specialization": "Computer Science & Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-b.e-4",
+      "courseName": "B.E",
+      "specialization": "Information & Technology",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-b.e-5",
+      "courseName": "B.E",
+      "specialization": "Electronics & Communication",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-b.e-6",
+      "courseName": "B.E",
+      "specialization": "Electrical & Electronics",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-b.pharm-1",
+      "courseName": "B.Pharm",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 with PCB/PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-bca-1",
+      "courseName": "BCA",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-bba-1",
+      "courseName": "BBA",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-b.com-1",
+      "courseName": "B.Com",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-bsc-1",
+      "courseName": "BSc",
+      "specialization": "PCM",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-bsc-2",
+      "courseName": "BSc",
+      "specialization": "BIO",
+      "duration": "",
+      "eligibility": "10+2 with Biology",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-bsc-3",
+      "courseName": "BSc",
+      "specialization": "Pharmaceutical Chemistry",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-bsc-4",
+      "courseName": "BSc",
+      "specialization": "Computer Science",
+      "duration": "",
+      "eligibility": "10+2 with Math or Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-bsc-5",
+      "courseName": "BSc",
+      "specialization": "Fashion Design",
+      "duration": "",
+      "eligibility": "10+2 or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-b.sc-(agriculture)-1",
+      "courseName": "B.Sc (Agriculture)",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 with PCB/PCM or Agriculture",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-ba-1",
+      "courseName": "BA",
+      "specialization": "Plain",
+      "duration": "",
+      "eligibility": "10+2 or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-ba-2",
+      "courseName": "BA",
+      "specialization": "Computer",
+      "duration": "",
+      "eligibility": "10+2 or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-bsw-1",
+      "courseName": "BSW",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-llb-1",
+      "courseName": "LLB",
+      "specialization": "3 Year",
+      "duration": "",
+      "eligibility": "Graduation in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-ba-llb-1",
+      "courseName": "BA LLB",
+      "specialization": "5 Year",
+      "duration": "",
+      "eligibility": "10+2 or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-b.ed-1",
+      "courseName": "B.Ed",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Graduation with 50% (varies by category)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-diploma-(engineering)-1",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-diploma-(engineering)-2",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-diploma-(engineering)-3",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Computer Science & Engineering",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-diploma-1",
+      "courseName": "Diploma",
+      "specialization": "Electronics & Telecommunication",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-diploma-(engineering)-4",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Electrical Engineering",
+      "duration": "",
+      "eligibility": "10th Pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-diploma-(engineering)-5",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Automobile (Part time 4 year course)",
+      "duration": "",
+      "eligibility": "10th Pass + working experience",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-diploma-(engineering)-6",
+      "courseName": "Diploma (Engineering)",
+      "specialization": "Electrical (Part time 4 year course)",
+      "duration": "",
+      "eligibility": "10th Pass + working experience",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-d.pharm-1",
+      "courseName": "D.Pharm",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 with PCB/PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-diploma-2",
+      "courseName": "Diploma",
+      "specialization": "Fashion Design",
+      "duration": "",
+      "eligibility": "10th or 10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-pgdca-1",
+      "courseName": "PGDCA",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-apj-abdul-kalam-university-dca-1",
+      "courseName": "DCA",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

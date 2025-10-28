@@ -1,0 +1,325 @@
+{
+  "id": "7",
+  "slug": "s-vyasa-university",
+  "name": "S-VYASA University",
+  "description": "S-VYASA (Swami Vivekananda Yoga Anusandhana Samsthana), Bengaluru is a Deemed-to-be University known for Yoga and Naturopathy education and research, alongside programmes in allied health, computer science and management.",
+  "accreditation": [
+    "UGC (Deemed-to-be University)",
+    "NAAC Accreditation (Institutional)",
+    "AYUSH/State Council recognitions for applicable programmes (as applicable)"
+  ],
+  "awards": [
+    "Recognised for contributions to Yoga research and outreach"
+  ],
+  "website": "https://svyasa.edu.in",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "s-vyasa-university-bca-1",
+      "courseName": "BCA",
+      "specialization": "Computer Applications",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-bsc-1",
+      "courseName": "BSc",
+      "specialization": "Computer Science",
+      "duration": "",
+      "eligibility": "12th pass (Science preferred)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-btech-1",
+      "courseName": "BTech",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th pass with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-bcom-1",
+      "courseName": "BCom",
+      "specialization": "Commerce",
+      "duration": "",
+      "eligibility": "12th pass (Commerce preferred)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-bba-1",
+      "courseName": "BBA",
+      "specialization": "Business Administration",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-bsc-2",
+      "courseName": "BSc",
+      "specialization": "Yoga Therapy",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-bsc-3",
+      "courseName": "BSc",
+      "specialization": "Yoga & Vedic Wellness",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-bsc-4",
+      "courseName": "BSc",
+      "specialization": "Clinical Psychology",
+      "duration": "",
+      "eligibility": "12th pass (Science preferred)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-bot-1",
+      "courseName": "BOT",
+      "specialization": "Occupational Therapy",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-bsc-1",
+      "courseName": "BSc",
+      "specialization": "Yoga (Distance Mode)",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Distance",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-yic-(distance-mode)-1",
+      "courseName": "YIC (Distance Mode)",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10th/12th pass",
+      "mode": "Distance",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-dyt-(distance-mode)-1",
+      "courseName": "DYT (Distance Mode)",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "YIC certificate",
+      "mode": "Distance",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-bpt-1",
+      "courseName": "BPT",
+      "specialization": "Physiotherapy",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-bnys-1",
+      "courseName": "BNYS",
+      "specialization": "Naturopathy and Yogic Sciences",
+      "duration": "",
+      "eligibility": "12th pass with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-mca-1",
+      "courseName": "MCA",
+      "specialization": "Computer Applications",
+      "duration": "",
+      "eligibility": "BCA or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-msc-1",
+      "courseName": "MSc",
+      "specialization": "Computer Science",
+      "duration": "",
+      "eligibility": "B.Sc CS or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-mba-1",
+      "courseName": "MBA",
+      "specialization": "Business Administration",
+      "duration": "",
+      "eligibility": "Bachelor's degree",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-msc-2",
+      "courseName": "MSc",
+      "specialization": "Yoga Therapy",
+      "duration": "",
+      "eligibility": "B.Sc in Yoga or related",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-msc-3",
+      "courseName": "MSc",
+      "specialization": "Yoga & Vedic Wellness",
+      "duration": "",
+      "eligibility": "Bachelor’s in Yoga or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-md-1",
+      "courseName": "MD",
+      "specialization": "Yoga",
+      "duration": "",
+      "eligibility": "BNYS or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-msc-4",
+      "courseName": "MSc",
+      "specialization": "Clinical Psychology",
+      "duration": "",
+      "eligibility": "B.Sc Psychology or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-ma-1",
+      "courseName": "MA",
+      "specialization": "Yoga Darshanam",
+      "duration": "",
+      "eligibility": "Graduation with Sanskrit or Yoga background",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-msc-1",
+      "courseName": "MSc",
+      "specialization": "Yoga (Distance Mode)",
+      "duration": "",
+      "eligibility": "BSc Yoga or equivalent",
+      "mode": "Distance",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-phd-1",
+      "courseName": "PhD",
+      "specialization": "Computer Science and Applications",
+      "duration": "",
+      "eligibility": "M.Sc/MCA/M.Tech in CS",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-phd-2",
+      "courseName": "PhD",
+      "specialization": "Computer Science and Engineering",
+      "duration": "",
+      "eligibility": "M.Tech in CS/IT",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-phd-3",
+      "courseName": "PhD",
+      "specialization": "Commerce and Management",
+      "duration": "",
+      "eligibility": "M.Com/MBA",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-phd-4",
+      "courseName": "PhD",
+      "specialization": "Applied Sciences",
+      "duration": "",
+      "eligibility": "Master’s in relevant science field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-phd-5",
+      "courseName": "PhD",
+      "specialization": "Allied and Healthcare Professions",
+      "duration": "",
+      "eligibility": "MPT/MOT/Clinical degrees",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-phd-6",
+      "courseName": "PhD",
+      "specialization": "Yoga",
+      "duration": "",
+      "eligibility": "M.Sc/M.A in Yoga or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-spec-1",
+      "courseName": "SPEC",
+      "specialization": "Special Examinations for Certification Program",
+      "duration": "",
+      "eligibility": "As per course",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-certificate-1",
+      "courseName": "Certificate",
+      "specialization": "Yoga Instructor Course",
+      "duration": "",
+      "eligibility": "Basic yoga knowledge",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-certificate-2",
+      "courseName": "Certificate",
+      "specialization": "Aerial Yoga Teacher Training Course",
+      "duration": "",
+      "eligibility": "Yoga certification preferred",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-certificate-3",
+      "courseName": "Certificate",
+      "specialization": "Ayurveda Lifestyle Management Course",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "s-vyasa-university-certificate-4",
+      "courseName": "Certificate",
+      "specialization": "Self Management of Excessive Tension",
+      "duration": "",
+      "eligibility": "Open to all",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

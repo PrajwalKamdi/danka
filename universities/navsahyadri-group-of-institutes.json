@@ -1,0 +1,226 @@
+{
+  "id": "21",
+  "slug": "navsahyadri-group-of-institutes",
+  "name": "Navsahyadri Group of Institutes",
+  "description": "Navsahyadri Group of Institutes (Pune region) comprises engineering, management and diploma colleges with industry-linked curricula and applied learning.",
+  "accreditation": [
+    "AICTE approval for applicable programmes",
+    "Affiliation to state public university/technical university (as applicable)",
+    "NAAC/NBA accreditations for select programmes (as applicable)"
+  ],
+  "awards": [
+    "Institutional/department-level recognitions (recent cycles)"
+  ],
+  "website": "",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "navsahyadri-group-of-institutes-b.tech-1",
+      "courseName": "B.Tech",
+      "specialization": "Computer Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-b.tech-2",
+      "courseName": "B.Tech",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-b.tech-3",
+      "courseName": "B.Tech",
+      "specialization": "Electronics & Telecommunication",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-b.tech-4",
+      "courseName": "B.Tech",
+      "specialization": "Electrical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-b.tech-5",
+      "courseName": "B.Tech",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-b.tech-6",
+      "courseName": "B.Tech",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-diploma-1",
+      "courseName": "Diploma",
+      "specialization": "Civil Engineering",
+      "duration": "",
+      "eligibility": "10th",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-diploma-2",
+      "courseName": "Diploma",
+      "specialization": "Mechanical Engineering",
+      "duration": "",
+      "eligibility": "10th",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-diploma-3",
+      "courseName": "Diploma",
+      "specialization": "Computer Engineering",
+      "duration": "",
+      "eligibility": "10th",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-diploma-4",
+      "courseName": "Diploma",
+      "specialization": "Electrical Engineering",
+      "duration": "",
+      "eligibility": "10th",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-diploma-5",
+      "courseName": "Diploma",
+      "specialization": "Information Technology",
+      "duration": "",
+      "eligibility": "10th",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-mba-1",
+      "courseName": "MBA",
+      "specialization": "Marketing Management",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-mba-2",
+      "courseName": "MBA",
+      "specialization": "Financial Management",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-mba-3",
+      "courseName": "MBA",
+      "specialization": "Human Resource Management",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-mba-4",
+      "courseName": "MBA",
+      "specialization": "Operation & Supply Chain Management",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-mba-5",
+      "courseName": "MBA",
+      "specialization": "Business Analytics",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-mba-6",
+      "courseName": "MBA",
+      "specialization": "Rural and Agri Business Management",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-mba-7",
+      "courseName": "MBA",
+      "specialization": "Pharma & Health Care Management",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-mba-8",
+      "courseName": "MBA",
+      "specialization": "Tourism & Hospitality Management",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-mba-9",
+      "courseName": "MBA",
+      "specialization": "International Business Management",
+      "duration": "",
+      "eligibility": "Graduation in any discipline",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-mca-1",
+      "courseName": "MCA",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "BCA or Graduation with Maths",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-bba-1",
+      "courseName": "BBA",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 in any stream",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "navsahyadri-group-of-institutes-bca-1",
+      "courseName": "BCA",
+      "specialization": "General",
+      "duration": "",
+      "eligibility": "10+2 with Maths/CS",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

@@ -1,0 +1,531 @@
+{
+  "id": "1",
+  "slug": "om-sterling-global-university",
+  "name": "OM Sterling Global University",
+  "description": "OM Sterling Global University (Hisar, Haryana) is a state private university with programmes across engineering & technology, management, commerce, humanities, fine arts and planning.",
+  "accreditation": [
+    "UGC recognition (State Private University)",
+    "AICTE/COA/PCI/BCI/NCTE approvals for applicable programmes"
+  ],
+  "awards": [
+    "Featured in national rankings/ratings (recent cycles)"
+  ],
+  "website": "https://www.osgu.ac.in",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "om-sterling-global-university-bba-1",
+      "courseName": "BBA",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-b.com-1",
+      "courseName": "B.Com",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-bba-2",
+      "courseName": "BBA",
+      "specialization": "Finance",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-mba-1",
+      "courseName": "MBA",
+      "specialization": "Marketing, Finance, HR, IB, Insurance",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-mba-executive-1",
+      "courseName": "MBA Executive",
+      "specialization": "Supply Chain, Hospital Admin, Digital Marketing, Agri Business",
+      "duration": "",
+      "eligibility": "Graduation + Work Experience (preferred)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-m.com-1",
+      "courseName": "M.Com",
+      "specialization": "Marketing, Finance, HR",
+      "duration": "",
+      "eligibility": "B.Com / BBA or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-bfa-1",
+      "courseName": "BFA",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-mfa-1",
+      "courseName": "MFA",
+      "specialization": "Painting, Sculpture, Graphics & Applied",
+      "duration": "",
+      "eligibility": "BFA",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-ma-fine-arts-1",
+      "courseName": "MA Fine Arts",
+      "specialization": "Painting, Sculpture, Graphics & Applied",
+      "duration": "",
+      "eligibility": "Graduation in Fine Arts",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-b.lib.-and-info.-science-1",
+      "courseName": "B.Lib. & Info. Science",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-b.a.-1",
+      "courseName": "B.A.",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-m.lib.-and-info.-science-1",
+      "courseName": "M.Lib. & Info. Science",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "B.Lib. & Info. Science",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-ma-1",
+      "courseName": "MA",
+      "specialization": "English, Hindi, Sociology, Pol. Sci., History, Education, Economics, Psychology, Geo",
+      "duration": "",
+      "eligibility": "Graduation in relevant subject",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-ba-1",
+      "courseName": "BA",
+      "specialization": "Journalism & Mass Communication",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-pg-diploma-1",
+      "courseName": "PG Diploma",
+      "specialization": "Journalism & Mass Communication",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-ma-2",
+      "courseName": "MA",
+      "specialization": "Journalism & Mass Communication",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-b.-planning-1",
+      "courseName": "B. Planning",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 with PCM",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-m.-planning-1",
+      "courseName": "M. Planning",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "B.Planning / B.Arch / Civil Engg.",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-diploma-1",
+      "courseName": "Diploma",
+      "specialization": "Agriculture",
+      "duration": "",
+      "eligibility": "10th",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-b.sc.-(hons.)-1",
+      "courseName": "B.Sc. (Hons.)",
+      "specialization": "Agriculture",
+      "duration": "",
+      "eligibility": "10+2 with PCB/PCM/Agriculture",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-m.sc.-agriculture-1",
+      "courseName": "M.Sc. Agriculture",
+      "specialization": "Agronomy, Horticulture, Agri Economics, Plant Pathology",
+      "duration": "",
+      "eligibility": "B.Sc. Agriculture",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-diploma-2",
+      "courseName": "Diploma",
+      "specialization": "Health Assistants",
+      "duration": "",
+      "eligibility": "10+2 (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-diploma-3",
+      "courseName": "Diploma",
+      "specialization": "Radiology, OT & Anesthesia, Optometry, MLT, Physician Assistant",
+      "duration": "",
+      "eligibility": "10+2 (Science) / Diploma",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-leet-1",
+      "courseName": "LEET",
+      "specialization": "Radiology, OT & Anesthesia, Optometry, MLT, Physician Assistant",
+      "duration": "",
+      "eligibility": "10+2 (Science) / Diploma",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-b.sc.-1",
+      "courseName": "B.Sc.",
+      "specialization": "Radiology, OT & Anesthesia, Optometry, MLT, Physician Assistant, CVT",
+      "duration": "",
+      "eligibility": "10+2 (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-b.sc.-(hons.)-2",
+      "courseName": "B.Sc. (Hons.)",
+      "specialization": "Radiology, OT & Anesthesia, Optometry, MLT, Physician Assistant, CVT",
+      "duration": "",
+      "eligibility": "10+2 (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-b.sc.-(leet)-1",
+      "courseName": "B.Sc. (LEET)",
+      "specialization": "Radiology, OT & Anesthesia, Optometry, MLT, Physician Assistant, CVT",
+      "duration": "",
+      "eligibility": "Diploma in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-bpt-1",
+      "courseName": "BPT",
+      "specialization": "Physiotherapy",
+      "duration": "",
+      "eligibility": "10+2 with PCB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-bph-1",
+      "courseName": "BPH",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-bph-(hons.)-1",
+      "courseName": "BPH (Hons.)",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2 (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-b.sc.-2",
+      "courseName": "B.Sc.",
+      "specialization": "Nutrition & Dietetics",
+      "duration": "",
+      "eligibility": "10+2 (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-mpt-1",
+      "courseName": "MPT",
+      "specialization": "Orthopedics, Sports Science, Neuroscience",
+      "duration": "",
+      "eligibility": "BPT",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-mha-1",
+      "courseName": "MHA",
+      "specialization": "Hospital Administration",
+      "duration": "",
+      "eligibility": "Graduation (Health/Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-mph-1",
+      "courseName": "MPH",
+      "specialization": "Public Health",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-m.sc.-1",
+      "courseName": "M.Sc.",
+      "specialization": "Radiology, OT & Anesthesia, Optometry, MLT, Physician Assistant, CVT",
+      "duration": "",
+      "eligibility": "B.Sc. in relevant field",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-b.sc.-3",
+      "courseName": "B.Sc.",
+      "specialization": "Medical / Non-Medical",
+      "duration": "",
+      "eligibility": "10+2 (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-b.sc.-4",
+      "courseName": "B.Sc.",
+      "specialization": "Microbiology, Food Tech, Forensic Science",
+      "duration": "",
+      "eligibility": "10+2 (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-m.sc.-2",
+      "courseName": "M.Sc.",
+      "specialization": "Physics, Chemistry, Math, Botany, Zoology, Microbiology, Forensic Sci., Env. Sci., Food Tech",
+      "duration": "",
+      "eligibility": "B.Sc. in relevant subject",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-diploma-4",
+      "courseName": "Diploma",
+      "specialization": "Yoga & Naturopathy",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-b.sc.-5",
+      "courseName": "B.Sc.",
+      "specialization": "Yoga & Naturopathy",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-pg-diploma-2",
+      "courseName": "PG Diploma",
+      "specialization": "Yoga Science & Therapy",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-ma-3",
+      "courseName": "MA",
+      "specialization": "Yoga",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-m.sc.-3",
+      "courseName": "M.Sc.",
+      "specialization": "Yoga Science & Therapy",
+      "duration": "",
+      "eligibility": "B.Sc./B.A. in Yoga or equivalent",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-ll.b-1",
+      "courseName": "LL.B",
+      "specialization": "Professional",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-b.a.-ll.b-1",
+      "courseName": "B.A. LL.B",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-ll.m-1",
+      "courseName": "LL.M",
+      "specialization": "Criminal Law, Human Rights, IPR, Const. Law, Corporate Law, Labour Law",
+      "duration": "",
+      "eligibility": "LL.B",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-bhm-1",
+      "courseName": "BHM",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-diploma-5",
+      "courseName": "Diploma",
+      "specialization": "Hotel Management",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-b.sc.-6",
+      "courseName": "B.Sc.",
+      "specialization": "Hotel Management",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-m.sc.-4",
+      "courseName": "M.Sc.",
+      "specialization": "Hotel Management / Tourism & Travel Management",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-mttm-1",
+      "courseName": "MTTM",
+      "specialization": "Hotel Management / Tourism & Travel Management",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-d.ed.-1",
+      "courseName": "D.Ed.",
+      "specialization": "Special Education (HI, VI)",
+      "duration": "",
+      "eligibility": "10+2",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-b.ed.-1",
+      "courseName": "B.Ed.",
+      "specialization": "Special Education (LD, MD, VI, HI, ID)",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-pgdrp-1",
+      "courseName": "PGDRP",
+      "specialization": "Rehabilitation Psychology",
+      "duration": "",
+      "eligibility": "M.A. / M.Sc. in Psychology",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-m.-psy-1",
+      "courseName": "M. Psy",
+      "specialization": "Rehabilitation Psychology",
+      "duration": "",
+      "eligibility": "PG in Psychology",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-m.-psy-2",
+      "courseName": "M. Psy",
+      "specialization": "Clinical Psychology",
+      "duration": "",
+      "eligibility": "PG in Psychology",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "om-sterling-global-university-ph.d.-1",
+      "courseName": "Ph.D.",
+      "specialization": "Various Disciplines",
+      "duration": "",
+      "eligibility": "Postgraduation + Entrance/Interview",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}

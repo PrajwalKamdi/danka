@@ -1,0 +1,676 @@
+{
+  "id": "4",
+  "slug": "dr-preeti-global-university",
+  "name": "Dr. Preeti Global University",
+  "description": "Dr. Preeti Global University offers UG/PG programmes across engineering & technology, management, pharmacy, hospitality, commerce and allied health with emphasis on regional access and industry skills.",
+  "accreditation": [
+    "UGC recognition (State Private University)",
+    "AICTE/PCI approvals for applicable programmes",
+    "NCTE recognition for Teacher Education (as applicable)"
+  ],
+  "awards": [
+    "Recognised in regional/national rankings/ratings"
+  ],
+  "website": "",
+  "brochureUrl": null,
+  "courses": [
+    {
+      "id": "dr-preeti-global-university-polytechnic-diploma-1",
+      "courseName": "Polytechnic Diploma",
+      "specialization": "Civil",
+      "duration": "",
+      "eligibility": "10th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-polytechnic-diploma-2",
+      "courseName": "Polytechnic Diploma",
+      "specialization": "ME",
+      "duration": "",
+      "eligibility": "10th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-polytechnic-diploma-3",
+      "courseName": "Polytechnic Diploma",
+      "specialization": "CS",
+      "duration": "",
+      "eligibility": "10th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-polytechnic-diploma-4",
+      "courseName": "Polytechnic Diploma",
+      "specialization": "EE",
+      "duration": "",
+      "eligibility": "10th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.tech-1",
+      "courseName": "B.Tech",
+      "specialization": "Civil",
+      "duration": "",
+      "eligibility": "12th (PCM)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.tech-2",
+      "courseName": "B.Tech",
+      "specialization": "CS",
+      "duration": "",
+      "eligibility": "12th (PCM)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.tech-3",
+      "courseName": "B.Tech",
+      "specialization": "ME",
+      "duration": "",
+      "eligibility": "12th (PCM)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.tech-4",
+      "courseName": "B.Tech",
+      "specialization": "EC",
+      "duration": "",
+      "eligibility": "12th (PCM)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.tech-5",
+      "courseName": "B.Tech",
+      "specialization": "EE",
+      "duration": "",
+      "eligibility": "12th (PCM)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.tech-6",
+      "courseName": "B.Tech",
+      "specialization": "IT",
+      "duration": "",
+      "eligibility": "12th (PCM)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.pharma-1",
+      "courseName": "B.Pharma",
+      "specialization": "Pharmacy",
+      "duration": "",
+      "eligibility": "12th (PCB/PCM)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-d.pharma-1",
+      "courseName": "D.Pharma",
+      "specialization": "Pharmacy",
+      "duration": "",
+      "eligibility": "12th (PCB/PCM)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-bba-1",
+      "courseName": "BBA",
+      "specialization": "BBA",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-mba-1",
+      "courseName": "MBA",
+      "specialization": "Marketing",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-mba-2",
+      "courseName": "MBA",
+      "specialization": "HR",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-mba-3",
+      "courseName": "MBA",
+      "specialization": "Finance",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-mba-4",
+      "courseName": "MBA",
+      "specialization": "Hospital Management",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-mba-5",
+      "courseName": "MBA",
+      "specialization": "Hotel Management",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-bhmct-1",
+      "courseName": "BHMCT",
+      "specialization": "Hotel Management",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-dhmct-1",
+      "courseName": "DHMCT",
+      "specialization": "Hotel Management",
+      "duration": "",
+      "eligibility": "10th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.com-1",
+      "courseName": "B.Com",
+      "specialization": "Honours",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.com-2",
+      "courseName": "B.Com",
+      "specialization": "Computer Application",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-m.com-1",
+      "courseName": "M.Com",
+      "specialization": "Commerce",
+      "duration": "",
+      "eligibility": "B.Com",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-gnm-1",
+      "courseName": "GNM",
+      "specialization": "GNM",
+      "duration": "",
+      "eligibility": "12th (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-certificate-1",
+      "courseName": "Certificate",
+      "specialization": "Health Inspector",
+      "duration": "",
+      "eligibility": "10th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-certificate-2",
+      "courseName": "Certificate",
+      "specialization": "OT",
+      "duration": "",
+      "eligibility": "10th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-certificate-3",
+      "courseName": "Certificate",
+      "specialization": "X-Ray",
+      "duration": "",
+      "eligibility": "10th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-dmlt-1",
+      "courseName": "DMLT",
+      "specialization": "DMLT",
+      "duration": "",
+      "eligibility": "12th (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-bmlt-1",
+      "courseName": "BMLT",
+      "specialization": "BMLT",
+      "duration": "",
+      "eligibility": "12th (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-bpt-1",
+      "courseName": "BPT",
+      "specialization": "BPT",
+      "duration": "",
+      "eligibility": "12th (PCB)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.sc-1",
+      "courseName": "B.Sc",
+      "specialization": "PCM",
+      "duration": "",
+      "eligibility": "12th (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.sc-2",
+      "courseName": "B.Sc",
+      "specialization": "CBZ",
+      "duration": "",
+      "eligibility": "12th (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.sc-3",
+      "courseName": "B.Sc",
+      "specialization": "Computer",
+      "duration": "",
+      "eligibility": "12th (Science/Maths)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.sc-4",
+      "courseName": "B.Sc",
+      "specialization": "Biotech",
+      "duration": "",
+      "eligibility": "12th (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.sc-5",
+      "courseName": "B.Sc",
+      "specialization": "Microbiology",
+      "duration": "",
+      "eligibility": "12th (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.sc-6",
+      "courseName": "B.Sc",
+      "specialization": "Forensic Science",
+      "duration": "",
+      "eligibility": "12th (Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.sc-7",
+      "courseName": "B.Sc",
+      "specialization": "Home Science",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-m.sc-1",
+      "courseName": "M.Sc",
+      "specialization": "Math",
+      "duration": "",
+      "eligibility": "B.Sc",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-m.sc-2",
+      "courseName": "M.Sc",
+      "specialization": "Physics",
+      "duration": "",
+      "eligibility": "B.Sc",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-m.sc-3",
+      "courseName": "M.Sc",
+      "specialization": "Chemistry",
+      "duration": "",
+      "eligibility": "B.Sc",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-m.sc-4",
+      "courseName": "M.Sc",
+      "specialization": "Zoology",
+      "duration": "",
+      "eligibility": "B.Sc",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-m.sc-5",
+      "courseName": "M.Sc",
+      "specialization": "Botany",
+      "duration": "",
+      "eligibility": "B.Sc",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-m.sc-6",
+      "courseName": "M.Sc",
+      "specialization": "CS",
+      "duration": "",
+      "eligibility": "B.Sc (CS/IT)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-m.sc-7",
+      "courseName": "M.Sc",
+      "specialization": "Biotech",
+      "duration": "",
+      "eligibility": "B.Sc",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-m.sc-8",
+      "courseName": "M.Sc",
+      "specialization": "Microbiology",
+      "duration": "",
+      "eligibility": "B.Sc",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-m.sc-9",
+      "courseName": "M.Sc",
+      "specialization": "Forensic Science",
+      "duration": "",
+      "eligibility": "B.Sc",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-m.sc-10",
+      "courseName": "M.Sc",
+      "specialization": "Home Science",
+      "duration": "",
+      "eligibility": "B.Sc",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-dca-1",
+      "courseName": "DCA",
+      "specialization": "DCA",
+      "duration": "",
+      "eligibility": "10th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-pgdca-1",
+      "courseName": "PGDCA",
+      "specialization": "PGDCA",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-bca-1",
+      "courseName": "BCA",
+      "specialization": "BCA",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-mca-1",
+      "courseName": "MCA",
+      "specialization": "MCA",
+      "duration": "",
+      "eligibility": "BCA or Graduation with Math",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.a.-1",
+      "courseName": "B.A.",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-m.a.-1",
+      "courseName": "M.A.",
+      "specialization": "History",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-m.a.-2",
+      "courseName": "M.A.",
+      "specialization": "Geography",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-m.a.-3",
+      "courseName": "M.A.",
+      "specialization": "Economics",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-bsw-1",
+      "courseName": "BSW",
+      "specialization": "BSW",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-msw-1",
+      "courseName": "MSW",
+      "specialization": "MSW",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.ed.-1",
+      "courseName": "B.Ed.",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-m.a.-4",
+      "courseName": "M.A.",
+      "specialization": "Education",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.ped.-1",
+      "courseName": "B.PEd.",
+      "specialization": "Physical Education",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.lib.-and-i.sc.-1",
+      "courseName": "B.Lib. & I.Sc.",
+      "specialization": "Library Science",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-m.lib.-and-i.sc.-1",
+      "courseName": "M.Lib. & I.Sc.",
+      "specialization": "Library Science",
+      "duration": "",
+      "eligibility": "B.Lib",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.sc.-1",
+      "courseName": "B.Sc.",
+      "specialization": "Agriculture",
+      "duration": "",
+      "eligibility": "12th (Agriculture/Science)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-m.sc.-1",
+      "courseName": "M.Sc.",
+      "specialization": "Agriculture",
+      "duration": "",
+      "eligibility": "B.Sc (Agri)",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-b.sc.-2",
+      "courseName": "B.Sc.",
+      "specialization": "Home Science",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-m.sc.-2",
+      "courseName": "M.Sc.",
+      "specialization": "Home Science",
+      "duration": "",
+      "eligibility": "B.Sc",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-bjmc-1",
+      "courseName": "BJMC",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-mjmc-1",
+      "courseName": "MJMC",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "BJMC/Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-llb-1",
+      "courseName": "LLB",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-ba-llb-1",
+      "courseName": "BA-LLB",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "12th pass",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-llm-1",
+      "courseName": "LLM",
+      "specialization": "",
+      "duration": "",
+      "eligibility": "LLB",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-phd-(technical)-1",
+      "courseName": "PhD (Technical)",
+      "specialization": "Engineering/Pharma/Education/LAW/Management",
+      "duration": "",
+      "eligibility": "Post-Graduation",
+      "mode": "Regular",
+      "fees": 0
+    },
+    {
+      "id": "dr-preeti-global-university-phd-(non-technical)-1",
+      "courseName": "PhD (Non-Technical)",
+      "specialization": "Art/Science/Others",
+      "duration": "",
+      "eligibility": "Post-Graduation",
+      "mode": "Regular",
+      "fees": 0
+    }
+  ],
+  "last_verified": "2025-09-01"
+}
