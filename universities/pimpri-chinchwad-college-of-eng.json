@@ -2,13 +2,16 @@
   "id": "26",
   "slug": "pimpri-chinchwad-college-of-eng",
   "name": "Pimpri Chinchwad College of Engineering",
+  "location": "Nigdi, Pimpri-Chinchwad, Pune.",
+  "established": "1999",
+  "primary_focus": "Providing quality technical education that integrates academic excellence, research, innovation, professional competence, and social commitment.",
   "description": "Pimpri Chinchwad College of Engineering (PCCOE), Pune is an autonomous institute offering UG/PG programmes in engineering with strong industry interface, research focus and placements.",
   "accreditation": [
     "AICTE approval",
     "Autonomous status (as applicable)",
     "Affiliated to Savitribai Phule Pune University (as applicable)",
     "NBA accreditation for select programmes",
-    "NAAC accreditation (institutional)"
+    "Accredited by NAAC with 'A' Grade"
   ],
   "awards": [
     "Consistent performance in national institute rankings/ratings"

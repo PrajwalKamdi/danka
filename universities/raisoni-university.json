@@ -2,6 +2,9 @@
   "id": "15",
   "slug": "raisoni-university",
   "name": "Raisoni University",
+  "location": "Pune, Maharashtra",
+  "established": "2024",
+  "primary_focus": "Focus on practical learning, industry immersion, and fostering a supportive environment for student growth.",
   "description": "Raisoni University offers multi‑disciplinary programmes across engineering, management, pharmacy, agriculture and allied health sciences with a focus on applied learning and industry partnerships.",
   "accreditation": [
     "UGC recognition (State Private University)",

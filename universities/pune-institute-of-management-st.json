@@ -2,10 +2,15 @@
   "id": "22",
   "slug": "pune-institute-of-management",
   "name": "Pune Institute of Management",
+  "location": "Pune, Maharashtra",
+  "established": "2007",
+  "primary_focus": "Providing industry-aligned, competency-based management education to produce job-ready professionals and future business leaders.",
   "description": "Pune Institute of Management offers PGDM and MBA programmes with specialisations in Marketing, Finance, HR, Operations and Business Analytics, focusing on industry-aligned curricula, live projects and placement support.",
   "accreditation": [
+    "Recognized by the UGC.",
     "AICTE approval for PGDM (as applicable)",
-    "Affiliated/Autonomous status as per university norms (as applicable)"
+    "Affiliated/Autonomous status as per university norms (as applicable)",
+    "Member of the Association of Indian Universities (AIU)."
   ],
   "awards": [
     "Recognitions in regional/national B-school listings (recent cycles)"

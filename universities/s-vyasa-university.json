@@ -2,11 +2,16 @@
   "id": "7",
   "slug": "s-vyasa-university",
   "name": "S-VYASA University",
+  "location": "Bengaluru, Karnataka",
+  "established": "2002",
+  "primary_focus": "Primary focus is on integrating traditional Indian knowledge of yoga and spirituality with modern scientific research, offering a holistic approach to education in wellness and health sciences.",
   "description": "S-VYASA (Swami Vivekananda Yoga Anusandhana Samsthana), Bengaluru is a Deemed-to-be University known for Yoga and Naturopathy education and research, alongside programmes in allied health, computer science and management.",
   "accreditation": [
     "UGC (Deemed-to-be University)",
     "NAAC Accreditation (Institutional)",
-    "AYUSH/State Council recognitions for applicable programmes (as applicable)"
+    "AYUSH/State Council recognitions for applicable programmes (as applicable)",
+    "Deemed-to-be-University (Declared under Section 3 of the UGC Act, 1956).",
+    "Approved by UGC."
   ],
   "awards": [
     "Recognised for contributions to Yoga research and outreach"

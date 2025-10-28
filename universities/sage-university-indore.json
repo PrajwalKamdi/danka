@@ -2,6 +2,9 @@
   "id": "20",
   "slug": "sage-university-indore",
   "name": "SAGE University Indore",
+  "location": "Indore, Madhya Pradesh",
+  "established": "2017",
+  "primary_focus": "SAGE University's primary focus is providing industry-aligned, experiential, and skill-based learning across a wide range of academic disciplines.",
   "description": "SAGE University, Indore is a state private university with programmes spanning engineering, computing, sciences, management, commerce, design and humanities, emphasising practical learning and industry collaboration.",
   "accreditation": [
     "UGC recognition (State Private University)",
