@@ -2,12 +2,17 @@
   "id": "32",
   "slug": "pillai-college-of-engineering",
   "name": "PILLAI college of engineering",
+  "location": "Navi Mumbai, Maharashtra",
+  "established": "1999",
+  "primary_focus": "focuses on developing a strong technical foundation in its students through a blend of theory and practical approaches, including project-based learning and industry-relevant skill training",
   "description": "Pillai College of Engineering (PCE), Navi Mumbai offers UG, PG and PhD programmes in engineering with modern labs, industry projects and research initiatives.",
   "accreditation": [
     "AICTE approval",
     "Affiliated to the state technical university (as applicable)",
     "NBA accreditation for select programmes (as applicable)",
-    "NAAC accreditation (institutional)"
+    "NAAC accreditation (institutional)",
+    ": Approved by AICTE, Recognized by UGC, and Accredited by NAAC with 'A+' Grade.",
+    "The B.Tech programs in Computer Engineering, IT, EXTC, Mechanical, and Automobile Engineering are NBA accredited."
   ],
   "awards": [
     "Recognised in engineering institute rankings/ratings (recent cycles)"

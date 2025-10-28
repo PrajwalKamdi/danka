@@ -2,10 +2,14 @@
   "id": "33",
   "slug": "nl-dalmia-institute-of-mngt",
   "name": "N.L. Dalmia Institute of Mngt",
+  "location": "Mira Road (East), Mumbai Metropolitan Region.",
+  "established": "1995",
+  "primary_focus": "Private Business School offering Management Studies and Research.",  
   "description": "N. L. Dalmia Institute of Management Studies & Research (Mumbai) offers AICTE-approved PGDM programmes and doctoral studies with strong industry interface and Bloomberg/analytics labs.",
   "accreditation": [
     "AICTE approval (PGDM)",
-    "NBA/NAAC quality accreditations at institute/university level (as applicable)"
+    "NBA/NAAC quality accreditations at institute/university level (as applicable)",
+    "Accredited by NAAC with 'A+' Grade, and its PGDM program is accredited by the NBA and SAQS."
   ],
   "awards": [
     "Recognised in national management institute rankings/ratings"

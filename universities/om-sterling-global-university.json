@@ -2,10 +2,16 @@
   "id": "1",
   "slug": "om-sterling-global-university",
   "name": "OM Sterling Global University",
+  "location": "Hisar, Haryana",
+  "established": "2019",
+  "primary_focus": "A multi-disciplinary university offering UG, PG, Diploma, and Doctoral programs across various schools.",
   "description": "OM Sterling Global University (Hisar, Haryana) is a state private university with programmes across engineering & technology, management, commerce, humanities, fine arts and planning.",
   "accreditation": [
     "UGC recognition (State Private University)",
-    "AICTE/COA/PCI/BCI/NCTE approvals for applicable programmes"
+    "AICTE/COA/PCI/BCI/NCTE approvals for applicable programmes",
+    "NAAC accreditation (as applicable)",
+    "A private university recognized by the UGC (University Grants Commission) and approved by AICTE. ",
+    "approved by relevant councils for professional courses (e.g., PCI for Pharmacy)."
   ],
   "awards": [
     "Featured in national rankings/ratings (recent cycles)"
