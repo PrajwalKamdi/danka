@@ -2,9 +2,13 @@
   "id": "24",
   "slug": "dr-d-y-patil-institute-of-engg",
   "name": "Dr.D.Y.Patil Institute of Engineering",
+  "location": "Akurdi, Pune. Maharashtra",
+  "established": "1984",
+  "primary_focus": "Offers undergraduate (B.E.) programs in various Engineering disciplines and Management.",
   "description": "Dr. D. Y. Patil Institute of Engineering offers undergraduate and postgraduate programmes in core and emerging engineering disciplines with focus on projects, research exposure and career readiness.",
   "accreditation": [
     "AICTE approval",
+    "Accredited by NAAC with a 'B++' Grade.",
     "Affiliated to state technical university (as applicable)",
     "NBA accreditation for select programmes (as applicable)"
   ],
