@@ -2,10 +2,14 @@
   "id": "25",
   "slug": "balaji-institute-of-modern-management",
   "name": "Balaji Institute of Modern Management",
+  "location": "Tathawade, Pune, Maharashtra",
+  "established": "1999",
+  "primary_focus": "Primarily offers MBA programs with various specializations.",
   "description": "Balaji Institute of Modern Management (BIMM) under Sri Balaji University Pune (SBUP) offers industry‑driven MBA programmes in domains like Finance, Operations, Technology, Data Science, Marketing and HR.",
   "accreditation": [
     "AICTE approval",
-    "University affiliation under SBUP"
+    "University affiliation under SBUP",
+    "Offers AICTE-approved two-year residential MBA programs."
   ],
   "awards": [
     "National rankings/ratings recognitions for management education"

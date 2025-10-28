@@ -2,9 +2,13 @@
   "id": "17",
   "slug": "arham-international-institute",
   "name": "Arham International Institute",
+  "location": "Pune, Maharashtra",
+  "established": "2023",
+  "primary_focus": "Courses in Information Security and Cyber Security. Offers B.Sc. in Cyber Security & Digital Science and PG Diploma/Advanced Diploma in Cyber Security.",
   "description": "Arham International Institute offers specialised programmes in cyber & digital sciences and related domains aimed at industry readiness.",
   "accreditation": [
-    "Institutional approvals/affiliations (as applicable)"
+    "Institutional approvals/affiliations (as applicable)",
+    "AICTE Approved, affiliated with Savitribai Phule Pune University (SPPU) for the B.Sc. program."
   ],
   "awards": [
     "Academic/industry recognitions (recent cycles)"

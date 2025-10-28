@@ -2,11 +2,15 @@
   "id": "30",
   "slug": "bharati-vidyapeeth-college",
   "name": "Bharati Vidyapeeth College",
+  "location": "Bharati Vidyapeeth Bhavan, Lal Bahadur Shastri Marg, Pune, Maharashtra",
+  "established": "1964",
+  "primary_focus": "Offers a diverse range of undergraduate programs across medicine, engineering, law, management, arts, and sciences.",
   "description": "Bharati Vidyapeeth (Deemed to be University) group colleges offer programmes in medicine, dentistry, pharmacy, nursing, engineering, law, management, arts and sciences with strong clinical and industry exposure.",
   "accreditation": [
     "UGC (Deemed-to-be University) at the parent level",
     "NAAC institutional accreditation (BVDU)",
-    "AICTE/PCI/BCI/NMC/INC approvals for applicable programmes"
+    "AICTE/PCI/BCI/NMC/INC approvals for applicable programmes",
+    "Recognized by UGC (Category-I Deemed to be University) and Accredited by NAAC with 'A+' or 'A++' Grade. Constituent units are approved by respective apex bodies like AICTE, NBA, MCI, etc."
   ],
   "awards": [
     "Frequent listings in national rankings/ratings (discipline-wise)"

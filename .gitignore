@@ -18,7 +18,7 @@ lerna-debug.log*
 .vscode/
 .idea/
 *.swp
-*.swo
+*.swo 
 
 # Environment files
 .env
