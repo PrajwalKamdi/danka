@@ -2,8 +2,14 @@
   "id": "34",
   "slug": "chhatrapati-shivaji-maharaj-university",
   "name": "CHHATRAPATI SHIVAJI MAHARAJ UNIVERSITY",
+  "location": "Navi Mumbai, Maharashtra",
+  "established": "2018",
+  "primary_focus": "A private university offering multi-disciplinary programs.",
   "description": "Chhatrapati Shivaji Maharaj University (Navi Mumbai) is a state private university offering programmes across engineering, management, commerce, sciences, law, humanities and design with industry-oriented curricula.",
   "accreditation": [
+    "Recognized as a Private University in Maharashtra and approved by the UGC.", 
+    "The Law and Pharmacy programs hold approval from the Bar Council of India (BCI).", 
+    "The Pharmacy Council of India (PCI), respectively.", 
     "UGC recognition (State Private University)",
     "AICTE/PCI/BCI/NCTE approvals for applicable programmes"
   ],

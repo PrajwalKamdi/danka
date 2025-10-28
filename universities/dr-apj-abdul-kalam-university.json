@@ -2,8 +2,12 @@
   "id": "18",
   "slug": "dr-apj-abdul-kalam-university",
   "name": "Dr A.P.J Abdul Kalam University",
+  "location": "Indore, Madhya Pradesh",
+  "established": "2016",
+  "primary_focus": "Multi-disciplinary, with a strong presence in Engineering, Pharmacy, and Professional Studies.",
   "description": "Dr. A.P.J. Abdul Kalam University (State Private University) offers UG/PG programmes across engineering, science, pharmacy, management, commerce, education and humanities with focus on employability and skills.",
   "accreditation": [
+    "The university is a member of the Association of Indian Universities (AIU)",
     "UGC recognition (State Private University)",
     "AICTE/PCI/NCTE approvals for applicable programmes"
   ],
