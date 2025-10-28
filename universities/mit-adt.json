@@ -2,10 +2,15 @@
   "id": "23",
   "slug": "mit-adt",
   "name": "MIT ADT",
+  "location": "Rajbaug, Loni Kalbhor, Pune",
+  "established": "2016",
+  "primary_focus": "Offers various programs across Technology, Design, Management, Arts, Maritime Studies, and more.",
   "description": "MIT Art, Design and Technology (MIT-ADT) University, Pune is a state private university focused on design, media, film, engineering, maritime studies, management and humanities with strong industry and creative sector linkages.",
   "accreditation": [
     "UGC recognition (State Private University)",
-    "AICTE/PCI/COA approvals for applicable programmes"
+    "AICTE/PCI/COA approvals for applicable programmes",
+    "Accredited by NAAC with an 'A' Grade and a CGPA of 3.37."
+    
   ],
   "awards": [
     "Recognised in national rankings/ratings and creative excellence awards"

@@ -2,11 +2,15 @@
   "id": "27",
   "slug": "mit-aoe",
   "name": "MIT AOE",
+  "location": "Alandi (D), Pune.",
+  "established": "1999",
+  "primary_focus":"Primarily offers B.Tech, M.Tech, and Ph.D. programs in Engineering and B.Des.",
   "description": "MIT Academy of Engineering (MITAOE), Pune is an autonomous institute offering UG/PG programmes in engineering and design with industry internships and research-driven pedagogy.",
   "accreditation": [
-    "AICTE approval",
+    "Approved by AICTE and UGC",
     "Autonomous status (as applicable)",
     "NBA accreditation for select programmes",
+    "Accredited by NAAC ('A' Grade) and NBA",
     "Affiliated to state technical university (as applicable)"
   ],
   "awards": [

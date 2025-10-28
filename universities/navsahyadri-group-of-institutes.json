@@ -2,11 +2,15 @@
   "id": "21",
   "slug": "navsahyadri-group-of-institutes",
   "name": "Navsahyadri Group of Institutes",
+  "location": "Pune, Maharashtra",
+  "established": "2009",
+  "primary_focus":"Offers programs in Engineering (B.Tech), Management (MBA, MCA), Pharmacy (B.Pharm, M.Pharm, D.Pharm), and Polytechnic (Diploma).",
   "description": "Navsahyadri Group of Institutes (Pune region) comprises engineering, management and diploma colleges with industry-linked curricula and applied learning.",
   "accreditation": [
     "AICTE approval for applicable programmes",
     "Affiliation to state public university/technical university (as applicable)",
-    "NAAC/NBA accreditations for select programmes (as applicable)"
+    "NAAC/NBA accreditations for select programmes (as applicable)",
+    "Approved by the PCI (Pharmacy Council of India) for Pharmacy programs."
   ],
   "awards": [
     "Institutional/department-level recognitions (recent cycles)"
