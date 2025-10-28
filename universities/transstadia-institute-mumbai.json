@@ -2,10 +2,14 @@
   "id": "5",
   "slug": "transstadia-institute-mumbai",
   "name": "Transstadia Institute (Mumbai)",
+  "location":"Santacruz (East), Mumbai (within the University of Mumbai's Kalina campus)",
+  "established":"2019",
+  "primary_focus":"Sports Sciences and Management",
   "description": "TransStadia Institute (Mumbai) offers multidisciplinary undergraduate programmes with a focus on sports management, AI, data science and sport administration, integrating industry projects and internships.",
   "accreditation": [
     "Affiliation/Recognition under competent authorities (as applicable)",
-    "AICTE approval for applicable programmes (as applicable)"
+    "AICTE approval for applicable programmes (as applicable)",
+    "The institute has industry affiliations with various hospitality and sports organizations."
   ],
   "awards": [
     "Industry tie-ups and recognition in sports education space"
