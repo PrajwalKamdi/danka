@@ -2,10 +2,17 @@
   "id": "35",
   "slug": "mumbai-university",
   "name": "Mumbai University",
+  "location": "Fort and Kalina (Vidyanagri) in Mumbai",
+  "established": "1857",
+  "primary_focus":"Providing high-quality, inclusive education that integrates theoretical knowledge with practical application. It is dedicated to preparing students for a globalized world through academic excellence, innovation, and industry collaboration. ",
   "description": "University of Mumbai (Mumbai, Maharashtra) is one of India’s oldest state public universities with comprehensive teaching and research across arts, science, commerce, management, law and technology; it operates numerous affiliated colleges and centres.",
   "accreditation": [
     "UGC recognition (State Public University)",
-    "NAAC institutional accreditation"
+    "Accredited by NAAC with 'A++' Grade. ",
+    "Granted University with Potential for Excellence (UPE) status by UGC.",
+
+    "NAAC institutional accreditation",
+    "Ranked 54th in the University category and 92nd in the Overall category in India."
   ],
   "awards": [
     "Regularly listed in national rankings (NIRF/ARIIA categories)"

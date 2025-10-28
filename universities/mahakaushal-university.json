@@ -2,10 +2,17 @@
   "id": "2",
   "slug": "mahakaushal-university",
   "name": "Mahakaushal University",
+  "location": "Jabalpur, Madhya Pradesh",
+  "established": "2021",
+  "primary_focus": "provide a wide range of professional and traditional education, emphasizing both academic excellence and community development",
   "description": "Mahakaushal University offers programmes in engineering, law, agriculture and yogic sciences along with diploma, UG, PG and doctoral offerings.",
   "accreditation": [
     "UGC recognition (State Private University)",
-    "AICTE/BCI approvals for applicable programmes"
+    "AICTE/BCI approvals for applicable programmes",
+    "University Grants Commission (UGC)",
+    "All India Council for Technical Education (AICTE)",
+    "Pharmacy Council of India (PCI)",
+    "Bar Council of India (BCI)"
   ],
   "awards": [
     "Recognised in regional/national listings (recent cycles)"
