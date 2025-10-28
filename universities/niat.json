@@ -2,10 +2,16 @@
   "id": "8",
   "slug": "niat",
   "name": "NIAT",
+  "location": "Telangana",
+  "established": "2016",
+  "primary_focus": "NIAT's primary focus is to bridge the skill gap between traditional academic training and the needs of the modern tech industry",
   "description": "NIAT offers undergraduate engineering programmes in Computer Science and related specialisations, with a focus on foundational CS skills, data science and AI/ML.",
   "accreditation": [
     "AICTE approval (as applicable)",
-    "Affiliated to state technical university (as applicable)"
+    "Affiliated to state technical university (as applicable)",
+    "NBA accreditation for select programmes",
+    "Degree: You will receive a formal degree, such as a Bachelor of Technology (B.Tech), from the collaborating university. These degrees are recognized by India's University Grants Commission (UGC) and the All India Council for Technical Education (AICTE). The university controls the final admission and degree-awarding decisions.",
+    "Industry-Ready Certification: In addition to the academic degree, you will earn an Industry-Ready Certificate (IRC) from NIAT. This separate certificate validates the practical, hands-on skills gained through the NIAT program. The IRC is also co-recognized by the National Skill Development Corporation (NSDC). "
   ],
   "awards": [
     "Institute-level rankings/ratings recognitions (recent cycles)"

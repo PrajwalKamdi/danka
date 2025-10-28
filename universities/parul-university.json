@@ -2,11 +2,17 @@
   "id": "14",
   "slug": "parul-university",
   "name": "Parul University",
+  "location": "Vadodara, Gujarat",
+  "established": "2009",
+  "primary_focus": "Multi-disciplinary university offering a vast array of programs across diverse fields.",
   "description": "Parul University, Vadodara (Gujarat) is a multi‑disciplinary private university with strong industry linkages, innovation ecosystem and global collaborations, offering a wide range of programmes from diploma to doctoral levels.",
   "accreditation": [
     "UGC recognition (State Private University)",
     "NAAC institutional accreditation",
-    "AICTE/PCI/COA/INC/BCI approvals for applicable programmes"
+    "AICTE/PCI/COA/INC/BCI approvals for applicable programmes",
+    "Accredited with a Grade A++ by NAAC (CGPA of 3.55). Recognized by the UGC.",
+    "Ranks in the band 101-150 among Top Universities in India and 41 in the Pharmacy category in the NIRF 2025 rankings."
+    
   ],
   "awards": [
     "NIRF‑ranked institution (latest cycle)",

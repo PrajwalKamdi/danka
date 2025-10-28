@@ -2,10 +2,14 @@
   "id": "13",
   "slug": "oriental-university",
   "name": "Oriental University",
+  "location": "Indore, Madhya Pradesh",
+  "established": "2011",
+  "primary_focus": "Wide-ranging specializations across all faculties (e.g., Civil Engineering, MBA in various fields, Agriculture, etc.).",
   "description": "Oriental University (Indore, Madhya Pradesh) offers programmes across agriculture, allied health, engineering, management, commerce and computer applications with application‑oriented curricula.",
   "accreditation": [
     "UGC recognition (State Private University)",
-    "AICTE/PCI approvals for applicable programmes (as applicable)"
+    "AICTE/PCI approvals for applicable programmes (as applicable)",
+    "A private university established under the Government of Madhya Pradesh Act, and recognized by the UGC (University Grants Commission)."
   ],
   "awards": [
     "Institutional recognitions/ratings (recent cycles)"
