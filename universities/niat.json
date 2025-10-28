@@ -6,7 +6,7 @@
   "established": "2016",
   "primary_focus": "NIAT's primary focus is to bridge the skill gap between traditional academic training and the needs of the modern tech industry",
   "description": "NIAT offers undergraduate engineering programmes in Computer Science and related specialisations, with a focus on foundational CS skills, data science and AI/ML.",
-  "image":"",
+  "image":"https://res.cloudinary.com/dtaitsw4r/image/upload/v1761652893/NIAT_twvfjn.avif",
   "accreditation": [
     "AICTE approval (as applicable)",
     "Affiliated to state technical university (as applicable)",
@@ -17,7 +17,7 @@
   "awards": [
     "Institute-level rankings/ratings recognitions (recent cycles)"
   ],
-  "website": "",
+  "website": "https://www.niatindia.com/",
   "brochureUrl": null,
   "courses": [
     {
