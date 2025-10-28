@@ -2,10 +2,18 @@
   "id": "3",
   "slug": "sanskaram-university",
   "name": "Sanskaram University",
+  "location":"Jhajjar, Haryana",
+  "established":"2024",
+  "primary_focus":"Globally-relevant teaching methods and skills.",
   "description": "Sanskaram University offers vocational and professional programmes across healthcare, management and allied sciences with a focus on skill‑based education and employability.",
   "accreditation": [
     "UGC recognition (State Private University)",
-    "Sectoral council/PCI/INC approvals for applicable programmes (as applicable)"
+    "Sectoral council/PCI/INC approvals for applicable programmes (as applicable)",
+    "All India Council for Technical Education (AICTE)",
+    "Bar Council of India (BCI)",
+    "Veterinary Council of India (VCI)",
+    "NCISM (National Commission for Indian System of Medicine)",
+    "AIU (Association of Indian Universities)"
   ],
   "awards": [
     "Recognised in regional/national listings (recent cycles)"

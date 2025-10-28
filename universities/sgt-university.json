@@ -2,6 +2,9 @@
   "id": "12",
   "slug": "sgt-university",
   "name": "SGT University",
+  "location":"Gurugram, Haryana",
+  "established":"2013",
+  "primary_focus":"Medical and Health Sciences",
   "description": "SGT University (Gurugram) is a private university known for health sciences, engineering, management, law, agriculture and humanities, featuring experiential learning and strong industry linkages.",
   "accreditation": [
     "UGC recognition (State Private University)",

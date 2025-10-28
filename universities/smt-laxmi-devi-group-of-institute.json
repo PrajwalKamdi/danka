@@ -2,11 +2,15 @@
   "id": "10",
   "slug": "smt-laxmi-devi-group-of-institute",
   "name": "SMT Laxmi Devi Group Of Institute",
+  "location":"Hoskote, Bangalore District, Karnataka",
+  "established":"2003",
+  "primary_focus":"providing high-quality education in the fields of nursing, paramedical science, pharmacy, physiotherapy, and allied health sciences.",
   "description": "SMT Laxmi Devi Group of Institute offers healthcare and paramedical programmes including Nursing, Physiotherapy, Medical Lab Technology, Imaging Technology and B.Pharm with an emphasis on clinical exposure.",
   "accreditation": [
     "State Nursing Council recognition (as applicable)",
     "Indian Nursing Council (INC) recognition (as applicable)",
-    "Pharmacy Council of India (PCI) approval for pharmacy programmes (as applicable)"
+    "Pharmacy Council of India (PCI) approval for pharmacy programmes (as applicable)",
+    "Karnataka State Nursing Council (KNC)"
   ],
   "awards": [
     "Institutional recognitions/ratings (recent cycles)"
