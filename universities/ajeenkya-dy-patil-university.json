@@ -2,10 +2,14 @@
   "id": "29",
   "slug": "ajeenkya-dy-patil-university",
   "name": "Ajeenkya DY Patil University",
+  "location": "Lohegaon/Charholi Budruk, Pune, Maharashtra",
+  "established": "2015",
+  "primary_focus": "Offers a wide range of UG, PG, and Doctoral programs across Design, Engineering, Management, Law, etc.",
   "description": "Ajeenkya DY Patil University (Pune) offers programmes in engineering, design, management, law, liberal arts and hospitality with strong industry linkages and project-based learning.",
   "accreditation": [
     "UGC recognition (State Private University)",
-    "AICTE/PCI/BCI approvals for applicable programmes"
+    "AICTE/PCI/BCI approvals for applicable programmes",
+    "Recognized by UGC and accredited by NAAC with 'A' Grade. Approved by AICTE for relevant programs and BCI for Law programs."
   ],
   "awards": [
     "Recognised in national rankings/ratings (recent cycles)"
