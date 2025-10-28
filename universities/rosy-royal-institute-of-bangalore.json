@@ -2,11 +2,17 @@
   "id": "9",
   "slug": "rosy-royal-institute-of-bangalore",
   "name": "Rosy Royal Institute of Bangalore",
+  "location": "Bengaluru (Mallapura, Nelamangala), Karnataka",
+  "established": "2016",
+  "primary_focus": "Focus is healthcare and allied health sciences education, including nursing, paramedical, and pharmacy programs.",
   "description": "Rosy Royal Institute of Bangalore offers healthcare and allied programmes including Nursing, Physiotherapy, Pharmacy, Medical Lab Technology, Imaging Technology, Optometry and BHMS, with a strong emphasis on clinical exposure.",
   "accreditation": [
     "Affiliation to recognised health sciences university (as applicable)",
     "Indian Nursing Council (INC)/State Nursing Council recognitions (as applicable)",
-    "Pharmacy Council of India (PCI) approval for pharmacy programmes (as applicable)"
+    "Pharmacy Council of India (PCI) approval for pharmacy programmes (as applicable)",
+    "Karnataka State Nursing Council (KSNC)",
+    "National Council for Teacher Education (NCTE)",
+    "Central Council of Homoeopathy (CCH)/Central Council of Indian Medicines (for Homoeopathic Medical College)"
   ],
   "awards": [
     "Institutional recognitions/ratings (recent cycles)"
